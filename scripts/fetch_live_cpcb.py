@@ -5,6 +5,7 @@ Resource ID: 3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69
 Uses http.client to prevent URL percent-encoding of square brackets.
 """
 import os
+import sys
 import json
 import http.client
 from pathlib import Path
@@ -71,6 +72,14 @@ def run():
             "max_pm25": max(vals) if vals else None,
             "latest_update": recs[0].get("last_update") if recs else None
         }
+
+    # Safety check: Do not overwrite cached telemetry if gateway returned 0 records (e.g. cloud runner geo-blocked)
+    if not all_records:
+        print("\n[ERROR] Zero records retrieved across all cities.")
+        print("[INFO] This typically happens in GitHub Actions or cloud environments (Azure/AWS) where data.gov.in (NIC)")
+        print("[INFO] firewall drops or actively refuses [Errno 111] connections from non-domestic cloud IP blocks.")
+        print("[INFO] Preserving existing cached telemetry files to prevent data wipeout. Aborting write.")
+        sys.exit(1)
 
     # Format structured output for BharatAIR Web
     output = {
