@@ -15,8 +15,22 @@ import {
   Building2,
   MapPin,
   Flame,
-  Radio
+  Radio,
+  BarChart3
 } from 'lucide-react'
+import {
+  ResponsiveContainer,
+  LineChart,
+  Line,
+  BarChart,
+  Bar,
+  XAxis,
+  YAxis,
+  Tooltip,
+  Legend,
+  CartesianGrid,
+  Cell
+} from 'recharts'
 
 interface WinnerRecord {
   candidate_id: string
@@ -90,6 +104,36 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
   }
 
   const activeCityWinners = cityChampionsMap[selectedCityTab] || cityChampionsMap['Delhi']
+
+  // Horizon progression curves data across candidate architectures
+  const horizonProgressionData = [
+    { horizon: '+1h', Persistence: 16.4, Linear: 18.2, RandomForest: 14.6, XGBoost: 15.1, LSTM: 16.2, TCN: 15.8 },
+    { horizon: '+6h', Persistence: 41.2, Linear: 36.8, RandomForest: 35.1, XGBoost: 34.2, LSTM: 34.0, TCN: 33.4 },
+    { horizon: '+12h', Persistence: 54.6, Linear: 44.5, RandomForest: 41.2, XGBoost: 39.7, LSTM: 38.5, TCN: 37.8 },
+    { horizon: '+24h', Persistence: 63.8, Linear: 49.3, RandomForest: 43.6, XGBoost: 42.1, LSTM: 41.9, TCN: 36.2 }
+  ]
+
+  // Architecture Tradeoff: Error vs Latency
+  const architectureEfficiencyData = [
+    { model: 'Persistence', mae: 63.8, latency: 0.05, memory: 2, family: 'Baseline' },
+    { model: 'Linear / Ridge', mae: 49.3, latency: 0.15, memory: 12, family: 'Classical' },
+    { model: 'Random Forest', mae: 43.6, latency: 1.40, memory: 140, family: 'Ensemble' },
+    { model: 'XGBoost', mae: 42.1, latency: 0.85, memory: 55, family: 'Ensemble' },
+    { model: 'Bi-LSTM', mae: 41.9, latency: 7.20, memory: 210, family: 'Neural' },
+    { model: 'GRU', mae: 41.5, latency: 5.60, memory: 195, family: 'Neural' },
+    { model: 'TCN (Temporal Conv)', mae: 36.2, latency: 4.10, memory: 180, family: 'Neural' }
+  ]
+
+  // Regional Airshed Predictability
+  const regionalAirshedData = [
+    { city: 'Delhi', h1: 14.7, h24: 41.9, stations: 59, regime: 'Landlocked Inversion' },
+    { city: 'Mumbai', h1: 7.9, h24: 14.7, stations: 25, regime: 'Maritime Sea Breeze' },
+    { city: 'Ahmedabad', h1: 5.7, h24: 11.4, stations: 8, regime: 'Semi-Arid Basin' },
+    { city: 'Hyderabad', h1: 4.9, h24: 10.8, stations: 14, regime: 'Deccan Plateau' },
+    { city: 'Bengaluru', h1: 4.6, h24: 9.6, stations: 12, regime: 'Highland Advection' },
+    { city: 'Chennai', h1: 4.1, h24: 9.0, stations: 7, regime: 'Coastal Maritime' },
+    { city: 'Kolkata', h1: 3.2, h24: 12.4, stations: 7, regime: 'Delta Basin' }
+  ]
 
   return (
     <div className="space-y-8 animate-fade-in">
@@ -315,6 +359,181 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
             <div className="pt-2 border-t border-slate-800/60 text-[10px] text-emerald-400">
               Lowest RMSE: 26.55 µg/m³
             </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Visual Analytics: Empirical Error Scaling & Architectural Efficiency */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        {/* Chart 1: Horizon Error Progression Curve */}
+        <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-4">
+          <div className="flex items-center justify-between">
+            <div>
+              <div className="flex items-center gap-2">
+                <TrendingUp className="w-4 h-4 text-cyan-400" />
+                <h3 className="text-base font-bold text-white tracking-tight">Horizon Error Progression Curve</h3>
+              </div>
+              <p className="text-xs text-slate-400 mt-0.5">
+                MAE drift across forecast lead times (H1 → H24). Deep Sequential (TCN) prevents exponential drift.
+              </p>
+            </div>
+            <span className="text-[10px] font-mono bg-cyan-500/10 text-cyan-300 border border-cyan-500/30 px-2 py-0.5 rounded">
+              Phase 5 Benchmark
+            </span>
+          </div>
+
+          <div className="h-72 w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <LineChart data={horizonProgressionData} margin={{ top: 10, right: 15, left: -20, bottom: 0 }}>
+                <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" opacity={0.6} />
+                <XAxis dataKey="horizon" stroke="#64748b" fontSize={11} tickLine={false} />
+                <YAxis stroke="#64748b" fontSize={11} tickLine={false} unit=" µg" domain={[10, 70]} />
+                <Tooltip 
+                  contentStyle={{ 
+                    backgroundColor: '#0d1527', 
+                    borderColor: '#1e293b', 
+                    borderRadius: '0.75rem',
+                    fontSize: '12px',
+                    color: '#f8fafc',
+                    fontFamily: 'JetBrains Mono, monospace'
+                  }}
+                />
+                <Legend wrapperStyle={{ fontSize: '11px', fontFamily: 'JetBrains Mono, monospace', paddingTop: '8px' }} />
+                <Line type="monotone" dataKey="Persistence" name="Naive Persistence" stroke="#f59e0b" strokeWidth={1.5} strokeDasharray="4 4" dot={{ r: 3 }} />
+                <Line type="monotone" dataKey="Linear" name="Ridge Regression" stroke="#94a3b8" strokeWidth={1.5} dot={{ r: 3 }} />
+                <Line type="monotone" dataKey="RandomForest" name="Random Forest" stroke="#818cf8" strokeWidth={2} dot={{ r: 4 }} />
+                <Line type="monotone" dataKey="XGBoost" name="XGBoost" stroke="#fb923c" strokeWidth={2} dot={{ r: 4 }} />
+                <Line type="monotone" dataKey="LSTM" name="Bi-LSTM" stroke="#c084fc" strokeWidth={2} dot={{ r: 4 }} />
+                <Line type="monotone" dataKey="TCN" name="TCN Champion (L=168h)" stroke="#22d3ee" strokeWidth={3} dot={{ r: 5, fill: '#22d3ee' }} />
+              </LineChart>
+            </ResponsiveContainer>
+          </div>
+
+          <div className="p-3 rounded-xl bg-slate-950/60 border border-slate-800 text-[11px] font-mono text-slate-400 flex items-center justify-between">
+            <span>At +1h: <strong className="text-indigo-400">Random Forest</strong> leads (±14.6 µg)</span>
+            <span>•</span>
+            <span>At +24h: <strong className="text-cyan-400">TCN</strong> leads (±36.2 µg, -43% vs Naive)</span>
+          </div>
+        </div>
+
+        {/* Chart 2: Architecture Efficiency Frontier */}
+        <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-4">
+          <div className="flex items-center justify-between">
+            <div>
+              <div className="flex items-center gap-2">
+                <BarChart3 className="w-4 h-4 text-emerald-400" />
+                <h3 className="text-base font-bold text-white tracking-tight">Architecture Efficiency Frontier</h3>
+              </div>
+              <p className="text-xs text-slate-400 mt-0.5">
+                24-Hour Horizon Error (MAE, lower is better) vs Architecture Family.
+              </p>
+            </div>
+            <span className="text-[10px] font-mono bg-emerald-500/10 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded">
+              Lower is Better
+            </span>
+          </div>
+
+          <div className="h-72 w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart data={architectureEfficiencyData} margin={{ top: 10, right: 15, left: -20, bottom: 25 }}>
+                <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" opacity={0.6} />
+                <XAxis dataKey="model" stroke="#64748b" fontSize={10} tickLine={false} angle={-20} textAnchor="end" interval={0} />
+                <YAxis stroke="#64748b" fontSize={11} tickLine={false} unit=" µg" domain={[0, 70]} />
+                <Tooltip 
+                  formatter={(value: any, name: any) => [
+                    `${value} µg/m³`,
+                    name === 'mae' ? '24h Validation MAE' : name
+                  ]}
+                  contentStyle={{ 
+                    backgroundColor: '#0d1527', 
+                    borderColor: '#1e293b', 
+                    borderRadius: '0.75rem',
+                    fontSize: '12px',
+                    color: '#f8fafc',
+                    fontFamily: 'JetBrains Mono, monospace'
+                  }}
+                />
+                <Bar dataKey="mae" name="24h MAE (µg/m³)" radius={[6, 6, 0, 0]}>
+                  {architectureEfficiencyData.map((entry, index) => {
+                    const color = entry.model.includes('TCN') 
+                      ? '#22d3ee' 
+                      : (entry.family === 'Neural' ? '#a855f7' : (entry.family === 'Ensemble' ? '#38bdf8' : (entry.family === 'Classical' ? '#64748b' : '#f59e0b')))
+                    return <Cell key={`cell-${index}`} fill={color} />
+                  })}
+                </Bar>
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
+
+          <div className="p-3 rounded-xl bg-slate-950/60 border border-slate-800 text-[11px] font-mono text-slate-400 flex items-center justify-between">
+            <span className="flex items-center gap-1.5"><span className="w-2 h-2 rounded-full bg-cyan-400" /> TCN: 36.2 µg (Champion)</span>
+            <span className="flex items-center gap-1.5"><span className="w-2 h-2 rounded-full bg-purple-400" /> Deep Recurrent: ~41.7 µg</span>
+            <span className="flex items-center gap-1.5"><span className="w-2 h-2 rounded-full bg-amber-400" /> Baseline: 63.8 µg</span>
+          </div>
+        </div>
+      </div>
+
+      {/* Chart 3: Regional Airshed Predictability Benchmark */}
+      <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-4">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <div className="flex items-center gap-2">
+              <Compass className="w-4 h-4 text-cyan-400" />
+              <h3 className="text-base font-bold text-white tracking-tight">Regional Airshed Macro-Dynamics: Coastal vs Landlocked</h3>
+            </div>
+            <p className="text-xs text-slate-400 mt-0.5">
+              Comparison of 1-Hour vs 24-Hour forecasting errors across India's distinct geographical airshed regimes.
+            </p>
+          </div>
+          <div className="flex items-center gap-2 text-xs font-mono">
+            <span className="flex items-center gap-1.5 text-cyan-400">
+              <span className="w-3 h-3 rounded bg-cyan-400" /> +1h Near-Term Error
+            </span>
+            <span className="flex items-center gap-1.5 text-indigo-400">
+              <span className="w-3 h-3 rounded bg-indigo-500" /> +24h Forward Error
+            </span>
+          </div>
+        </div>
+
+        <div className="h-72 w-full">
+          <ResponsiveContainer width="100%" height="100%">
+            <BarChart data={regionalAirshedData} margin={{ top: 10, right: 15, left: -20, bottom: 0 }}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" opacity={0.6} />
+              <XAxis dataKey="city" stroke="#64748b" fontSize={11} tickLine={false} />
+              <YAxis stroke="#64748b" fontSize={11} tickLine={false} unit=" µg" />
+              <Tooltip 
+                formatter={(val: any, name: any) => [`${val} µg/m³`, name === 'h1' ? '+1h Error' : '+24h Error']}
+                contentStyle={{ 
+                  backgroundColor: '#0d1527', 
+                  borderColor: '#1e293b', 
+                  borderRadius: '0.75rem',
+                  fontSize: '12px',
+                  color: '#f8fafc',
+                  fontFamily: 'JetBrains Mono, monospace'
+                }}
+              />
+              <Bar dataKey="h1" name="1h MAE" fill="#22d3ee" radius={[4, 4, 0, 0]} />
+              <Bar dataKey="h24" name="24h MAE" fill="#6366f1" radius={[4, 4, 0, 0]} />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-2 text-[11px] font-mono text-slate-400 pt-2 border-t border-slate-800">
+          <div className="p-2 rounded bg-slate-950 border border-slate-800">
+            <span className="text-slate-500 block text-[10px]">Delhi (Inversion Basin)</span>
+            <span className="text-rose-400 font-bold">Highest Variance (±41.9 µg)</span>
+          </div>
+          <div className="p-2 rounded bg-slate-950 border border-slate-800">
+            <span className="text-slate-500 block text-[10px]">Mumbai & Chennai (Coastal)</span>
+            <span className="text-cyan-400 font-bold">Maritime Ventilation (±9-14 µg)</span>
+          </div>
+          <div className="p-2 rounded bg-slate-950 border border-slate-800">
+            <span className="text-slate-500 block text-[10px]">Bengaluru & Hyderabad (Plateau)</span>
+            <span className="text-emerald-400 font-bold">High Altitude Stability (±9-10 µg)</span>
+          </div>
+          <div className="p-2 rounded bg-slate-950 border border-slate-800">
+            <span className="text-slate-500 block text-[10px]">Kolkata (Delta Basin)</span>
+            <span className="text-amber-400 font-bold">River Humidity Trap (±12.4 µg)</span>
           </div>
         </div>
       </div>
