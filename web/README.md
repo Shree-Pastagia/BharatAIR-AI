@@ -10,7 +10,7 @@
 - **Instant Comprehension (Apple Weather Style)**: Big, clear PM2.5 readouts with official Indian National Air Quality Index (NAQI) color scales and plain-English health guidance.
 - **Predictive Horizon Scrubber**: Interactive toggles for **+1h, +6h, +12h, and +24h** forecasts with real-time error margins (MAE).
 - **Ground Truth vs. AI Forecast Charts**: High-frequency interactive time-series curves comparing actual CPCB sensor telemetry against deep sequence models (TCN) and classical ensembles (XGBoost/Random Forest).
-- **Model Duel & Leaderboard**: Head-to-head empirical comparisons across 6 model architectures with training times and error metrics.
+- **Model Duel & Leaderboard**: Head-to-head empirical comparisons across the 4 core presentation architectures (Linear Regression, Random Forest, XGBoost, and TCN) with training times and error metrics.
 - **Scientific Audit**: Transparent documentation of chronological train/val splits and zero-leakage cryptographic guarantees.
 
 ---

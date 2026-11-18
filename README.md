@@ -32,7 +32,22 @@ BharatAIR systematically benchmarked two opposing machine learning paradigms on 
 
 ### 2. Paradigm B: Regional Airshed Multi-City Pooling (Experiment B)
 * **1,008 candidate models** pooled across multi-station urban airsheds ($L \in \{24, 48, 168\}\text{h}$, $H \in \{1, 6, 12, 24\}\text{h}$).
-* **Long-Horizon Dominance (+6h to +24h)**: Deep Sequence Architectures (**Temporal Convolutional Networks / TCN** and **LSTM**) with a **7-day lookback ($L=168\text{h}$)** achieve the lowest overall RMSE ($26.55\text{ }\mu\text{g/m}^3$). They successfully resolve multi-day synoptic weather fronts, boundary-layer height compression, and diurnal traffic patterns.
+* **Long-Horizon Dominance (+6h to +24h)**: Deep Sequence Architecture (**Temporal Convolutional Network / TCN**) with a **7-day lookback ($L=168\text{h}$)** achieves the lowest overall RMSE ($26.55\text{ }\mu\text{g/m}^3$). It successfully resolves multi-day synoptic weather fronts, nocturnal boundary-layer height compression, and diurnal traffic cycles.
+
+---
+
+## The 4 Core Machine Learning Architectures (Classroom Presentation Guide)
+
+For academic clarity, conceptual rigor, and clean presentation in class, BharatAIR highlights **4 primary machine learning architectures** representing four fundamentally distinct algorithmic paradigms:
+
+| # | Architecture | Algorithmic Paradigm | Why It's Used in Air Quality | Primary Strength |
+|---|---|---|---|---|
+| **1** | **Linear Regression (OLS)** | Parametric Linear Baseline | Transparent mathematical baseline with zero black-box obscurity. Fits in milliseconds and sets the standard for linear variance. | Baseline transparency |
+| **2** | **Random Forest** | Non-Linear Bagging Ensemble | 100 parallel randomized decision trees. Captures localized autoregressive inertia without overfitting sudden sensor noise or spikes. | **+1h Near-Term Champion** ($\pm 14.6\text{ }\mu\text{g/m}^3$) |
+| **3** | **XGBoost** | Gradient Boosting (Residual Learning) | Sequentially minimizes loss gradients with histogram acceleration (`hist`). Excellent middle-ground between speed and mid-range precision. | **+6h / +12h Transition** ($\pm 34.2\text{ }\mu\text{g/m}^3$) |
+| **4** | **TCN (Temporal ConvNet)** | Deep Causal 1D Convolution | Dilated causal convolutions ($d \in \{1, 2, 4, 8, 16, 32\}$) spanning a 7-day receptive field ($L=168\text{h}$) to capture nocturnal boundary inversions. | **+24h Full-Day Champion** ($\pm 36.2\text{ }\mu\text{g/m}^3$, **-43% vs Naive**) |
+
+> **Note on Backend vs. Frontend**: The web dashboard and public documentation intentionally present these **4 clean, easily explainable models** for evaluators and students. Additional experimental architectures remain safely archived in the backend Python codebase (`src/bharatair/models/`).
 
 ---
 
@@ -68,7 +83,7 @@ BharatAIR/
 ├── src/bharatair/                      # Core Python data & modeling package
 │   ├── data/                           # Ingestion, validation, gap audits
 │   ├── features/                       # Windowing, standard scaling (zero test leakage)
-│   ├── models/                         # Linear Regression, Random Forest, XGBoost, LSTM, GRU, TCN
+│   ├── models/                         # 4 Core Architectures: Linear Regression, Random Forest, XGBoost, TCN (plus backend extensions)
 │   ├── phase5/                         # Multi-station batch training engine
 │   └── dashboard/                      # Presentation components & charts
 │

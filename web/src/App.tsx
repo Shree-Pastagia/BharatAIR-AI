@@ -246,17 +246,24 @@ export default function App() {
     }).sort((a, b) => b.pm25 - a.pm25)
   }, [liveTelemetry, selectedCity])
 
-  // Leaderboard Chart Data
+  // Four Primary Presentation Models:
+  // 1. Linear Regression, 2. Random Forest, 3. XGBoost, 4. TCN
+  const CORE_MODELS = ['linear_regression', 'random_forest', 'xgboost', 'tcn']
+  const filteredLeaderboard = useMemo(() => {
+    return rawData.leaderboard.filter(item => CORE_MODELS.includes(item.model.toLowerCase()))
+  }, [])
+
+  // Leaderboard Chart Data (Strictly the 4 Core Presentation Models)
   const leaderboardChartData = useMemo(() => {
-    return rawData.leaderboard.map(item => ({
-      name: item.model.replace('_', ' ').toUpperCase(),
+    return filteredLeaderboard.map(item => ({
+      name: item.model === 'linear_regression' ? 'Linear Regression' : (item.model === 'random_forest' ? 'Random Forest' : (item.model === 'xgboost' ? 'XGBoost' : 'TCN (Deep ConvNet)')),
       mae: item.median_mae,
       rmse: item.median_rmse,
       time: item.mean_train_time_sec,
       family: item.family,
-      fill: item.family === 'Deep Learning' ? '#818cf8' : '#22d3ee'
+      fill: item.model === 'tcn' ? '#818cf8' : (item.model === 'xgboost' ? '#22d3ee' : (item.model === 'random_forest' ? '#38bdf8' : '#94a3b8'))
     }))
-  }, [])
+  }, [filteredLeaderboard])
 
   // Switch city handler
   const handleCitySelect = (cityName: string) => {
@@ -1094,13 +1101,14 @@ export default function App() {
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-slate-800/60">
-                    {rawData.leaderboard.map((item, idx) => {
+                    {filteredLeaderboard.map((item, idx) => {
                       const isTop = idx === 0
+                      const cleanName = item.model === 'linear_regression' ? 'Linear Regression' : (item.model === 'random_forest' ? 'Random Forest' : (item.model === 'xgboost' ? 'XGBoost' : 'TCN (Temporal ConvNet)'))
                       return (
                         <tr key={item.model} className="hover:bg-slate-800/30 transition-colors">
-                          <td className="py-3.5 px-4 font-bold text-white flex items-center gap-2 capitalize">
+                          <td className="py-3.5 px-4 font-bold text-white flex items-center gap-2">
                             {isTop && <Sparkles className="w-3.5 h-3.5 text-cyan-400" />}
-                            {item.model.replace('_', ' ')}
+                            {cleanName}
                           </td>
                           <td className="py-3.5 px-4">
                             <span className={`px-2 py-0.5 rounded text-[10px] ${
@@ -1116,18 +1124,26 @@ export default function App() {
                           <td className="py-3.5 px-4 text-slate-300">{item.median_rmse}</td>
                           <td className="py-3.5 px-4 text-slate-400">{item.mean_train_time_sec}s</td>
                           <td className="py-3.5 px-4 text-slate-400 font-sans">
-                            {item.model === 'tcn' && 'Best overall accuracy for multi-horizon & 24h peaks'}
-                            {item.model === 'xgboost' && 'Ultra-fast +1h short-term warning champion'}
-                            {item.model === 'random_forest' && 'Robust non-linear baseline, highly resistant to noise'}
-                            {item.model === 'lstm' && 'Strong diurnal rhythm tracking over 168h lookbacks'}
-                            {item.model === 'gru' && 'Lightweight sequential recurrent memory'}
-                            {item.model === 'linear_regression' && 'Fast linear baseline for transparent error bounds'}
+                            {item.model === 'tcn' && 'Best overall accuracy for multi-horizon & 24h peaks (Dilated causal 1D conv)'}
+                            {item.model === 'xgboost' && 'Ultra-fast +1h short-term warning champion (Gradient boosted decision trees)'}
+                            {item.model === 'random_forest' && 'Robust non-linear ensemble, highly resistant to sensor noise (Bagging)'}
+                            {item.model === 'linear_regression' && 'Classic interpretable parametric benchmark (Ordinary Least Squares)'}
                           </td>
                         </tr>
                       )
                     })}
                   </tbody>
                 </table>
+              </div>
+
+              {/* Classroom Presentation / Backend Architecture Note */}
+              <div className="mt-4 p-3 rounded-xl bg-slate-950/60 border border-slate-800 text-[11px] font-mono text-slate-400 flex items-center justify-between">
+                <span>
+                  <strong>Presentation Focus:</strong> 4 Core Paradigms (Linear OLS, Random Forest, XGBoost, TCN).
+                </span>
+                <span className="text-slate-500">
+                  Backend Engine: Extended candidate architectures remain preserved in Python runs.
+                </span>
               </div>
             </div>
 

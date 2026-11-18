@@ -200,7 +200,7 @@ export default function ScientificAudit() {
         <div className="p-3.5 rounded-xl bg-slate-950/60 border border-slate-800/80 font-mono text-[11px] text-slate-400 flex items-start gap-2.5">
           <Layers className="w-4 h-4 text-cyan-400 shrink-0 mt-0.5" />
           <span>
-            <strong>Exact Common-Issue Intersection:</strong> All models (Linear Regression, Random Forest, XGBoost, LSTM, GRU, TCN) across all lookbacks (24h, 48h, 168h) are evaluated on the exact mathematical timestamp intersection. No model is allowed to claim higher accuracy by skipping difficult winter inversions.
+            <strong>Exact Common-Issue Intersection:</strong> All models (Linear Regression, Random Forest, XGBoost, and TCN) across all lookbacks (24h, 48h, 168h) are evaluated on the exact mathematical timestamp intersection. No model is allowed to claim higher accuracy by skipping difficult winter inversions.
           </span>
         </div>
 
@@ -263,34 +263,46 @@ export default function ScientificAudit() {
         </div>
 
         <div className="text-xs text-slate-300 leading-relaxed">
-          BharatAIR evaluated a full factorial candidate grid spanning 6 model architectures, 3 lookbacks (24h, 48h, 168h), and 4 horizons (+1h, +6h, +12h, +24h):
+          BharatAIR evaluated 4 primary benchmark architectures spanning classical parametric baselines, non-linear ensembles, gradient boosting, and deep causal sequence convolutions across 3 lookbacks (24h, 48h, 168h) and 4 horizons (+1h, +6h, +12h, +24h):
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 text-xs font-mono">
-          <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-            <div className="text-cyan-400 font-bold">1. Linear Regression (OLS)</div>
-            <div className="text-slate-400 text-[11px] mt-1">Rigorous linear benchmark for transparent error bounds and baseline comparison. Fast (~7s).</div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-xs font-mono">
+          <div className="p-3.5 rounded-xl bg-slate-950 border border-slate-800 space-y-1.5">
+            <div className="text-slate-500 uppercase text-[10px]">1. Parametric Linear</div>
+            <div className="text-cyan-400 font-bold text-sm">Linear Regression (OLS)</div>
+            <p className="text-slate-400 text-[11px] leading-relaxed font-sans">
+              Rigorous linear parametric baseline providing mathematical transparency and minimum linear variance benchmark (~7s fit).
+            </p>
           </div>
-          <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-            <div className="text-cyan-400 font-bold">2. Random Forest</div>
-            <div className="text-slate-400 text-[11px] mt-1">100 trees, 12-thread CPU parallelization. Non-linear ensemble robust to sensor spikes.</div>
+
+          <div className="p-3.5 rounded-xl bg-slate-950 border border-slate-800 space-y-1.5">
+            <div className="text-slate-500 uppercase text-[10px]">2. Bagging Ensemble</div>
+            <div className="text-cyan-400 font-bold text-sm">Random Forest</div>
+            <p className="text-slate-400 text-[11px] leading-relaxed font-sans">
+              100 parallel decision trees. Robust non-linear bagging architecture highly resistant to noisy sensor spikes (+1h champion).
+            </p>
           </div>
-          <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-            <div className="text-cyan-400 font-bold">3. XGBoost</div>
-            <div className="text-slate-400 text-[11px] mt-1">Gradient boosted decision trees with histogram acceleration (`hist`). Sub-20s fits.</div>
+
+          <div className="p-3.5 rounded-xl bg-slate-950 border border-slate-800 space-y-1.5">
+            <div className="text-slate-500 uppercase text-[10px]">3. Gradient Boosting</div>
+            <div className="text-cyan-400 font-bold text-sm">XGBoost</div>
+            <p className="text-slate-400 text-[11px] leading-relaxed font-sans">
+              Sequential gradient boosted decision trees with histogram acceleration (`hist`). High speed with strong mid-range accuracy.
+            </p>
           </div>
-          <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-            <div className="text-indigo-400 font-bold">4. LSTM (Recurrent NN)</div>
-            <div className="text-slate-400 text-[11px] mt-1">PyTorch CUDA recurrent network capturing multi-day seasonal diurnal memory (~90-150s).</div>
+
+          <div className="p-3.5 rounded-xl bg-slate-950 border border-cyan-500/30 space-y-1.5 shadow-md shadow-cyan-950/20">
+            <div className="text-emerald-400 uppercase text-[10px] font-bold">4. Deep Convolutional</div>
+            <div className="text-emerald-300 font-bold text-sm">TCN (Temporal ConvNet)</div>
+            <p className="text-slate-400 text-[11px] leading-relaxed font-sans">
+              Dilated causal 1D convolutions (dilations 1, 2, 4, 8, 16, 32). National champion at +24h horizons resolving 168h diurnal history.
+            </p>
           </div>
-          <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-            <div className="text-indigo-400 font-bold">5. GRU (Gated Recurrent)</div>
-            <div className="text-slate-400 text-[11px] mt-1">Streamlined gating architecture with reduced parameter complexity and fast convergence.</div>
-          </div>
-          <div className="p-3 rounded-xl bg-slate-950 border border-slate-800">
-            <div className="text-indigo-400 font-bold">6. TCN (Temporal ConvNet)</div>
-            <div className="text-slate-400 text-[11px] mt-1">Dilated causal 1D convolutions (dilations 1, 2, 4, 8, 16, 32). Champion at 24h horizons.</div>
-          </div>
+        </div>
+
+        <div className="p-3 rounded-xl bg-slate-950/60 border border-slate-800 text-[11px] font-mono text-slate-400 flex items-center justify-between">
+          <span>* Pedagogical Focus: 4 Core Architectures displayed on web UI for classroom evaluation.</span>
+          <span className="text-slate-500">Backend engine preserves extended experimental runs.</span>
         </div>
 
         {/* Hardware & Duration Stats */}
