@@ -1,0 +1,18 @@
+{
+  "model": "random_forest",
+  "family": "traditional_ml",
+  "input_hours": 24,
+  "horizon_hours": 6,
+  "seed": 2448,
+  "hyperparameters": {
+    "n_estimators": 80,
+    "max_depth": 14,
+    "min_samples_leaf": 3,
+    "max_features": 0.8,
+    "n_jobs": 4
+  },
+  "train_rows": 40437,
+  "validation_rows_scored": 7305,
+  "checkpoint": "models\\random_forest_L24_H6.joblib",
+  "validation_metric": "MAE"
+}

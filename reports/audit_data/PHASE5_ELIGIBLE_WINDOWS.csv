@@ -1,0 +1,1345 @@
+station_id,station_name,city,cohort,eligibility_tier,lookback_hours,horizon_hours,train_eligible_windows,validation_eligible_windows,test_eligible_timestamps_only,purged_cross_boundary_windows,common_168h_cohort_train,common_168h_cohort_validation,common_168h_cohort_test_timestamp_only
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,24,1,43461,8650,8853,1,18387,2442,3407
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,48,1,36510,7053,7512,0,18387,2442,3407
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,168,1,18387,2442,3407,0,18387,2442,3407
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,24,6,41879,8282,8563,6,17964,2337,3309
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,48,6,35285,6754,7255,0,17964,2337,3309
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,168,6,17964,2337,3309,0,17964,2337,3309
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,24,12,40076,7881,8219,7,17464,2212,3201
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,48,12,33878,6406,6959,0,17464,2212,3201
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,168,12,17464,2212,3201,0,17464,2212,3201
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,24,24,36762,7114,7558,7,16487,1977,2997
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,48,24,31275,5753,6439,0,16487,1977,2997
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,primary_seven_city_a_b,A,168,24,16487,1977,2997,0,16487,1977,2997
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,1,8985,3757,9901,0,7651,2900,5701
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,1,8737,3613,9038,0,7651,2900,5701
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,1,7651,2900,5701,0,7651,2900,5701
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,6,8930,3727,9715,0,7606,2875,5605
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,6,8687,3583,8868,0,7606,2875,5605
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,6,7606,2875,5605,0,7606,2875,5605
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,12,8867,3691,9495,0,7552,2845,5491
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,12,8632,3547,8664,0,7552,2845,5491
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,12,7552,2845,5491,0,7552,2845,5491
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,24,8747,3619,9072,0,7444,2785,5263
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,24,8524,3475,8273,0,7444,2785,5263
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,24,7444,2785,5263,0,7444,2785,5263
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,1,6033,8717,9225,1,3819,7701,4938
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,1,5570,8541,8280,0,3819,7701,4938
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,1,3819,7701,4938,0,3819,7701,4938
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,6,5932,8677,9017,6,3767,7666,4848
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,6,5487,8506,8087,0,3767,7666,4848
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,6,3767,7666,4848,0,3767,7666,4848
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,12,5812,8632,8778,9,3712,7624,4740
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,12,5391,8464,7868,0,3712,7624,4740
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,12,3712,7624,4740,0,3712,7624,4740
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,24,5587,8548,8310,9,3604,7540,4554
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,24,5199,8380,7461,0,3604,7540,4554
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,24,3604,7540,4554,0,3604,7540,4554
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,1,7260,8188,10188,1,4159,5738,5662
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,1,6569,7722,9299,1,4159,5738,5662
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,1,4159,5738,5662,1,4159,5738,5662
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,6,7114,8088,9996,6,4100,5668,5552
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,6,6429,7632,9114,6,4100,5668,5552
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,6,4100,5668,5552,6,4100,5668,5552
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,12,6940,7968,9768,12,4034,5584,5427
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,12,6276,7524,8903,12,4034,5584,5427
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,12,4034,5584,5427,12,4034,5584,5427
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,24,6597,7740,9322,14,3902,5422,5213
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,24,5988,7308,8513,14,3902,5422,5213
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,24,3902,5422,5213,14,3902,5422,5213
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,1,7688,9327,5235,1,5500,8175,2817
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,1,7303,9135,4682,1,5500,8175,2817
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,1,5500,8175,2817,1,5500,8175,2817
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,6,7607,9287,5110,6,5431,8135,2762
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,6,7223,9095,4571,6,5431,8135,2762
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,6,5431,8135,2762,6,5431,8135,2762
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,12,7511,9239,4963,12,5353,8087,2696
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,12,7127,9047,4439,12,5353,8087,2696
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,12,5353,8087,2696,12,5353,8087,2696
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,24,7319,9143,4681,24,5197,8001,2564
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,24,6942,8951,4175,24,5197,8001,2564
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,24,5197,8001,2564,14,5197,8001,2564
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,1,9069,8684,7053,1,8386,7786,4540
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,1,8925,8451,6600,1,8386,7786,4540
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,1,8386,7786,4540,1,8386,7786,4540
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,6,9039,8629,6952,6,8366,7766,4465
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,6,8895,8416,6505,6,8366,7766,4465
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,6,8366,7766,4465,6,8366,7766,4465
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,12,9003,8564,6832,12,8342,7742,4375
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,12,8859,8374,6391,12,8342,7742,4375
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,12,8342,7742,4375,12,8342,7742,4375
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,24,8931,8459,6595,24,8294,7694,4195
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,24,8787,8302,6163,24,8294,7694,4195
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,24,8294,7694,4195,24,8294,7694,4195
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,1,8410,5755,8421,1,6065,3120,2886
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,1,7920,5166,7051,1,6065,3120,2886
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,1,6065,3120,2886,1,6065,3120,2886
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,6,8291,5624,8106,6,6000,3050,2771
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,6,7825,5059,6791,6,6000,3050,2771
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,6,6000,3050,2771,6,6000,3050,2771
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,12,8168,5475,7742,12,5922,2966,2633
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,12,7711,4933,6482,12,5922,2966,2633
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,12,5922,2966,2633,12,5922,2966,2633
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,24,24,7939,5188,7089,14,5766,2808,2404
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,48,24,7510,4681,5917,14,5766,2808,2404
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,primary_seven_city_a_b,B,168,24,5766,2808,2404,14,5766,2808,2404
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,1,24198,8681,10749,2,11610,2715,6596
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,1,20725,6899,9527,2,11610,2715,6596
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,1,11610,2715,6596,1,11610,2715,6596
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,6,23378,8252,10462,12,11360,2614,6519
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,6,20150,6588,9326,12,11360,2614,6519
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,6,11360,2614,6519,6,11360,2614,6519
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,12,22472,7787,10134,24,11063,2500,6431
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,12,19490,6221,9098,24,11063,2500,6431
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,12,11063,2500,6431,12,11063,2500,6431
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,24,20846,6939,9544,48,10480,2294,6270
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,24,18295,5582,8690,48,10480,2294,6270
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,24,10480,2294,6270,24,10480,2294,6270
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,1,25707,7135,8654,2,11358,1916,3377
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,1,22237,5382,7102,2,11358,1916,3377
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,1,11358,1916,3377,1,11358,1916,3377
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,6,24926,6702,8279,12,11080,1848,3276
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,6,21607,5102,6836,12,11080,1848,3276
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,6,11080,1848,3276,6,11080,1848,3276
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,12,24030,6230,7872,24,10754,1777,3156
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,12,20867,4789,6536,24,10754,1777,3156
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,12,10754,1777,3156,6,10754,1777,3156
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,24,22366,5417,7133,48,10146,1654,2925
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,24,19468,4204,6008,48,10146,1654,2925
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,24,10146,1654,2925,6,10146,1654,2925
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,1,29202,10550,11685,1,21445,5185,8003
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,1,27448,9342,10809,1,21445,5185,8003
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,1,21445,5185,8003,0,21445,5185,8003
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,6,28807,10286,11482,6,21249,5081,7913
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,6,27118,9107,10648,6,21249,5081,7913
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,6,21249,5081,7913,0,21249,5081,7913
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,12,28363,9983,11242,12,21015,4961,7805
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,12,26743,8829,10456,12,21015,4961,7805
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,12,21015,4961,7805,0,21015,4961,7805
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,24,27515,9390,10818,24,20547,4751,7605
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,24,26037,8301,10098,24,20547,4751,7605
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,24,20547,4751,7605,0,20547,4751,7605
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,1,17899,9370,9574,2,2993,4246,4570
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,1,12129,7920,7891,0,2993,4246,4570
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,1,2993,4246,4570,0,2993,4246,4570
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,6,16450,9014,9191,9,2871,4146,4490
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,6,11246,7682,7627,0,2871,4146,4490
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,6,2871,4146,4490,0,2871,4146,4490
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,12,14900,8613,8743,15,2728,4026,4397
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,12,10313,7408,7327,0,2728,4026,4397
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,12,2728,4026,4397,0,2728,4026,4397
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,24,12319,7952,7948,17,2467,3786,4218
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,24,8759,6906,6801,0,2467,3786,4218
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,24,2467,3786,4218,0,2467,3786,4218
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,1,20087,9169,9048,2,4686,3538,3970
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,1,14378,7558,7488,1,4686,3538,3970
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,1,4686,3538,3970,1,4686,3538,3970
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,6,18698,8783,8665,10,4531,3443,3875
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,6,13454,7286,7233,6,4531,3443,3875
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,6,4531,3443,3875,6,4531,3443,3875
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,12,17175,8350,8238,16,4345,3331,3761
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,12,12482,6986,6952,12,4345,3331,3761
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,12,4345,3331,3761,12,4345,3331,3761
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,24,14574,7611,7517,28,3986,3124,3558
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,24,10880,6444,6437,24,3986,3124,3558
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,24,3986,3124,3558,24,3986,3124,3558
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,1,34517,9135,9165,2,15582,4287,2702
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,1,29085,7654,7564,2,15582,4287,2702
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,1,15582,4287,2702,2,15582,4287,2702
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,6,33211,8776,8822,12,15224,4201,2598
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,6,28196,7434,7249,12,15224,4201,2598
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,6,15224,4201,2598,12,15224,4201,2598
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,12,31786,8365,8414,24,14809,4099,2478
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,12,27201,7170,6880,24,14809,4099,2478
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,12,14809,4099,2478,24,14809,4099,2478
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,24,29271,7674,7604,48,14015,3895,2247
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,24,25392,6687,6178,48,14015,3895,2247
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,24,14015,3895,2247,48,14015,3895,2247
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,1,43430,6021,10233,1,23701,2446,5555
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,1,38288,5021,9141,1,23701,2446,5555
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,1,23701,2446,5555,1,23701,2446,5555
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,6,42212,5770,9978,6,23281,2375,5450
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,6,37396,4853,8946,6,23281,2375,5450
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,6,23281,2375,5450,6,23281,2375,5450
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,12,40879,5493,9700,12,22789,2291,5324
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,12,36370,4670,8712,12,22789,2291,5324
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,12,22789,2291,5324,12,22789,2291,5324
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,24,38470,5032,9180,24,21862,2123,5072
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,24,34487,4324,8266,24,21862,2123,5072
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,24,21862,2123,5072,24,21862,2123,5072
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,1,40461,920,0,1,13571,366,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,1,32843,778,0,1,13571,366,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,1,13571,366,0,0,13571,366,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,6,38709,889,0,2,13102,356,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,6,31503,752,0,2,13102,356,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,6,13102,356,0,0,13102,356,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,12,36726,853,0,2,12551,344,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,12,29963,722,0,2,12551,344,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,12,12551,344,0,0,12551,344,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,24,24,33119,782,0,2,11506,320,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,48,24,27101,671,0,2,11506,320,0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,primary_seven_city_a_b,B,168,24,11506,320,0,0,11506,320,0
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,1,0,4866,11251,1,0,3209,7952
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,1,0,4489,10545,1,0,3209,7952
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,1,0,3209,7952,0,0,3209,7952
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,6,0,4786,11091,6,0,3174,7881
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,6,0,4419,10401,6,0,3174,7881
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,6,0,3174,7881,0,0,3174,7881
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,12,0,4690,10908,12,0,3132,7797
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,12,0,4335,10237,12,0,3132,7797
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,12,0,3132,7797,0,0,3132,7797
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,24,24,0,4503,10550,24,0,3058,7629
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,48,24,0,4167,9922,24,0,3058,7629
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,A,168,24,0,3058,7629,0,0,3058,7629
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,1,0,4863,8631,1,0,1844,4638
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,1,0,4002,7575,1,0,1844,4638
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,1,0,1844,4638,1,0,1844,4638
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,6,0,4668,8374,6,0,1784,4564
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,6,0,3876,7391,6,0,1784,4564
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,6,0,1784,4564,6,0,1784,4564
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,12,0,4438,8092,12,0,1712,4480
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,12,0,3734,7175,12,0,1712,4480
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,12,0,1712,4480,12,0,1712,4480
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,24,0,4028,7589,24,0,1568,4312
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,24,0,3458,6761,24,0,1568,4312
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,24,0,1568,4312,24,0,1568,4312
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,1,0,4187,7785,1,0,918,2231
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,1,0,3277,6121,1,0,918,2231
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,1,0,918,2231,1,0,918,2231
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,6,0,3990,7399,6,0,863,2126
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,6,0,3122,5837,6,0,863,2126
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,6,0,863,2126,6,0,863,2126
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,12,0,3756,6960,12,0,803,2006
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,12,0,2948,5533,12,0,803,2006
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,12,0,803,2006,12,0,803,2006
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,24,24,0,3311,6157,24,0,697,1815
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,48,24,0,2610,4978,24,0,697,1815
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,primary_seven_city_a_b,B,168,24,0,697,1815,16,0,697,1815
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,1,50637,9452,10838,2,31185,4619,6278
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,1,46104,8039,9845,2,31185,4619,6278
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,1,31185,4619,6278,1,31185,4619,6278
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,6,49604,9118,10618,9,30729,4554,6151
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,6,45282,7788,9654,9,30729,4554,6151
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,6,30729,4554,6151,6,30729,4554,6151
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,12,48433,8756,10359,15,30199,4476,6001
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,12,44338,7503,9431,12,30199,4476,6001
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,12,30199,4476,6001,12,30199,4476,6001
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,24,46271,8087,9860,27,29184,4330,5707
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,24,42514,6965,9001,24,29184,4330,5707
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,24,29184,4330,5707,24,29184,4330,5707
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,1,46166,6714,7520,1,21394,1197,1928
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,1,39531,4668,5765,0,21394,1197,1928
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,1,21394,1197,1928,0,21394,1197,1928
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,6,44622,6211,7075,2,20924,1152,1848
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,6,38358,4332,5483,0,20924,1152,1848
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,6,20924,1152,1848,0,20924,1152,1848
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,12,42898,5667,6617,2,20383,1098,1752
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,12,37002,3967,5187,0,20383,1098,1752
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,12,20383,1098,1752,0,20383,1098,1752
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,24,24,39771,4735,5826,2,19369,991,1582
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,48,24,34520,3326,4660,0,19369,991,1582
+site_306,"Manali, Chennai - CPCB",Chennai,primary_seven_city_a_b,A,168,24,19369,991,1582,0,19369,991,1582
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,1,9216,11548,8211,1,3938,6954,3073
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,1,7835,10584,6891,1,3938,6954,3073
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,1,3938,6954,3073,1,3938,6954,3073
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,6,8900,11339,7910,6,3841,6836,2983
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,6,7583,10384,6660,6,3841,6836,2983
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,6,3841,6836,2983,6,3841,6836,2983
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,12,8546,11093,7566,12,3727,6700,2877
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,12,7307,10148,6384,12,3727,6700,2877
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,12,3727,6700,2877,12,3727,6700,2877
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,24,7887,10601,6938,24,3510,6449,2692
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,24,6796,9693,5844,24,3510,6449,2692
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,24,3510,6449,2692,24,3510,6449,2692
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,1,7716,10414,9786,1,2900,4477,5575
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,1,6295,8957,8548,1,2900,4477,5575
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,1,2900,4477,5575,1,2900,4477,5575
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,6,7364,10089,9499,6,2825,4365,5495
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,6,6064,8676,8343,6,2825,4365,5495
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,6,2825,4365,5495,6,2825,4365,5495
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,12,6983,9716,9176,12,2735,4233,5399
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,12,5789,8343,8108,12,2735,4233,5399
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,12,2735,4233,5399,12,2735,4233,5399
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,24,6343,8990,8590,24,2555,3977,5212
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,24,5276,7723,7685,24,2555,3977,5212
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,24,2555,3977,5212,24,2555,3977,5212
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,1,10086,10318,8436,1,4778,4863,2244
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,1,8932,8950,6657,1,4778,4863,2244
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,1,4778,4863,2244,1,4778,4863,2244
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,6,9829,10015,8010,3,4662,4757,2139
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,6,8707,8707,6342,3,4662,4757,2139
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,6,4662,4757,2139,3,4662,4757,2139
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,12,9538,9655,7550,3,4524,4638,2019
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,12,8442,8422,5990,3,4524,4638,2019
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,12,4524,4638,2019,3,4524,4638,2019
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,24,24,8977,8998,6721,3,4257,4413,1784
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,48,24,7936,7879,5350,3,4257,4413,1784
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,primary_seven_city_a_b,A,168,24,4257,4413,1784,3,4257,4413,1784
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,24,1,5850,10365,10969,0,1978,4799,6505
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,48,1,4626,9140,9849,0,1978,4799,6505
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,168,1,1978,4799,6505,0,1978,4799,6505
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,24,6,5569,10099,10710,0,1923,4679,6405
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,48,6,4418,8895,9659,0,1923,4679,6405
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,168,6,1923,4679,6405,0,1923,4679,6405
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,24,12,5243,9787,10416,0,1859,4547,6287
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,48,12,4194,8607,9439,0,1859,4547,6287
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,168,12,1859,4547,6287,0,1859,4547,6287
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,24,24,4670,9189,9887,0,1746,4303,6063
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,48,24,3776,8032,9013,0,1746,4303,6063
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,primary_seven_city_a_b,B,168,24,1746,4303,6063,0,1746,4303,6063
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,1,22973,17888,15836,2,14840,11949,8788
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,1,21074,16574,14296,2,14840,11949,8788
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,1,14840,11949,8788,1,14840,11949,8788
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,6,22548,17587,15485,12,14671,11809,8623
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,6,20727,16324,14002,12,14671,11809,8623
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,6,14671,11809,8623,6,14671,11809,8623
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,12,22057,17249,15083,24,14473,11647,8425
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,12,20341,16030,13654,24,14473,11647,8425
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,12,14473,11647,8425,12,14473,11647,8425
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,24,21145,16601,14331,48,14102,11323,8032
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,24,19606,15458,12976,48,14102,11323,8032
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,24,14102,11323,8032,24,14102,11323,8032
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,24,1,12935,7263,16989,1,7206,4449,9567
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,48,1,11557,6683,15307,1,7206,4449,9567
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,168,1,7206,4449,9567,1,7206,4449,9567
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,24,6,12631,7138,16612,6,7081,4374,9382
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,48,6,11304,6568,14985,6,7081,4374,9382
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,168,6,7081,4374,9382,6,7081,4374,9382
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,24,12,12275,6992,16179,12,6931,4284,9161
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,48,12,11008,6431,14613,12,6931,4284,9161
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,168,12,6931,4284,9161,12,6931,4284,9161
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,24,24,11609,6706,15349,24,6636,4109,8758
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,48,24,10444,6181,13895,24,6636,4109,8758
+site_104,"Burari Crossing, Delhi - IMD",Delhi,primary_seven_city_a_b,B,168,24,6636,4109,8758,24,6636,4109,8758
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,1,19804,17373,16785,1,10680,10422,9079
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,1,17744,15846,14775,1,10680,10422,9079
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,1,10680,10422,9079,1,10680,10422,9079
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,6,19341,17043,16333,6,10457,10247,8917
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,6,17360,15559,14403,6,10457,10247,8917
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,6,10457,10247,8917,6,10457,10247,8917
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,12,18815,16653,15804,12,10193,10042,8737
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,12,16909,15223,13987,12,10193,10042,8737
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,12,10193,10042,8737,12,10193,10042,8737
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,24,17823,15906,14828,24,9681,9653,8390
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,24,16042,14575,13222,24,9681,9653,8390
+site_105,"North Campus, DU, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,24,9681,9653,8390,24,9681,9653,8390
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,1,23313,15240,17939,2,16544,10682,13319
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,1,21793,14392,17029,2,16544,10682,13319
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,1,16544,10682,13319,2,16544,10682,13319
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,6,22970,15042,17744,12,16359,10547,13179
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,6,21517,14222,16844,12,16359,10547,13179
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,6,16359,10547,13179,12,16359,10547,13179
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,12,22576,14825,17510,24,16144,10385,13013
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,12,21187,14018,16622,24,16144,10385,13013
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,12,16144,10385,13013,24,16144,10385,13013
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,24,21849,14402,17042,48,15724,10066,12689
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,24,20551,13610,16186,48,15724,10066,12689
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,24,15724,10066,12689,48,15724,10066,12689
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,20081,13495,15285,2,12037,7671,7346
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,17737,11592,13029,2,12037,7671,7346
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,12037,7671,7346,1,12037,7671,7346
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,19524,13039,14770,12,11879,7581,7210
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,17343,11267,12651,12,11879,7581,7210
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,11879,7581,7210,6,11879,7581,7210
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,18909,12540,14176,24,11693,7473,7051
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,16897,10901,12232,24,11693,7473,7051
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,11693,7473,7051,12,11693,7473,7051
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,17820,11636,13086,48,11348,7263,6759
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,16035,10283,11451,48,11348,7263,6759
+site_107,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,11348,7263,6759,24,11348,7263,6759
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,1,17908,15509,14458,2,7458,8293,5922
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,1,14721,13582,11839,2,7458,8293,5922
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,1,7458,8293,5922,1,7458,8293,5922
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,6,17144,15056,13817,12,7311,8150,5793
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,6,14182,13239,11416,12,7311,8150,5793
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,6,7311,8150,5793,6,7311,8150,5793
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,12,16297,14553,13118,24,7137,7982,5644
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,12,13553,12852,10940,24,7137,7982,5644
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,12,7137,7982,5644,12,7137,7982,5644
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,24,14832,13629,11902,48,6813,7658,5367
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,24,12387,12141,10074,48,6813,7658,5367
+site_108,"Aya Nagar, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,24,6813,7658,5367,24,6813,7658,5367
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,1,20002,17541,16430,2,9311,11902,9647
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,1,17179,16234,14804,1,9311,11902,9647
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,1,9311,11902,9647,1,9311,11902,9647
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,6,19354,17260,16052,12,9104,11770,9465
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,6,16671,15996,14517,6,9104,11770,9465
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,6,9104,11770,9465,6,9104,11770,9465
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,12,18624,16924,15622,24,8860,11616,9257
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,12,16079,15716,14191,12,8860,11616,9257
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,12,8860,11616,9257,12,8860,11616,9257
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,24,24,17283,16271,14839,38,8388,11316,8854
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,48,24,14972,15181,13567,24,8388,11316,8854
+site_109,"Lodhi Road, Delhi - IMD",Delhi,primary_seven_city_a_b,A,168,24,8388,11316,8854,24,8388,11316,8854
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,1,33121,14127,12920,2,10935,2478,1295
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,1,26833,10732,9124,2,10935,2478,1295
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,1,10935,2478,1295,1,10935,2478,1295
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,6,31660,13305,12027,12,10557,2302,1168
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,6,25751,10158,8513,12,10557,2302,1168
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,6,10557,2302,1168,1,10557,2302,1168
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,12,30024,12406,11008,24,10135,2096,1029
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,12,24523,9495,7837,24,10135,2096,1029
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,12,10135,2096,1029,1,10135,2096,1029
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,24,27058,10828,9227,48,9345,1701,792
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,24,22260,8271,6663,48,9345,1701,792
+site_113,"Shadipur, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,24,9345,1701,792,1,9345,1701,792
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,1,40905,11020,12719,0,9987,1164,1032
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,1,31054,7591,8757,0,9987,1164,1032
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,1,9987,1164,1032,0,9987,1164,1032
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,6,38500,10131,11775,0,9528,1044,922
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,6,29464,7082,8097,0,9528,1044,922
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,6,9528,1044,922,0,9528,1044,922
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,12,35903,9196,10741,0,8993,915,796
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,12,27678,6524,7385,0,8993,915,796
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,12,8993,915,796,0,8993,915,796
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,24,31388,7697,8898,0,8003,700,599
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,24,24418,5544,6151,0,8003,700,599
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,24,8003,700,599,0,8003,700,599
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,1,32908,13785,13634,2,20110,2495,1813
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,1,29549,10289,10027,1,20110,2495,1813
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,1,20110,2495,1813,0,20110,2495,1813
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,6,32136,12929,12783,12,19860,2344,1650
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,6,28957,9723,9441,6,19860,2344,1650
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,6,19860,2344,1650,0,19860,2344,1650
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,12,31278,12001,11820,24,19567,2176,1467
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,12,28285,9111,8780,12,19567,2176,1467
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,12,19567,2176,1467,0,19567,2176,1467
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,24,29671,10387,10124,48,18998,1852,1145
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,24,27044,7959,7579,20,18998,1852,1145
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,24,18998,1852,1145,0,18998,1852,1145
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,1,47693,15523,15797,1,17243,6932,6519
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,1,39500,13465,13573,1,17243,6932,6519
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,1,17243,6932,6519,1,17243,6932,6519
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,6,45753,15050,15295,6,16714,6735,6333
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,6,38103,13082,13172,6,16714,6735,6333
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,6,16714,6735,6333,6,16714,6735,6333
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,12,43624,14517,14724,12,16095,6505,6111
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,12,36518,12632,12698,12,16095,6505,6111
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,12,16095,6505,6111,12,16095,6505,6111
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,24,39792,13520,13654,24,14897,6096,5683
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,24,33497,11779,11788,24,14897,6096,5683
+site_117,"ITO, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,24,14897,6096,5683,24,14897,6096,5683
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,1,26450,10071,13301,1,12701,929,3230
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,1,22960,6729,10167,1,12701,929,3230
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,1,12701,929,3230,0,12701,929,3230
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,6,25662,9258,12566,6,12423,836,3123
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,6,22295,6175,9645,6,12423,836,3123
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,6,12423,836,3123,0,12423,836,3123
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,12,24782,8359,11751,10,12099,736,2997
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,12,21533,5582,9042,10,12099,736,2997
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,12,12099,736,2997,0,12099,736,2997
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,24,24,23095,6833,10279,10,11491,562,2768
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,48,24,20129,4590,7934,10,11491,562,2768
+site_118,"DTU, Delhi - CPCB",Delhi,primary_seven_city_a_b,B,168,24,11491,562,2768,0,11491,562,2768
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,1,25935,13555,12196,1,11547,1569,2641
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,1,22412,9748,9035,1,11547,1569,2641
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,1,11547,1569,2641,1,11547,1569,2641
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,6,25151,12661,11458,6,11267,1430,2555
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,6,21762,9086,8480,6,11267,1430,2555
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,6,11267,1430,2555,6,11267,1430,2555
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,12,24251,11655,10638,12,10934,1271,2456
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,12,20995,8334,7867,12,10934,1271,2456
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,12,10934,1271,2456,12,10934,1271,2456
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,24,24,22547,9859,9150,24,10284,975,2282
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,48,24,19529,6965,6775,24,10284,975,2282
+site_119,"Sirifort, Delhi - CPCB",Delhi,primary_seven_city_a_b,A,168,24,10284,975,2282,24,10284,975,2282
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,1,42810,16033,11802,2,17074,8193,3394
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,1,35834,13957,8978,2,17074,8193,3394
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,1,17074,8193,3394,1,17074,8193,3394
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,6,41204,15549,11115,12,16653,8013,3274
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,6,34618,13594,8515,12,16653,8013,3274
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,6,16653,8013,3274,6,16653,8013,3274
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,12,39382,15011,10365,24,16158,7801,3140
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,12,33234,13191,8010,24,16158,7801,3140
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,12,16158,7801,3140,12,16158,7801,3140
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,24,36088,14007,9052,48,15200,7389,2887
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,24,30655,12446,7097,48,15200,7389,2887
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,24,15200,7389,2887,24,15200,7389,2887
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,1,37189,16574,14628,2,13837,8958,6013
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,1,29826,14833,12199,2,13837,8958,6013
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,1,13837,8958,6013,1,13837,8958,6013
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,6,35359,16179,14034,12,13482,8776,5853
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,6,28647,14498,11787,12,13482,8776,5853
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,6,13482,8776,5853,6,13482,8776,5853
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,12,33410,15727,13392,24,13067,8573,5664
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,12,27345,14096,11343,24,13067,8573,5664
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,12,13067,8573,5664,12,13067,8573,5664
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,24,30073,14876,12259,48,12278,8182,5314
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,24,24980,13340,10501,48,12278,8182,5314
+site_124,"R K Puram, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,24,12278,8182,5314,24,12278,8182,5314
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,1,41801,16616,15158,2,19428,8422,7364
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,1,36067,14687,13016,2,19428,8422,7364
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,1,19428,8422,7364,1,19428,8422,7364
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,6,40418,16167,14647,12,18981,8242,7204
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,6,35079,14332,12653,12,18981,8242,7204
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,6,18981,8242,7204,6,18981,8242,7204
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,12,38945,15663,14074,21,18449,8032,7012
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,12,33952,13920,12229,21,18449,8032,7012
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,12,18449,8032,7012,12,18449,8032,7012
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,24,36271,14749,13065,33,17401,7656,6628
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,24,31857,13133,11454,33,17401,7656,6628
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,24,17401,7656,6628,24,17401,7656,6628
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21189,16483,16093,2,13570,8486,7629
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,19693,14745,13780,2,13570,8486,7629
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,13570,8486,7629,2,13570,8486,7629
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,20867,16087,15569,12,13375,8276,7481
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,19397,14410,13356,12,13375,8276,7481
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,13375,8276,7481,12,13375,8276,7481
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,20483,15627,14969,24,13147,8030,7307
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,19043,14017,12894,24,13147,8030,7307
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13147,8030,7307,24,13147,8030,7307
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,19753,14789,13843,48,12699,7544,6959
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,18346,13284,12035,48,12699,7544,6959
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,12699,7544,6959,48,12699,7544,6959
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,16763,18451,17608,1,10452,13901,12306
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,15136,17545,16316,1,10452,13901,12306
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,10452,13901,12306,1,10452,13901,12306
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,16385,18260,17309,6,10303,13767,12183
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,14850,17366,16070,6,10303,13767,12183
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,10303,13767,12183,6,10303,13767,12183
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,15954,18032,16974,12,10129,13611,12039
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,14519,17158,15782,12,10129,13611,12039
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,10129,13611,12039,12,10129,13611,12039
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,15194,17581,16343,24,9781,13299,11760
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,13923,16755,15249,24,9781,13299,11760
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,9781,13299,11760,24,9781,13299,11760
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,24,1,21656,18467,18583,2,15044,11998,13542
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,48,1,20368,17239,17527,2,15044,11998,13542
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,168,1,15044,11998,13542,1,15044,11998,13542
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,24,6,21376,18201,18350,12,14869,11812,13422
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,48,6,20112,16989,17317,12,14869,11812,13422
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,168,6,14869,11812,13422,6,14869,11812,13422
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,24,12,21053,17886,18074,24,14659,11604,13282
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,48,12,19806,16700,17065,24,14659,11604,13282
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,168,12,14659,11604,13282,12,14659,11604,13282
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,24,24,20420,17265,17545,48,14246,11196,13006
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,48,24,19211,16124,16561,48,14246,11196,13006
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,primary_seven_city_a_b,A,168,24,14246,11196,13006,24,14246,11196,13006
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21188,17248,17085,2,13970,9821,9660
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,19669,15620,15325,2,13970,9821,9660
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,13970,9821,9660,2,13970,9821,9660
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,20845,16886,16698,8,13778,9625,9480
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,19372,15290,15001,8,13778,9625,9480
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,13778,9625,9480,6,13778,9625,9480
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,20457,16464,16245,14,13550,9392,9273
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,19023,14903,14626,14,13550,9392,9273
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13550,9392,9273,12,13550,9392,9273
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,19729,15662,15392,26,13109,8954,8882
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,18359,14172,13889,26,13109,8954,8882
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,13109,8954,8882,24,13109,8954,8882
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,20749,17464,17126,2,13366,10309,9537
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,18984,15863,15197,2,13366,10309,9537
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,13366,10309,9537,2,13366,10309,9537
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,20349,17110,16698,12,13201,10139,9377
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,18661,15561,14847,12,13201,10139,9377
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,13201,10139,9377,12,13201,10139,9377
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,19887,16696,16191,24,13003,9935,9185
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,18297,15208,14433,24,13003,9935,9185
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13003,9935,9185,24,13003,9935,9185
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,19051,15902,15246,48,12618,9541,8813
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,17608,14523,13652,48,12618,9541,8813
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,12618,9541,8813,48,12618,9541,8813
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,22407,18294,15855,2,16859,11785,8156
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,21366,16931,13748,1,16859,11785,8156
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,16859,11785,8156,1,16859,11785,8156
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,22187,18000,15350,8,16709,11622,8003
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,21156,16655,13383,6,16709,11622,8003
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,16709,11622,8003,6,16709,11622,8003
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,21925,17652,14797,14,16529,11430,7828
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,20905,16331,12974,12,16529,11430,7828
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,16529,11430,7828,12,16529,11430,7828
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,21409,16964,13823,26,16174,11057,7480
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,20413,15686,12241,24,16174,11057,7480
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,16174,11057,7480,24,16174,11057,7480
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21021,18374,18655,1,14180,13314,12805
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,19581,17300,17522,1,14180,13314,12805
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,14180,13314,12805,1,14180,13314,12805
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,20715,18127,18415,6,14023,13159,12635
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,19297,17090,17287,6,14023,13159,12635
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,14023,13159,12635,6,14023,13159,12635
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,20352,17847,18133,12,13840,12973,12434
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,18962,16841,17006,12,13840,12973,12434
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13840,12973,12434,12,13840,12973,12434
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,19638,17319,17569,24,13496,12608,12048
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,18315,16372,16482,24,13496,12608,12048
+site_1426,"Narela, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,13496,12608,12048,24,13496,12608,12048
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,17574,14842,15492,2,7675,4408,7876
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,14532,11981,13278,1,7675,4408,7876
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,7675,4408,7876,1,7675,4408,7876
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,16869,14182,14978,12,7524,4233,7736
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,13996,11479,12889,6,7524,4233,7736
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,7524,4233,7736,6,7524,4233,7736
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,16085,13445,14393,24,7344,4034,7575
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,13386,10914,12466,12,7344,4034,7575
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,7344,4034,7575,12,7344,4034,7575
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,14645,12073,13336,37,6987,3669,7296
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,12310,9857,11649,24,6987,3669,7296
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,6987,3669,7296,24,6987,3669,7296
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21929,18593,18089,2,15644,12909,11711
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,20745,17423,16714,2,15644,12909,11711
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,15644,12909,11711,2,15644,12909,11711
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,21672,18337,17778,12,15464,12744,11541
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,20510,17183,16439,12,15464,12744,11541
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,15464,12744,11541,12,15464,12744,11541
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,21369,18032,17423,24,15248,12546,11337
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,20228,16907,16123,24,15248,12546,11337
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,15248,12546,11337,24,15248,12546,11337
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,20793,17447,16746,48,14816,12164,10934
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,19664,16365,15530,48,14816,12164,10934
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,14816,12164,10934,48,14816,12164,10934
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21755,18201,16999,2,15622,11370,9040
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,20455,16720,15229,2,15622,11370,9040
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,15622,11370,9040,2,15622,11370,9040
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,21473,17876,16596,12,15447,11210,8850
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,20210,16435,14889,12,15447,11210,8850
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,15447,11210,8850,12,15447,11210,8850
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,21141,17493,16127,24,15237,11018,8632
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,19927,16094,14492,24,15237,11018,8632
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,15237,11018,8632,24,15237,11018,8632
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,20506,16755,15274,47,14822,10650,8228
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,19385,15430,13726,47,14822,10650,8228
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,14822,10650,8228,47,14822,10650,8228
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21013,18871,17958,2,13493,13841,11682
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,19505,17903,16623,2,13493,13841,11682
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,13493,13841,11682,2,13493,13841,11682
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,20678,18654,17662,12,13290,13686,11532
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,19210,17709,16363,12,13290,13686,11532
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,13290,13686,11532,12,13290,13686,11532
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,20289,18404,17314,24,13058,13503,11354
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,18863,17481,16054,24,13058,13503,11354
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13058,13503,11354,24,13058,13503,11354
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,19564,17919,16651,48,12634,13143,11023
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,18198,17038,15454,48,12634,13143,11023
+site_1430,"Rohini, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,12634,13143,11023,48,12634,13143,11023
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21849,17621,17810,2,15368,11184,11648
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,20589,16170,16504,2,15368,11184,11648
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,15368,11184,11648,2,15368,11184,11648
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,21577,17301,17527,12,15181,11022,11492
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,20344,15883,16236,12,15181,11022,11492
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,15181,11022,11492,12,15181,11022,11492
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,21254,16921,17194,24,14959,10830,11311
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,20053,15551,15919,24,14959,10830,11311
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,14959,10830,11311,24,14959,10830,11311
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,20638,16204,16534,48,14515,10460,10963
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,19477,14905,15319,48,14515,10460,10963
+site_1431,"Patparganj, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,14515,10460,10963,48,14515,10460,10963
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,20978,17541,16997,1,13703,10121,10439
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,19479,15862,15445,1,13703,10121,10439
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,13703,10121,10439,1,13703,10121,10439
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,20629,17165,16626,6,13513,9944,10294
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,19200,15548,15158,6,13513,9944,10294
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,13513,9944,10294,6,13513,9944,10294
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,20255,16740,16213,12,13290,9735,10134
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,18870,15182,14816,12,13290,9735,10134
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13290,9735,10134,12,13290,9735,10134
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,19537,15926,15479,24,12846,9337,9822
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,18233,14490,14148,24,12846,9337,9822
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,12846,9337,9822,24,12846,9337,9822
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,21430,16122,17507,2,14245,8452,10152
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,19996,14194,15776,2,14245,8452,10152
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,14245,8452,10152,2,14245,8452,10152
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,21113,15673,17132,12,14049,8278,9977
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,19711,13837,15431,12,14049,8278,9977
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,14049,8278,9977,12,14049,8278,9977
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,20744,15161,16685,24,13820,8074,9770
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,19378,13437,15027,24,13820,8074,9770
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13820,8074,9770,24,13820,8074,9770
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,20053,14242,15821,48,13388,7668,9370
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,18737,12715,14302,48,13388,7668,9370
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,13388,7668,9370,48,13388,7668,9370
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,20998,15997,17424,2,13512,7920,11167
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,19454,14023,16037,2,13512,7920,11167
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,13512,7920,11167,2,13512,7920,11167
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,20663,15536,17110,12,13312,7735,11002
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,19160,13663,15762,12,13312,7735,11002
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,13312,7735,11002,12,13312,7735,11002
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,20270,15006,16746,24,13092,7513,10804
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,18815,13244,15432,24,13092,7513,10804
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,13092,7513,10804,24,13092,7513,10804
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,19515,14071,16068,48,12684,7079,10408
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,18133,12493,14792,48,12684,7079,10408
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,12684,7079,10408,48,12684,7079,10408
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,17658,17242,16924,2,10882,9427,8924
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,16085,15290,15003,2,10882,9427,8924
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,10882,9427,8924,2,10882,9427,8924
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,17318,16810,16503,12,10732,9259,8719
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,15771,14936,14654,12,10732,9259,8719
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,10732,9259,8719,12,10732,9259,8719
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,16921,16302,16001,24,10552,9073,8474
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,15411,14537,14254,24,10552,9073,8474
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,10552,9073,8474,24,10552,9073,8474
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,16148,15343,15051,48,10192,8708,8034
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,14729,13791,13522,48,10192,8708,8034
+site_1560,"Bawana, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,10192,8708,8034,48,10192,8708,8034
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,17425,17317,16960,1,10459,9569,9083
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,15834,15526,15092,1,10459,9569,9083
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,10459,9569,9083,1,10459,9569,9083
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,17077,16921,16541,6,10299,9375,8914
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,15539,15196,14764,6,10299,9375,8914
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,10299,9375,8914,6,10299,9375,8914
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,16663,16447,16057,12,10117,9148,8716
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,15208,14820,14380,12,10117,9148,8716
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,10117,9148,8716,12,10117,9148,8716
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,15895,15569,15159,24,9764,8720,8361
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,14576,14093,13633,24,9764,8720,8361
+site_1561,"Mundka, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,9764,8720,8361,24,9764,8720,8361
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,18792,17778,17332,2,14432,11702,11455
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,17927,16366,16029,2,14432,11702,11455
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,14432,11702,11455,1,14432,11702,11455
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,18611,17461,17044,12,14313,11542,11300
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,17747,16109,15764,12,14313,11542,11300
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,14313,11542,11300,6,14313,11542,11300
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,18395,17096,16710,24,14175,11356,11114
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,17536,15816,15461,24,14175,11356,11114
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,14175,11356,11114,12,14175,11356,11114
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,17963,16397,16058,48,13899,11006,10748
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,17138,15245,14887,46,13899,11006,10748
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,13899,11006,10748,24,13899,11006,10748
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,17478,18232,17383,2,12573,12714,9640
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,16465,17039,15675,2,12573,12714,9640
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,12573,12714,9640,2,12573,12714,9640
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,17243,17973,17006,12,12428,12561,9448
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,16275,16804,15340,12,12428,12561,9448
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,12428,12561,9448,12,12428,12561,9448
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,16976,17667,16565,24,12254,12381,9230
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,16049,16525,14944,24,12254,12381,9230
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,12254,12381,9230,24,12254,12381,9230
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,16503,17062,15719,48,11906,12027,8834
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,15620,15985,14185,48,11906,12027,8834
+site_1563,"Pusa, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,11906,12027,8834,48,11906,12027,8834
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,1,35266,16025,11986,2,14727,7354,4681
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,1,29906,13753,9626,2,14727,7354,4681
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,1,14727,7354,4681,2,14727,7354,4681
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,6,34055,15493,11395,12,14362,7173,4586
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,6,28926,13360,9221,12,14362,7173,4586
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,6,14362,7173,4586,12,14362,7173,4586
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,12,32675,14904,10783,24,13940,6960,4475
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,12,27825,12910,8751,24,13940,6960,4475
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,12,13940,6960,4475,24,13940,6960,4475
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,24,24,30108,13812,9687,47,13121,6553,4259
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,48,24,25800,12050,7904,47,13121,6553,4259
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,primary_seven_city_a_b,B,168,24,13121,6553,4259,47,13121,6553,4259
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,1,13987,16517,16878,2,6958,7374,8343
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,1,12444,14310,14936,2,6958,7374,8343
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,1,6958,7374,8343,1,6958,7374,8343
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,6,13644,16015,16439,12,6803,7169,8168
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,6,12138,13908,14560,12,6803,7169,8168
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,6,6803,7169,8168,6,6803,7169,8168
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,12,13254,15446,15935,19,6617,6930,7958
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,12,11789,13445,14117,19,6617,6930,7958
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,12,6617,6930,7958,12,6617,6930,7958
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,24,24,12506,14387,14995,25,6258,6482,7552
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,48,24,11118,12559,13270,25,6258,6482,7552
+site_5024,"Alipur, Delhi - DPCC",Delhi,primary_seven_city_a_b,A,168,24,6258,6482,7552,18,6258,6482,7552
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,1,35469,7045,6165,1,18103,1428,636
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,1,30919,5090,3823,1,18103,1428,636
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,1,18103,1428,636,0,18103,1428,636
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,6,34430,6535,5538,6,17771,1367,595
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,6,30085,4817,3487,6,17771,1367,595
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,6,17771,1367,595,0,17771,1367,595
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,12,33256,6012,4879,12,17388,1299,547
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,12,29138,4517,3118,12,17388,1299,547
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,12,17388,1299,547,0,17388,1299,547
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,24,31091,5149,3871,24,16653,1179,465
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,24,27390,3984,2536,24,16653,1179,465
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,24,16653,1179,465,0,16653,1179,465
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,1,36460,8958,9591,1,22305,3037,3069
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,1,32691,7329,7724,0,22305,3037,3069
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,1,22305,3037,3069,0,22305,3037,3069
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,6,35566,8572,9170,6,21995,2937,2969
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,6,32049,7048,7401,0,21995,2937,2969
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,6,21995,2937,2969,0,21995,2937,2969
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,12,34561,8137,8674,12,21635,2822,2855
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,12,31330,6725,7038,0,21635,2822,2855
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,12,21635,2822,2855,0,21635,2822,2855
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,24,32823,7372,7791,15,20936,2613,2635
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,24,29979,6134,6397,0,20936,2613,2635
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,24,20936,2613,2635,0,20936,2613,2635
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,1,31134,8096,8470,2,15341,1273,3520
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,1,26814,6070,6686,1,15341,1273,3520
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,1,15341,1273,3520,0,15341,1273,3520
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,6,30096,7612,8016,12,15049,1198,3480
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,6,26086,5728,6392,6,15049,1198,3480
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,6,15049,1198,3480,0,15049,1198,3480
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,12,28947,7076,7547,24,14716,1116,3432
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,12,25244,5332,6080,12,14716,1116,3432
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,12,14716,1116,3432,0,14716,1116,3432
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,24,26965,6126,6724,38,14096,969,3336
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,24,23691,4579,5539,13,14096,969,3336
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,24,14096,969,3336,0,14096,969,3336
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,1,33483,5805,5980,0,10943,957,1737
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,1,27170,3726,4863,0,10943,957,1737
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,1,10943,957,1737,0,10943,957,1737
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,6,31987,5272,5723,0,10547,917,1662
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,6,26061,3435,4680,0,10547,917,1662
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,6,10547,917,1662,0,10547,917,1662
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,12,30348,4698,5437,0,10088,869,1577
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,12,24808,3143,4464,0,10088,869,1577
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,12,10088,869,1577,0,10088,869,1577
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,24,27400,3790,4901,0,9252,781,1415
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,24,22523,2634,4061,0,9252,781,1415
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,24,9252,781,1415,0,9252,781,1415
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,1,48841,10854,12428,2,32792,6473,9828
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,1,44847,9851,11813,1,32792,6473,9828
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,1,32792,6473,9828,1,32792,6473,9828
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,6,47907,10608,12292,10,32415,6358,9758
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,6,44127,9663,11696,6,32415,6358,9758
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,6,32415,6358,9758,6,32415,6358,9758
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,12,46885,10355,12130,16,31973,6220,9674
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,12,43319,9449,11559,12,31973,6220,9674
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,12,31973,6220,9674,12,31973,6220,9674
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,24,44998,9886,11813,28,31099,5958,9506
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,24,41847,9035,11313,24,31099,5958,9506
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,24,31099,5958,9506,24,31099,5958,9506
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,1,39008,8816,9611,2,18534,2881,4829
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,1,33600,7051,8339,2,18534,2881,4829
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,1,18534,2881,4829,1,18534,2881,4829
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,6,37744,8402,9301,12,18089,2781,4752
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,6,32682,6763,8113,12,18089,2781,4752
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,6,18089,2781,4752,6,18089,2781,4752
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,12,36316,7927,8961,24,17574,2667,4667
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,12,31632,6427,7851,24,17574,2667,4667
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,12,17574,2667,4667,12,17574,2667,4667
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,24,33788,7088,8361,48,16572,2444,4507
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,24,29671,5816,7377,41,16572,2444,4507
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,24,16572,2444,4507,24,16572,2444,4507
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,1,0,8389,8674,0,0,2380,2811
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,1,0,6555,6903,0,0,2380,2811
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,1,0,2380,2811,0,0,2380,2811
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,6,0,7935,8259,0,0,2283,2740
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,6,0,6251,6592,0,0,2283,2740
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,6,0,2283,2740,0,0,2283,2740
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,12,0,7444,7807,0,0,2185,2656
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,12,0,5924,6252,0,0,2185,2656
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,12,0,2185,2656,0,0,2185,2656
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,24,24,0,6617,6968,0,0,2003,2503
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,48,24,0,5316,5631,0,0,2003,2503
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,A,168,24,0,2003,2503,0,0,2003,2503
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,1,0,7962,7738,0,0,1176,1613
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,1,0,5828,5668,0,0,1176,1613
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,1,0,1176,1613,0,0,1176,1613
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,6,0,7472,7239,0,0,1105,1548
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,6,0,5488,5310,0,0,1105,1548
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,6,0,1105,1548,0,0,1105,1548
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,12,0,6906,6694,0,0,1026,1474
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,12,0,5119,4927,0,0,1026,1474
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,12,0,1026,1474,0,0,1026,1474
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,24,0,5901,5743,0,0,905,1330
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,24,0,4424,4275,0,0,905,1330
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,24,0,905,1330,0,0,905,1330
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,1,0,7472,8696,0,0,2082,3375
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,1,0,5777,6981,0,0,2082,3375
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,1,0,2082,3375,0,0,2082,3375
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,6,0,7047,8258,0,0,2007,3293
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,6,0,5509,6722,0,0,2007,3293
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,6,0,2007,3293,0,0,2007,3293
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,12,0,6611,7801,0,0,1923,3198
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,12,0,5204,6431,0,0,1923,3198
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,12,0,1923,3198,0,0,1923,3198
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,24,0,5834,7036,0,0,1755,3023
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,24,0,4692,5917,0,0,1755,3023
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,24,0,1755,3023,0,0,1755,3023
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,1,0,7438,7310,0,0,1720,2284
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,1,0,5500,5555,0,0,1720,2284
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,1,0,1720,2284,0,0,1720,2284
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,6,0,6954,6849,0,0,1650,2214
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,6,0,5181,5301,0,0,1650,2214
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,6,0,1650,2214,0,0,1650,2214
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,12,0,6438,6365,0,0,1570,2130
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,12,0,4825,5025,0,0,1570,2130
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,12,0,1570,2130,0,0,1570,2130
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,24,24,0,5565,5608,0,0,1426,1974
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,48,24,0,4196,4559,0,0,1426,1974
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,primary_seven_city_a_b,B,168,24,0,1426,1974,0,0,1426,1974
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,24,1,22062,6767,7331,1,4453,1312,1700
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,48,1,14541,5112,5912,0,4453,1312,1700
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,168,1,4453,1312,1700,0,4453,1312,1700
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,24,6,20176,6403,7024,6,4323,1260,1636
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,48,6,13501,4835,5638,0,4323,1260,1636
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,168,6,4323,1260,1636,0,4323,1260,1636
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,24,12,18158,5971,6664,12,4176,1200,1565
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,48,12,12425,4511,5314,0,4176,1200,1565
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,168,12,4176,1200,1565,0,4176,1200,1565
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,24,24,14767,5156,5967,18,3892,1087,1438
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,48,24,10556,3871,4676,0,3892,1087,1438
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,B,168,24,3892,1087,1438,0,3892,1087,1438
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,1,31342,6610,6561,2,5066,478,492
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,1,23374,4780,4603,1,5066,478,492
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,1,5066,478,492,0,5066,478,492
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,6,29549,6210,6132,8,4818,448,442
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,6,22081,4452,4276,6,4818,448,442
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,6,4818,448,442,0,4818,448,442
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,12,27491,5734,5637,14,4552,412,382
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,12,20597,4072,3893,12,4552,412,382
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,12,4552,412,382,0,4552,412,382
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,24,23642,4825,4672,24,4040,342,277
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,24,17795,3326,3169,24,4040,342,277
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,24,4040,342,277,0,4040,342,277
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,1,24544,7256,6250,2,6822,1624,1585
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,1,19766,5865,5302,2,6822,1624,1585
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,1,6822,1624,1585,0,6822,1624,1585
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,6,23490,6948,6043,12,6576,1537,1504
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,6,18938,5584,5102,12,6576,1537,1504
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,6,6576,1537,1504,0,6576,1537,1504
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,12,22268,6593,5798,24,6288,1441,1409
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,12,17969,5249,4862,24,6288,1441,1409
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,12,6288,1441,1409,0,6288,1441,1409
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,24,19941,5898,5318,48,5741,1264,1231
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,24,16102,4622,4398,37,5741,1264,1231
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,24,5741,1264,1231,0,5741,1264,1231
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,1,25667,7860,7780,2,4756,3430,3344
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,1,18860,6910,6667,1,4756,3430,3344
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,1,4756,3430,3344,0,4756,3430,3344
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,6,24178,7649,7537,12,4587,3340,3256
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,6,17789,6725,6454,6,4587,3340,3256
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,6,4587,3340,3256,0,4587,3340,3256
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,12,22416,7400,7251,21,4393,3232,3154
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,12,16548,6505,6208,12,4393,3232,3154
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,12,4393,3232,3154,0,4393,3232,3154
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,24,19083,6923,6701,33,4020,3016,2963
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,24,14193,6073,5735,24,4020,3016,2963
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,24,4020,3016,2963,0,4020,3016,2963
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,1,22715,7591,7650,2,1685,2058,2183
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,1,15993,6372,6482,1,1685,2058,2183
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,1,1685,2058,2183,0,1685,2058,2183
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,6,21241,7325,7400,12,1538,1948,2107
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,6,14901,6142,6244,6,1538,1948,2107
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,6,1538,1948,2107,0,1538,1948,2107
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,12,19527,7007,7100,24,1379,1816,2017
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,12,13634,5866,5967,12,1379,1816,2017
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,12,1379,1816,2017,0,1379,1816,2017
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,24,16224,6396,6515,39,1080,1556,1855
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,24,11207,5321,5416,24,1080,1556,1855
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,24,1080,1556,1855,0,1080,1556,1855
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,1,21938,6732,6673,1,2060,721,702
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,1,15449,5031,4859,0,2060,721,702
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,1,2060,721,702,0,2060,721,702
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,6,20488,6353,6283,6,1884,680,661
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,6,14386,4727,4526,0,1884,680,661
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,6,1884,680,661,0,1884,680,661
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,12,18820,5913,5819,11,1676,632,613
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,12,13147,4371,4136,0,1676,632,613
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,12,1676,632,613,0,1676,632,613
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,24,15674,5093,4918,11,1290,551,521
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,24,10779,3686,3403,0,1290,551,521
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,24,1290,551,521,0,1290,551,521
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,1,22005,7058,6140,2,2769,733,840
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,1,15313,5248,4667,2,2769,733,840
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,1,2769,733,840,0,2769,733,840
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,6,20521,6673,5823,12,2624,682,782
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,6,14228,4892,4390,12,2624,682,782
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,6,2624,682,782,0,2624,682,782
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,12,18788,6211,5447,22,2456,622,717
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,12,12986,4476,4068,22,2456,622,717
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,12,2456,622,717,0,2456,622,717
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,24,24,15542,5296,4715,34,2131,502,609
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,48,24,10706,3680,3485,17,2131,502,609
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,primary_seven_city_a_b,A,168,24,2131,502,609,0,2131,502,609
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,24,1,39955,0,0,0,20872,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,48,1,34892,0,0,0,20872,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,168,1,20872,0,0,0,20872,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,24,6,38777,0,0,0,20531,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,48,6,34034,0,0,0,20531,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,168,6,20531,0,0,0,20531,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,24,12,37460,0,0,0,20142,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,48,12,33032,0,0,0,20142,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,168,12,20142,0,0,0,20142,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,24,24,35067,0,0,0,19396,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,48,24,31140,0,0,0,19396,0,0
+site_168,Bandra Mumbai,Mumbai,primary_seven_city_a_b,B,168,24,19396,0,0,0,19396,0,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,12141,3214,0,0,4062,81,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,9439,1491,0,0,4062,81,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,4062,81,0,0,4062,81,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,11500,2732,0,0,3946,71,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,9013,1293,0,0,3946,71,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,3946,71,0,0,3946,71,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,10785,2265,0,0,3814,59,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,8536,1098,0,0,3814,59,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,3814,59,0,0,3814,59,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,9528,1534,0,0,3550,35,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,7674,785,0,0,3550,35,0
+site_5102,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,3550,35,0,0,3550,35,0
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,16407,7603,9842,1,5968,2540,5024
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,12898,6120,8623,1,5968,2540,5024
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,5968,2540,5024,0,5968,2540,5024
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,15541,7236,9571,6,5812,2448,4909
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,12336,5886,8395,6,5812,2448,4909
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,5812,2448,4909,0,5812,2448,4909
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,14607,6838,9253,12,5641,2354,4773
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,11716,5614,8143,12,5641,2354,4773
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,5641,2354,4773,0,5641,2354,4773
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,13016,6169,8647,24,5327,2186,4509
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,10639,5122,7671,18,5327,2186,4509
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,5327,2186,4509,0,5327,2186,4509
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,1,15724,7261,7812,1,5726,2314,1732
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,1,12673,5865,5856,1,5726,2314,1732
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,1,5726,2314,1732,1,5726,2314,1732
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,6,14995,6938,7356,6,5537,2229,1662
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,6,12183,5625,5507,6,5537,2229,1662
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,6,5537,2229,1662,6,5537,2229,1662
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,12,14194,6571,6842,12,5320,2127,1578
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,12,11632,5352,5119,12,5320,2127,1578
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,12,5320,2127,1578,12,5320,2127,1578
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,24,12779,5914,5905,24,4912,1942,1414
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,24,10646,4861,4430,24,4912,1942,1414
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,24,4912,1942,1414,24,4912,1942,1414
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,19562,11129,10866,2,10350,6236,5190
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,17178,10105,9641,1,10350,6236,5190
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,10350,6236,5190,1,10350,6236,5190
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,18977,10904,10601,12,10133,6111,5060
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,16758,9900,9407,6,10133,6111,5060
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,10133,6111,5060,6,10133,6111,5060
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,18348,10637,10286,24,9875,5972,4904
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,16283,9654,9131,12,9875,5972,4904
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,9875,5972,4904,12,9875,5972,4904
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,17263,10122,9669,46,9390,5713,4614
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,15405,9188,8600,24,9390,5713,4614
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,9390,5713,4614,24,9390,5713,4614
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,20706,10324,10083,2,11834,4339,5033
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,18523,8897,9036,2,11834,4339,5033
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,11834,4339,5033,1,11834,4339,5033
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,20227,10006,9845,12,11634,4203,4902
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,18126,8630,8826,12,11634,4203,4902
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,11634,4203,4902,6,11634,4203,4902
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,19663,9638,9572,24,11395,4047,4752
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,17673,8323,8574,24,11395,4047,4752
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,11395,4047,4752,12,11395,4047,4752
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,18604,8928,9054,48,10940,3745,4464
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,16825,7739,8076,48,10940,3745,4464
+site_5112,"Powai, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,10940,3745,4464,24,10940,3745,4464
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,14934,8304,9355,2,5314,4150,5418
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,11784,6991,8439,1,5314,4150,5418
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,5314,4150,5418,1,5314,4150,5418
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,14154,7985,9141,12,5180,4060,5332
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,11287,6805,8264,6,5180,4060,5332
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,5180,4060,5332,6,5180,4060,5332
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,13299,7636,8899,24,5024,3960,5230
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,10739,6598,8061,12,5024,3960,5230
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,5024,3960,5230,12,5024,3960,5230
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,11886,7008,8451,47,4737,3785,5044
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,9758,6212,7675,24,4737,3785,5044
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,4737,3785,5044,24,4737,3785,5044
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,24,1,12131,9318,9608,2,6324,4996,4740
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,48,1,10647,8340,8491,2,6324,4996,4740
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,168,1,6324,4996,4740,0,6324,4996,4740
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,24,6,11794,9093,9347,12,6209,4901,4630
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,48,6,10377,8142,8282,12,6209,4901,4630
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,168,6,6209,4901,4630,0,6209,4901,4630
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,24,12,11416,8836,9056,24,6071,4787,4499
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,48,12,10067,7908,8036,24,6071,4787,4499
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,168,12,6071,4787,4499,0,6071,4787,4499
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,24,24,10701,8356,8509,48,5806,4559,4251
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,48,24,9504,7469,7562,38,5806,4559,4251
+site_5115,Worli Mumbai,Mumbai,primary_seven_city_a_b,B,168,24,5806,4559,4251,0,5806,4559,4251
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,22628,9832,9291,2,12648,3111,3745
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,20393,8138,7901,2,12648,3111,3745
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,12648,3111,3745,1,12648,3111,3745
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,22144,9459,8972,12,12418,3016,3639
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,19962,7836,7642,12,12418,3016,3639
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,12418,3016,3639,6,12418,3016,3639
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,21575,9016,8614,24,12142,2902,3521
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,19450,7487,7352,24,12142,2902,3521
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,12142,2902,3521,12,12142,2902,3521
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,20482,8177,7931,47,11618,2676,3294
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,18467,6817,6804,45,11618,2676,3294
+site_5119,"Sion, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,11618,2676,3294,24,11618,2676,3294
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,1,13437,6856,9563,1,4731,1403,5044
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,1,10361,5229,8516,1,4731,1403,5044
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,1,4731,1403,5044,0,4731,1403,5044
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,6,12596,6477,9321,6,4600,1313,4931
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,6,9922,4948,8327,6,4600,1313,4931
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,6,4600,1313,4931,0,4600,1313,4931
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,12,11764,6053,9039,12,4444,1211,4799
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,12,9436,4650,8109,12,4444,1211,4799
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,12,4444,1211,4799,0,4444,1211,4799
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,24,10451,5288,8530,24,4142,1017,4543
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,24,8557,4113,7683,24,4142,1017,4543
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,24,4142,1017,4543,0,4142,1017,4543
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,11705,10241,6545,2,7165,6656,2506
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,10745,9469,5499,2,7165,6656,2506
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,7165,6656,2506,2,7165,6656,2506
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,11497,10061,6316,12,7050,6551,2426
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,10555,9315,5301,12,7050,6551,2426
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,7050,6551,2426,12,7050,6551,2426
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,11257,9858,6046,24,6912,6425,2330
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,10333,9135,5074,24,6912,6425,2330
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,6912,6425,2330,24,6912,6425,2330
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,10784,9487,5516,37,6649,6188,2138
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,9920,8796,4664,37,6649,6188,2138
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,6649,6188,2138,37,6649,6188,2138
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,13149,9214,5574,2,10361,6067,1068
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,12640,8666,4239,2,10361,6067,1068
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,10361,6067,1068,2,10361,6067,1068
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,13039,9094,5253,12,10279,5967,1007
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,12535,8551,4011,12,10279,5967,1007
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,10279,5967,1007,12,10279,5967,1007
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,12913,8950,4897,24,10183,5852,941
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,12409,8413,3747,24,10183,5852,941
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,10183,5852,941,24,10183,5852,941
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,12661,8665,4263,48,9991,5629,810
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,12157,8137,3262,48,9991,5629,810
+site_5396,"Deonar, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,9991,5629,810,48,9991,5629,810
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,24,1,12160,8294,8645,2,10105,6398,4902
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,48,1,11776,7948,7717,2,10105,6398,4902
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,168,1,10105,6398,4902,1,10105,6398,4902
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,24,6,12080,8214,8440,12,10040,6333,4802
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,48,6,11696,7873,7544,12,10040,6333,4802
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,168,6,10040,6333,4802,6,10040,6333,4802
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,24,12,11984,8119,8195,24,9962,6255,4682
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,48,12,11600,7789,7340,24,9962,6255,4682
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,168,12,9962,6255,4682,12,9962,6255,4682
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,24,24,11792,7939,7730,48,9806,6099,4456
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,48,24,11408,7633,6975,48,9806,6099,4456
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,A,168,24,9806,6099,4456,24,9806,6099,4456
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,12061,5893,9721,2,8172,2297,4273
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,11033,4992,8386,2,8172,2297,4273
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,8172,2297,4273,0,8172,2297,4273
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,11834,5688,9409,12,8087,2232,4156
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,10856,4815,8143,12,8087,2232,4156
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,8087,2232,4156,0,8087,2232,4156
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,11570,5448,9051,24,7985,2154,4018
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,10646,4605,7861,24,7985,2154,4018
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,7985,2154,4018,0,7985,2154,4018
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,11069,5004,8411,48,7781,2005,3749
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,10256,4206,7322,48,7781,2005,3749
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,7781,2005,3749,0,7781,2005,3749
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,9117,9607,5937,1,3974,6757,1658
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,7971,9047,4732,1,3974,6757,1658
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,3974,6757,1658,0,3974,6757,1658
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,8872,9473,5666,6,3872,6677,1577
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,7748,8932,4528,6,3872,6677,1577
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,3872,6677,1577,0,3872,6677,1577
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,8581,9325,5347,12,3758,6581,1487
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,7485,8794,4307,12,3758,6581,1487
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,3758,6581,1487,0,3758,6581,1487
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,8016,9046,4774,24,3531,6389,1313
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,6988,8523,3902,24,3531,6389,1313
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,3531,6389,1313,0,3531,6389,1313
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,10982,6639,9533,2,5839,3877,4859
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,9826,5955,8492,2,5839,3877,4859
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,5839,3877,4859,1,5839,3877,4859
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,10731,6479,9289,12,5714,3817,4736
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,9606,5830,8303,12,5714,3817,4736
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,5714,3817,4736,6,5714,3817,4736
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,10436,6293,9008,24,5564,3745,4594
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,9347,5680,8083,24,5564,3745,4594
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,5564,3745,4594,12,5564,3745,4594
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,9870,5965,8507,39,5264,3604,4330
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,8851,5398,7651,39,5264,3604,4330
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,5264,3604,4330,24,5264,3604,4330
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,10217,4973,8508,1,6674,2587,4202
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,9468,4382,7370,1,6674,2587,4202
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,6674,2587,4202,0,6674,2587,4202
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,10046,4828,8253,6,6579,2532,4117
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,9323,4273,7160,6,6579,2532,4117
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,6579,2532,4117,0,6579,2532,4117
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,9854,4670,7952,12,6465,2466,4019
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,9149,4151,6936,12,6465,2466,4019
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,6465,2466,4019,0,6465,2466,4019
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,9497,4404,7390,24,6237,2334,3827
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,8812,3932,6507,13,6237,2334,3827
+site_5402,"Malad West, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,6237,2334,3827,0,6237,2334,3827
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,1,11387,9610,6495,2,9506,6344,1180
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,1,11049,8896,4991,2,9506,6344,1180
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,1,9506,6344,1180,0,9506,6344,1180
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,6,11315,9448,6142,12,9446,6259,1119
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,6,10979,8750,4717,12,9446,6259,1119
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,6,9446,6259,1119,0,9446,6259,1119
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,12,11231,9262,5748,24,9374,6157,1047
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,12,10897,8580,4403,24,9374,6157,1047
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,12,9374,6157,1047,0,9374,6157,1047
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,24,24,11063,8902,5032,41,9230,5956,903
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,48,24,10741,8252,3810,41,9230,5956,903
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,primary_seven_city_a_b,B,168,24,9230,5956,903,0,9230,5956,903
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,8425,8799,8527,1,2845,3463,2577
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,7137,7453,6701,1,2845,3463,2577
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,2845,3463,2577,1,2845,3463,2577
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,8123,8489,8098,6,2740,3363,2487
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,6902,7212,6400,6,2740,3363,2487
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,2740,3363,2487,6,2740,3363,2487
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,7787,8143,7603,12,2614,3243,2390
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,6625,6935,6071,12,2614,3243,2390
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,2614,3243,2390,12,2614,3243,2390
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,7185,7503,6743,24,2375,3010,2229
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,6073,6396,5481,24,2375,3010,2229
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,2375,3010,2229,24,2375,3010,2229
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,1,7123,6332,8707,2,1672,1289,1825
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,1,5299,4355,6877,2,1672,1289,1825
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,1,1672,1289,1825,0,1672,1289,1825
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,6,6652,5825,8266,12,1603,1219,1717
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,6,5021,4087,6548,12,1603,1219,1717
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,6,1603,1219,1717,0,1603,1219,1717
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,12,6152,5282,7777,22,1533,1135,1595
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,12,4714,3798,6182,17,1533,1135,1595
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,12,1533,1135,1595,0,1533,1135,1595
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,24,24,5355,4405,6919,34,1401,972,1382
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,48,24,4157,3282,5491,24,1401,972,1382
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,B,168,24,1401,972,1382,0,1401,972,1382
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,0,3033,10976,1,0,1595,6889
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,0,2709,10045,0,0,1595,6889
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,0,1595,6889,0,0,1595,6889
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,0,2963,10769,6,0,1560,6774
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,0,2654,9871,0,0,1560,6774
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,0,1560,6774,0,0,1560,6774
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,0,2879,10528,12,0,1518,6636
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,0,2588,9677,0,0,1518,6636
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,0,1518,6636,0,0,1518,6636
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,0,2720,10062,20,0,1434,6374
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,0,2456,9301,0,0,1434,6374
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,0,1434,6374,0,0,1434,6374
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,0,3382,9247,1,0,1615,3496
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,0,2886,7464,0,0,1615,3496
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,0,1615,3496,0,0,1615,3496
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,0,3264,8814,6,0,1584,3393
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,0,2806,7203,0,0,1584,3393
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,0,1584,3393,0,0,1584,3393
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,0,3134,8323,12,0,1548,3273
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,0,2710,6904,0,0,1548,3273
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,0,1548,3273,0,0,1548,3273
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,0,2903,7502,18,0,1476,3035
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,0,2540,6378,0,0,1476,3035
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,0,1476,3035,0,0,1476,3035
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,0,2862,9925,0,0,1029,4173
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,0,2347,8511,0,0,1029,4173
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,0,1029,4173,0,0,1029,4173
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,0,2744,9603,0,0,989,4045
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,0,2266,8238,0,0,989,4045
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,0,989,4045,0,0,989,4045
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,0,2612,9245,0,0,942,3895
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,0,2173,7927,0,0,942,3895
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,0,942,3895,0,0,942,3895
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,0,2364,8566,0,0,868,3612
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,0,2007,7360,0,0,868,3612
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,0,868,3612,0,0,868,3612
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,1,0,3555,10757,1,0,1736,4611
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,1,0,3130,9306,0,0,1736,4611
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,1,0,1736,4611,0,0,1736,4611
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,6,0,3465,10439,6,0,1701,4476
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,6,0,3045,9025,0,0,1701,4476
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,6,0,1701,4476,0,0,1701,4476
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,12,0,3357,10063,12,0,1659,4319
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,12,0,2947,8700,0,0,1659,4319
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,12,0,1659,4319,0,0,1659,4319
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,24,24,0,3147,9345,18,0,1577,4015
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,48,24,0,2761,8062,0,0,1577,4015
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,primary_seven_city_a_b,A,168,24,0,1577,4015,0,0,1577,4015
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,1,0,782,11338,1,0,638,7544
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,1,0,758,10525,1,0,638,7544
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,1,0,638,7544,1,0,638,7544
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,6,0,777,11145,6,0,633,7439
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,6,0,753,10365,6,0,633,7439
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,6,0,633,7439,6,0,633,7439
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,12,0,771,10931,7,0,627,7318
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,12,0,747,10186,7,0,627,7318
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,12,0,627,7318,7,0,627,7318
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,24,0,759,10550,7,0,615,7093
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,24,0,735,9855,7,0,615,7093
+site_5960,"Byculla, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,24,0,615,7093,7,0,615,7093
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,1,0,664,7995,1,0,376,3728
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,1,0,616,6963,1,0,376,3728
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,1,0,376,3728,1,0,376,3728
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,6,0,654,7760,6,0,366,3638
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,6,0,606,6778,6,0,366,3638
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,6,0,366,3638,6,0,366,3638
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,12,0,642,7486,12,0,354,3530
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,12,0,594,6557,12,0,354,3530
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,12,0,354,3530,12,0,354,3530
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,24,0,618,6976,24,0,330,3314
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,24,0,570,6138,24,0,330,3314
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,24,0,330,3314,24,0,330,3314
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,1,0,486,9783,1,0,110,3567
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,1,0,374,8179,1,0,110,3567
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,1,0,110,3567,0,0,110,3567
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,6,0,461,9414,6,0,105,3448
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,6,0,354,7885,6,0,105,3448
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,6,0,105,3448,0,0,105,3448
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,12,0,431,8985,12,0,99,3320
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,12,0,330,7546,12,0,99,3320
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,12,0,99,3320,0,0,99,3320
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,24,0,378,8216,24,0,87,3079
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,24,0,282,6917,24,0,87,3079
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,24,0,87,3079,0,0,87,3079
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,1,0,425,8418,1,0,13,2990
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,1,0,329,6999,1,0,13,2990
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,1,0,13,2990,0,0,13,2990
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,6,0,405,8090,6,0,8,2883
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,6,0,309,6747,6,0,8,2883
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,6,0,8,2883,0,0,8,2883
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,12,0,381,7719,12,0,2,2757
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,12,0,285,6447,12,0,2,2757
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,12,0,2,2757,0,0,2,2757
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,24,24,0,333,7028,24,0,0,2505
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,48,24,0,246,5913,15,0,0,2505
+site_5963,"Sewri, Mumbai - BMC",Mumbai,primary_seven_city_a_b,B,168,24,0,0,2505,0,0,0,2505
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,1,0,584,10568,1,0,349,5640
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,1,0,536,9504,1,0,349,5640
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,1,0,349,5640,0,0,349,5640
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,6,0,574,10332,6,0,344,5515
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,6,0,526,9302,6,0,344,5515
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,6,0,344,5515,0,0,344,5515
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,12,0,562,10054,12,0,338,5369
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,12,0,514,9064,12,0,338,5369
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,12,0,338,5369,0,0,338,5369
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,24,24,0,538,9521,24,0,326,5096
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,48,24,0,490,8606,24,0,326,5096
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,primary_seven_city_a_b,A,168,24,0,326,5096,0,0,326,5096
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,1,17857,3613,4291,2,10348,1550,1953
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,1,16018,3078,3708,2,10348,1550,1953
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,1,10348,1550,1953,0,10348,1550,1953
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,6,17453,3485,4157,12,10194,1500,1898
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,6,15665,2983,3603,12,10194,1500,1898
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,6,10194,1500,1898,0,10194,1500,1898
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,12,16991,3339,4001,24,10018,1444,1832
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,12,15261,2881,3480,22,10018,1444,1832
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,12,10018,1444,1832,0,10018,1444,1832
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,24,16091,3074,3706,48,9670,1336,1700
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,24,14543,2694,3252,34,9670,1336,1700
+site_5404,"Mhada Colony, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,24,9670,1336,1700,0,9670,1336,1700
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,1,18747,4355,4157,1,8581,1683,2405
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,1,16541,3804,3797,1,8581,1683,2405
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,1,8581,1683,2405,0,8581,1683,2405
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,6,18274,4230,4082,6,8377,1619,2365
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,6,16103,3689,3722,6,8377,1619,2365
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,6,8377,1619,2365,0,8377,1619,2365
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,12,17719,4087,3992,8,8164,1552,2317
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,12,15587,3555,3632,8,8164,1552,2317
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,12,8164,1552,2317,0,8164,1552,2317
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,24,16629,3819,3812,8,7761,1424,2221
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,24,14575,3301,3452,8,7761,1424,2221
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,24,7761,1424,2221,0,7761,1424,2221
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,24,1,6410,2275,2717,0,3781,352,187
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,48,1,5846,1672,1839,0,3781,352,187
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,168,1,3781,352,187,0,3781,352,187
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,24,6,6290,2135,2491,0,3721,337,167
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,48,6,5736,1566,1704,0,3721,337,167
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,168,6,3721,337,167,0,3721,337,167
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,24,12,6146,1976,2253,0,3649,319,143
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,48,12,5607,1451,1547,0,3649,319,143
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,168,12,3649,319,143,0,3649,319,143
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,24,24,5868,1694,1866,0,3506,283,98
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,48,24,5355,1229,1273,0,3506,283,98
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,pune_tier_b_sensitivity,B,168,24,3506,283,98,0,3506,283,98
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,1,0,2104,3643,0,0,119,1370
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,1,0,1431,2841,0,0,119,1370
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,1,0,119,1370,0,0,119,1370
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,6,0,1948,3450,0,0,97,1335
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,6,0,1345,2717,0,0,97,1335
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,6,0,97,1335,0,0,97,1335
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,12,0,1768,3228,0,0,76,1293
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,12,0,1249,2573,0,0,76,1293
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,12,0,76,1293,0,0,76,1293
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,24,0,1451,2866,0,0,50,1209
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,24,0,1074,2314,0,0,50,1209
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,24,0,50,1209,0,0,50,1209
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,1,0,1483,4003,0,0,667,1778
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,1,0,1291,3497,0,0,667,1778
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,1,0,667,1778,0,0,667,1778
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,6,0,1443,3891,0,0,652,1743
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,6,0,1254,3397,0,0,652,1743
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,6,0,652,1743,0,0,652,1743
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,12,0,1395,3759,0,0,639,1701
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,12,0,1212,3277,0,0,639,1701
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,12,0,639,1701,0,0,639,1701
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,24,24,0,1299,3517,0,0,615,1617
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,48,24,0,1135,3047,0,0,615,1617
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,pune_tier_b_sensitivity,B,168,24,0,615,1617,0,0,615,1617

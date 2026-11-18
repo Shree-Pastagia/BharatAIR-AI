@@ -1,0 +1,87 @@
+{
+  "audit": "BharatAir Phase 4 CPCB CAAQM PM2.5 multi-city data audit",
+  "generated_at_utc": "2026-11-17T08:24:01.614905+00:00",
+  "data_scope": "filtered CPCB CAAQM PM2.5, 2009-01-01 through 2026-03-31 query bound; no CPCB rows in 2026; Embassy artifacts stored separately",
+  "key_logged": false,
+  "canonical_dataset_modified": false,
+  "phase3_artifacts_modified": false,
+  "test_targets_accessed": false,
+  "annual_retrieval_manifest": {
+    "path": "data/phase4_audit/raw_cpcb_pm25/yearly/retrieval_manifest.json",
+    "bytes": 12762,
+    "sha256": "b5056643357040afc906360ec43826c6d4a070fd4ba5ddcab3a3be00a2310517"
+  },
+  "source_snapshot_manifest": {
+    "path": "data/phase4_audit/source_snapshot_20261117T000000Z/snapshot_manifest.json",
+    "bytes": 2220,
+    "sha256": "84f41edf82142859334eef695e32e5b6e1894d3c3ef7763fe254bc70682d7155"
+  },
+  "annual_file_integrity_verified": true,
+  "deliverables": [
+    {
+      "path": "reports/PHASE4_MULTI_CITY_DATA_AUDIT.md",
+      "bytes": 12549,
+      "sha256": "ab0dca6ac757015b4a9820def1bae1ea2bbd99d06566a1c07020a96086bef345"
+    },
+    {
+      "path": "reports/PHASE4_STATION_INVENTORY.csv",
+      "bytes": 246280,
+      "sha256": "e4281a30ea9a77754217430a18c1e2a82879cd7f9ed08f6d404c8a5d58eb1bef"
+    },
+    {
+      "path": "reports/PHASE4_CITY_COVERAGE_SUMMARY.csv",
+      "bytes": 21770,
+      "sha256": "35747f1d6cc0aab08421350b79874890d28c04c8dc2d2f248b51406e352c6b10"
+    },
+    {
+      "path": "reports/PHASE4_STATION_ELIGIBILITY.csv",
+      "bytes": 248389,
+      "sha256": "02187aaa55e53797293ef013fe14016f08b6eaff409510743105dc73249b3d26"
+    },
+    {
+      "path": "reports/PHASE4_COMMON_PERIOD_ANALYSIS.md",
+      "bytes": 5829,
+      "sha256": "1fe7a93191b9d5233020d8c2d2b16e5270e137f2d0d1b111ea069eb4e13834d8"
+    },
+    {
+      "path": "reports/PHASE4_RESEARCH_DESIGN.md",
+      "bytes": 6505,
+      "sha256": "a08de83bff3e38d877f4206c9eea48b8462e224d62933ce0dc4245e86a4c92b3"
+    },
+    {
+      "path": "reports/PHASE4_SOURCE_ACCESS_LOG.md",
+      "bytes": 6109,
+      "sha256": "73a72a12749eafd74add1a281e15b057466acaf59bff0082f07db0c92bc23063"
+    },
+    {
+      "path": "data/phase4_audit/historical_coverage_summary.json",
+      "bytes": 3464,
+      "sha256": "3a990db4dd9d85ec5b19ff8df062a7ff9f34f4bac2aec708f42ed6441fe8ff03"
+    },
+    {
+      "path": "data/phase4_audit/station_monthly_coverage.csv",
+      "bytes": 1668472,
+      "sha256": "d7e8b52316614f3600e19bcd742eb648b3795825a0691be582ec30a5545924c9"
+    },
+    {
+      "path": "data/phase4_audit/city_monthly_coverage.csv",
+      "bytes": 572185,
+      "sha256": "e6c35a53c5716296633fea3ca8e2cbf8bb0647309ab095a98834d1e50fcbd562"
+    },
+    {
+      "path": "data/phase4_audit/official_register_station_map.json",
+      "bytes": 87836,
+      "sha256": "0e1d3bb415072a797cee52f27961d1bd7e19a30e3481a2a30ed6e64ed8c11879"
+    },
+    {
+      "path": "data/phase4_audit/probe_manifest.json",
+      "bytes": 484,
+      "sha256": "381daab62836c7b0b15722b4d1e315d552283092628e4aff4cd9d59713a0d42f"
+    },
+    {
+      "path": "data/phase4_audit/integrity_check.json",
+      "bytes": 8587,
+      "sha256": "f6386dce7018c9f7a75b2c1af09879a64513ce8dea6dd28042521a85fd768dec"
+    }
+  ]
+}

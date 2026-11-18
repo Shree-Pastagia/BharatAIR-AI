@@ -1,0 +1,2866 @@
+{
+  "site_5464": {
+    "station_id": "site_5464",
+    "register_city": "Agra",
+    "register_station_name": "Manoharpur, Agra",
+    "operator": "UPPCB",
+    "register_latitude": "27.2371",
+    "register_longitude": "78.0194"
+  },
+  "site_5482": {
+    "station_id": "site_5482",
+    "register_city": "Agra",
+    "register_station_name": "Rohta, Agra",
+    "operator": "UPPCB",
+    "register_latitude": "27.1070",
+    "register_longitude": "78.0001"
+  },
+  "site_307": {
+    "station_id": "site_307",
+    "register_city": "Agra",
+    "register_station_name": "Sanjay Palace, Agra",
+    "operator": "UPPCB",
+    "register_latitude": "27.1987",
+    "register_longitude": "78.0060"
+  },
+  "site_5465": {
+    "station_id": "site_5465",
+    "register_city": "Agra",
+    "register_station_name": "Sector-3B Avas Vikas Colony, Agra",
+    "operator": "UPPCB",
+    "register_latitude": "27.1941",
+    "register_longitude": "77.9624"
+  },
+  "site_5501": {
+    "station_id": "site_5501",
+    "register_city": "Agra",
+    "register_station_name": "Shahjahan Garden, Agra",
+    "operator": "UPPCB",
+    "register_latitude": "27.1693",
+    "register_longitude": "78.0358"
+  },
+  "site_5463": {
+    "station_id": "site_5463",
+    "register_city": "Agra",
+    "register_station_name": "Shastripuram, Agra",
+    "operator": "UPPCB",
+    "register_latitude": "27.1986",
+    "register_longitude": "77.9207"
+  },
+  "site_1569": {
+    "station_id": "site_1569",
+    "register_city": "Baghpat",
+    "register_station_name": "New Collectorate, Baghpat",
+    "operator": "UPPCB",
+    "register_latitude": "28.9748",
+    "register_longitude": "77.2134"
+  },
+  "site_5585": {
+    "station_id": "site_5585",
+    "register_city": "Baghpat",
+    "register_station_name": "Sardar Patel Inter College, Baghpat",
+    "operator": "UPPCB",
+    "register_latitude": "28.9649",
+    "register_longitude": "77.2788"
+  },
+  "site_5601": {
+    "station_id": "site_5601",
+    "register_city": "Bareilly",
+    "register_station_name": "Rajendra Nagar, Bareilly",
+    "operator": "UPPCB",
+    "register_latitude": "28.3891",
+    "register_longitude": "79.4296"
+  },
+  "site_1542": {
+    "station_id": "site_1542",
+    "register_city": "Bulandshahr",
+    "register_station_name": "Yamunapuram, Bulandshahr",
+    "operator": "UPPCB",
+    "register_latitude": "28.4070",
+    "register_longitude": "77.8498"
+  },
+  "site_5480": {
+    "station_id": "site_5480",
+    "register_city": "Firozabad",
+    "register_station_name": "Nagla Bhau, Firozabad",
+    "operator": "UPPCB",
+    "register_latitude": "27.1689",
+    "register_longitude": "78.3770"
+  },
+  "site_5584": {
+    "station_id": "site_5584",
+    "register_city": "Firozabad",
+    "register_station_name": "Vibhab Nagar, Firozabad",
+    "operator": "UPPCB",
+    "register_latitude": "27.1594",
+    "register_longitude": "78.3953"
+  },
+  "site_5082": {
+    "station_id": "site_5082",
+    "register_city": "Ghaziabad",
+    "register_station_name": "Indirapuram, Ghaziabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.6462",
+    "register_longitude": "77.3581"
+  },
+  "site_5083": {
+    "station_id": "site_5083",
+    "register_city": "Ghaziabad",
+    "register_station_name": "Loni, Ghaziabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.7573",
+    "register_longitude": "77.2788"
+  },
+  "site_5081": {
+    "station_id": "site_5081",
+    "register_city": "Ghaziabad",
+    "register_station_name": "Sanjay Nagar, Ghaziabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.6854",
+    "register_longitude": "77.4538"
+  },
+  "site_144": {
+    "station_id": "site_144",
+    "register_city": "Ghaziabad",
+    "register_station_name": "Vasundhara, Ghaziabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.6603",
+    "register_longitude": "77.3573"
+  },
+  "site_5472": {
+    "station_id": "site_5472",
+    "register_city": "Gorakhpur",
+    "register_station_name": null,
+    "operator": "UPPCB",
+    "register_latitude": "26.7301",
+    "register_longitude": "83.4339"
+  },
+  "site_1541": {
+    "station_id": "site_1541",
+    "register_city": "Greater Noida",
+    "register_station_name": "Knowledge Park - III, Greater Noida",
+    "operator": "UPPCB",
+    "register_latitude": "28.4727",
+    "register_longitude": "77.4820"
+  },
+  "site_5121": {
+    "station_id": "site_5121",
+    "register_city": "Greater Noida",
+    "register_station_name": "Knowledge Park - V, Greater Noida",
+    "operator": "UPPCB",
+    "register_latitude": "28.5571",
+    "register_longitude": "77.4537"
+  },
+  "site_5023": {
+    "station_id": "site_5023",
+    "register_city": "Hapur",
+    "register_station_name": "Anand Vihar, Hapur",
+    "operator": "UPPCB",
+    "register_latitude": "28.7256",
+    "register_longitude": "77.7497"
+  },
+  "site_5583": {
+    "station_id": "site_5583",
+    "register_city": "Jhansi",
+    "register_station_name": "Shivaji Nagar, Jhansi",
+    "operator": "UPPCB",
+    "register_latitude": "25.4547",
+    "register_longitude": "78.6039"
+  },
+  "site_5500": {
+    "station_id": "site_5500",
+    "register_city": "Kanpur",
+    "register_station_name": "FTI Kidwai Nagar, Kanpur",
+    "operator": "UPPCB",
+    "register_latitude": "26.4283",
+    "register_longitude": "80.3271"
+  },
+  "site_5416": {
+    "station_id": "site_5416",
+    "register_city": "Kanpur",
+    "register_station_name": "IITK, Kanpur",
+    "operator": "IITK",
+    "register_latitude": "26.5117",
+    "register_longitude": "80.2351"
+  },
+  "site_5474": {
+    "station_id": "site_5474",
+    "register_city": "Kanpur",
+    "register_station_name": "NSI Kalyanpur, Kanpur",
+    "operator": "UPPCB",
+    "register_latitude": "26.5100",
+    "register_longitude": "80.2496"
+  },
+  "site_276": {
+    "station_id": "site_276",
+    "register_city": "Kanpur",
+    "register_station_name": "Nehru Nagar, Kanpur",
+    "operator": "UPPCB",
+    "register_latitude": "26.4703",
+    "register_longitude": "80.3230"
+  },
+  "site_5603": {
+    "station_id": "site_5603",
+    "register_city": "Khurja",
+    "register_station_name": "Kalindi Kunj, Khurja",
+    "operator": "UPPCB",
+    "register_latitude": "28.2349",
+    "register_longitude": "77.8683"
+  },
+  "site_5460": {
+    "station_id": "site_5460",
+    "register_city": "Lucknow",
+    "register_station_name": "B R Ambedkar University, Lucknow",
+    "operator": "UPPCB",
+    "register_latitude": "26.7664",
+    "register_longitude": "80.9273"
+  },
+  "site_272": {
+    "station_id": "site_272",
+    "register_city": "Lucknow",
+    "register_station_name": "Central School, Lucknow",
+    "operator": "CPCB",
+    "register_latitude": "26.8821",
+    "register_longitude": "80.9303"
+  },
+  "site_5128": {
+    "station_id": "site_5128",
+    "register_city": "Lucknow",
+    "register_station_name": "Gomti Nagar, Lucknow",
+    "operator": "UPPCB",
+    "register_latitude": "26.8681",
+    "register_longitude": "81.0051"
+  },
+  "site_5462": {
+    "station_id": "site_5462",
+    "register_city": "Lucknow",
+    "register_station_name": "Kukrail Picnic Spot-1, Lucknow",
+    "operator": "UPPCB",
+    "register_latitude": "26.9072",
+    "register_longitude": "80.9858"
+  },
+  "site_277": {
+    "station_id": "site_277",
+    "register_city": "Lucknow",
+    "register_station_name": "Lalbagh, Lucknow",
+    "operator": "CPCB",
+    "register_latitude": "26.8459",
+    "register_longitude": "80.9366"
+  },
+  "site_297": {
+    "station_id": "site_297",
+    "register_city": "Lucknow",
+    "register_station_name": "Talkatora District Industries Center, Lucknow",
+    "operator": "CPCB",
+    "register_latitude": "26.8340",
+    "register_longitude": "80.8917"
+  },
+  "site_5258": {
+    "station_id": "site_5258",
+    "register_city": "Meerut",
+    "register_station_name": "Ganga Nagar, Meerut",
+    "operator": "UPPCB",
+    "register_latitude": "28.9993",
+    "register_longitude": "77.7590"
+  },
+  "site_5109": {
+    "station_id": "site_5109",
+    "register_city": "Meerut",
+    "register_station_name": "Jai Bhim Nagar, Meerut",
+    "operator": "UPPCB",
+    "register_latitude": "28.9536",
+    "register_longitude": "77.7623"
+  },
+  "site_5257": {
+    "station_id": "site_5257",
+    "register_city": "Meerut",
+    "register_station_name": "Pallavpuram Phase 2, Meerut",
+    "operator": "UPPCB",
+    "register_latitude": "29.0635",
+    "register_longitude": "77.7097"
+  },
+  "site_5554": {
+    "station_id": "site_5554",
+    "register_city": "Moradabad",
+    "register_station_name": "Buddhi Vihar, Moradabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.8353",
+    "register_longitude": "78.7446"
+  },
+  "site_5556": {
+    "station_id": "site_5556",
+    "register_city": "Moradabad",
+    "register_station_name": "Eco Herbal Park, Moradabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.8407",
+    "register_longitude": "78.6975"
+  },
+  "site_5537": {
+    "station_id": "site_5537",
+    "register_city": "Moradabad",
+    "register_station_name": "Employment Office, Moradabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.8853",
+    "register_longitude": "78.7388"
+  },
+  "site_5555": {
+    "station_id": "site_5555",
+    "register_city": "Moradabad",
+    "register_station_name": "Jigar Colony, Moradabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.8567",
+    "register_longitude": "78.7726"
+  },
+  "site_5620": {
+    "station_id": "site_5620",
+    "register_city": "Moradabad",
+    "register_station_name": "Kashiram Nagar, Moradabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.8494",
+    "register_longitude": "78.7424"
+  },
+  "site_1398": {
+    "station_id": "site_1398",
+    "register_city": "Moradabad",
+    "register_station_name": "Lajpat Nagar, Moradabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.8253",
+    "register_longitude": "78.7213"
+  },
+  "site_5613": {
+    "station_id": "site_5613",
+    "register_city": "Moradabad",
+    "register_station_name": "Transport Nagar, Moradabad",
+    "operator": "UPPCB",
+    "register_latitude": "28.8026",
+    "register_longitude": "78.7537"
+  },
+  "site_1550": {
+    "station_id": "site_1550",
+    "register_city": "Muzaffarnagar",
+    "register_station_name": "New Mandi, Muzaffarnagar",
+    "operator": "UPPCB",
+    "register_latitude": "29.4724",
+    "register_longitude": "77.7194"
+  },
+  "site_153": {
+    "station_id": "site_153",
+    "register_city": "Noida",
+    "register_station_name": "Sector - 125, Noida",
+    "operator": "UPPCB",
+    "register_latitude": "28.5448",
+    "register_longitude": "77.3231"
+  },
+  "site_111": {
+    "station_id": "site_111",
+    "register_city": "Noida",
+    "register_station_name": "Sector - 62, Noida",
+    "operator": "IMD",
+    "register_latitude": "28.6245",
+    "register_longitude": "77.3577"
+  },
+  "site_5123": {
+    "station_id": "site_5123",
+    "register_city": "Noida",
+    "register_station_name": "Sector-1, Noida",
+    "operator": "UPPCB",
+    "register_latitude": "28.5898",
+    "register_longitude": "77.3101"
+  },
+  "site_5122": {
+    "station_id": "site_5122",
+    "register_city": "Noida",
+    "register_station_name": "Sector-116, Noida",
+    "operator": "UPPCB",
+    "register_latitude": "28.5692",
+    "register_longitude": "77.3938"
+  },
+  "site_5461": {
+    "station_id": "site_5461",
+    "register_city": "Prayagraj",
+    "register_station_name": "Jhunsi, Prayagraj",
+    "operator": "UPPCB",
+    "register_latitude": "25.4256",
+    "register_longitude": "81.9172"
+  },
+  "site_5459": {
+    "station_id": "site_5459",
+    "register_city": "Prayagraj",
+    "register_station_name": "Motilal Nehru NIT, Prayagraj",
+    "operator": "UPPCB",
+    "register_latitude": "25.4940",
+    "register_longitude": "81.8630"
+  },
+  "site_5484": {
+    "station_id": "site_5484",
+    "register_city": "Prayagraj",
+    "register_station_name": "Nagar Nigam, Prayagraj",
+    "operator": "UPPCB",
+    "register_latitude": "25.4492",
+    "register_longitude": "81.8274"
+  },
+  "site_273": {
+    "station_id": "site_273",
+    "register_city": "Varanasi",
+    "register_station_name": "Ardhali Bazar, Varanasi",
+    "operator": "UPPCB",
+    "register_latitude": "25.3506",
+    "register_longitude": "82.9083"
+  },
+  "site_5469": {
+    "station_id": "site_5469",
+    "register_city": "Varanasi",
+    "register_station_name": "Bhelupur, Varanasi",
+    "operator": "UPPCB",
+    "register_latitude": "25.3018",
+    "register_longitude": "82.9968"
+  },
+  "site_5468": {
+    "station_id": "site_5468",
+    "register_city": "Varanasi",
+    "register_station_name": "IESD Banaras Hindu University, Varanasi",
+    "operator": "UPPCB",
+    "register_latitude": "25.2623",
+    "register_longitude": "82.9954"
+  },
+  "site_5475": {
+    "station_id": "site_5475",
+    "register_city": "Varanasi",
+    "register_station_name": "Maldahiya, Varanasi",
+    "operator": "UPPCB",
+    "register_latitude": "25.3239",
+    "register_longitude": "82.9969"
+  },
+  "site_5483": {
+    "station_id": "site_5483",
+    "register_city": "Vrindavan",
+    "register_station_name": "Omex Eternity, Vrindavan",
+    "operator": "UPPCB",
+    "register_latitude": "27.5714",
+    "register_longitude": "77.6558"
+  },
+  "site_198": {
+    "station_id": "site_198",
+    "register_city": "Aurangabad",
+    "register_station_name": "More Chowk Waluj, Aurangabad",
+    "operator": "MPCB",
+    "register_latitude": "19.8389",
+    "register_longitude": "75.2444"
+  },
+  "site_271": {
+    "station_id": "site_271",
+    "register_city": "Chandrapur",
+    "register_station_name": "Chandrapur, Chandrapur",
+    "operator": "MPCB",
+    "register_latitude": "19.6453",
+    "register_longitude": "77.6345"
+  },
+  "site_295": {
+    "station_id": "site_295",
+    "register_city": "Chandrapur",
+    "register_station_name": "MIDC Khutala, Chandrapur",
+    "operator": "MPCB",
+    "register_latitude": "19.9775",
+    "register_longitude": "79.2337"
+  },
+  "site_5118": {
+    "station_id": "site_5118",
+    "register_city": "Kalyan",
+    "register_station_name": "Khadakpada, Kalyan",
+    "operator": "MPCB",
+    "register_latitude": "19.2529",
+    "register_longitude": "73.1420"
+  },
+  "site_5392": {
+    "station_id": "site_5392",
+    "register_city": "Mumbai",
+    "register_station_name": "Bandra Kurla Complex, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.0535",
+    "register_longitude": "72.8464"
+  },
+  "site_168": {
+    "station_id": "site_168",
+    "register_city": "Mumbai",
+    "register_station_name": "Bandra, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.0627",
+    "register_longitude": "72.8461"
+  },
+  "site_5400": {
+    "station_id": "site_5400",
+    "register_city": "Mumbai",
+    "register_station_name": "Borivali East, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.2324",
+    "register_longitude": "72.8689"
+  },
+  "site_5113": {
+    "station_id": "site_5113",
+    "register_city": "Mumbai",
+    "register_station_name": "Borivali East, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.2243",
+    "register_longitude": "72.8658"
+  },
+  "site_5399": {
+    "station_id": "site_5399",
+    "register_city": "Mumbai",
+    "register_station_name": "Chakala-Andheri East, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.1107",
+    "register_longitude": "72.8608"
+  },
+  "site_5107": {
+    "station_id": "site_5107",
+    "register_city": "Mumbai",
+    "register_station_name": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.1008",
+    "register_longitude": "72.8746"
+  },
+  "site_5120": {
+    "station_id": "site_5120",
+    "register_city": "Mumbai",
+    "register_station_name": "Colaba, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "18.9100",
+    "register_longitude": "72.8200"
+  },
+  "site_5396": {
+    "station_id": "site_5396",
+    "register_city": "Mumbai",
+    "register_station_name": "Deonar, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.0495",
+    "register_longitude": "72.9230"
+  },
+  "site_5412": {
+    "station_id": "site_5412",
+    "register_city": "Mumbai",
+    "register_station_name": "Kandivali East, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.2058",
+    "register_longitude": "72.8682"
+  },
+  "site_5397": {
+    "station_id": "site_5397",
+    "register_city": "Mumbai",
+    "register_station_name": "Khindipada-Bhandup West, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.1653",
+    "register_longitude": "72.9221"
+  },
+  "site_5104": {
+    "station_id": "site_5104",
+    "register_city": "Mumbai",
+    "register_station_name": "Kurla, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.0863",
+    "register_longitude": "72.8888"
+  },
+  "site_5402": {
+    "station_id": "site_5402",
+    "register_city": "Mumbai",
+    "register_station_name": "Malad West, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.1971",
+    "register_longitude": "72.8220"
+  },
+  "site_5394": {
+    "station_id": "site_5394",
+    "register_city": "Mumbai",
+    "register_station_name": "Mazgaon, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "18.9670",
+    "register_longitude": "72.8421"
+  },
+  "site_5413": {
+    "station_id": "site_5413",
+    "register_city": "Mumbai",
+    "register_station_name": "Mulund West, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.1750",
+    "register_longitude": "72.9419"
+  },
+  "site_5398": {
+    "station_id": "site_5398",
+    "register_city": "Mumbai",
+    "register_station_name": "Navy Nagar-Colaba, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "18.8978",
+    "register_longitude": "72.8133"
+  },
+  "site_5112": {
+    "station_id": "site_5112",
+    "register_city": "Mumbai",
+    "register_station_name": "Powai, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.1375",
+    "register_longitude": "72.9151"
+  },
+  "site_5403": {
+    "station_id": "site_5403",
+    "register_city": "Mumbai",
+    "register_station_name": "Siddharth Nagar-Worli, Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.0001",
+    "register_longitude": "72.8140"
+  },
+  "site_5119": {
+    "station_id": "site_5119",
+    "register_city": "Mumbai",
+    "register_station_name": "Sion, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.0470",
+    "register_longitude": "72.8746"
+  },
+  "site_5102": {
+    "station_id": "site_5102",
+    "register_city": "Mumbai",
+    "register_station_name": "Vasai West, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.3832",
+    "register_longitude": "72.8204"
+  },
+  "site_5106": {
+    "station_id": "site_5106",
+    "register_city": "Mumbai",
+    "register_station_name": "Vile Parle West, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.1086",
+    "register_longitude": "72.8362"
+  },
+  "site_5115": {
+    "station_id": "site_5115",
+    "register_city": "Mumbai",
+    "register_station_name": "Worli, Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "18.9936",
+    "register_longitude": "72.8128"
+  },
+  "site_303": {
+    "station_id": "site_303",
+    "register_city": "Nagpur",
+    "register_station_name": "Opp GPO Civil Lines, Nagpur",
+    "operator": "MPCB",
+    "register_latitude": "21.1529",
+    "register_longitude": "79.0518"
+  },
+  "site_304": {
+    "station_id": "site_304",
+    "register_city": "Nashik",
+    "register_station_name": "Gangapur Road, Nashik",
+    "operator": "MPCB",
+    "register_latitude": "20.0073",
+    "register_longitude": "73.7762"
+  },
+  "site_261": {
+    "station_id": "site_261",
+    "register_city": "Navi Mumbai",
+    "register_station_name": "Airoli, Navi Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.1494",
+    "register_longitude": "72.9986"
+  },
+  "site_5114": {
+    "station_id": "site_5114",
+    "register_city": "Navi Mumbai",
+    "register_station_name": "Mahape, Navi Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.1135",
+    "register_longitude": "73.0090"
+  },
+  "site_5103": {
+    "station_id": "site_5103",
+    "register_city": "Navi Mumbai",
+    "register_station_name": "Nerul, Navi Mumbai",
+    "operator": "MPCB",
+    "register_latitude": "19.0088",
+    "register_longitude": "73.0166"
+  },
+  "site_5401": {
+    "station_id": "site_5401",
+    "register_city": "Navi Mumbai",
+    "register_station_name": "Sector-19A Nerul, Navi Mumbai",
+    "operator": "IITM",
+    "register_latitude": "19.0440",
+    "register_longitude": "73.0325"
+  },
+  "site_5405": {
+    "station_id": "site_5405",
+    "register_city": "Pune",
+    "register_station_name": "Alandi, Pune",
+    "operator": "IITM",
+    "register_latitude": "18.6751",
+    "register_longitude": "73.8927"
+  },
+  "site_5406": {
+    "station_id": "site_5406",
+    "register_city": "Pune",
+    "register_station_name": "Bhosari, Pune",
+    "operator": "IITM",
+    "register_latitude": "18.6401",
+    "register_longitude": "73.8490"
+  },
+  "site_5407": {
+    "station_id": "site_5407",
+    "register_city": "Pune",
+    "register_station_name": "Hadapsar, Pune",
+    "operator": "IITM",
+    "register_latitude": "18.5018",
+    "register_longitude": "73.9275"
+  },
+  "site_292": {
+    "station_id": "site_292",
+    "register_city": "Pune",
+    "register_station_name": "Karve Road, Pune",
+    "operator": "MPCB",
+    "register_latitude": "18.5012",
+    "register_longitude": "73.8166"
+  },
+  "site_5410": {
+    "station_id": "site_5410",
+    "register_city": "Pune",
+    "register_station_name": "MIT-Kothrud, Pune",
+    "operator": "IITM",
+    "register_latitude": "18.5178",
+    "register_longitude": "73.8215"
+  },
+  "site_5404": {
+    "station_id": "site_5404",
+    "register_city": "Pune",
+    "register_station_name": "Mhada Colony, Pune",
+    "operator": "IITM",
+    "register_latitude": "18.5730",
+    "register_longitude": "73.9277"
+  },
+  "site_5409": {
+    "station_id": "site_5409",
+    "register_city": "Pune",
+    "register_station_name": "Revenue Colony-Shivajinagar, Pune",
+    "operator": "IITM",
+    "register_latitude": "18.5301",
+    "register_longitude": "73.8496"
+  },
+  "site_5408": {
+    "station_id": "site_5408",
+    "register_city": "Pune",
+    "register_station_name": "Transport Nagar-Nigdi, Pune",
+    "operator": "IITM",
+    "register_latitude": "18.6643",
+    "register_longitude": "73.7640"
+  },
+  "site_302": {
+    "station_id": "site_302",
+    "register_city": "Solapur",
+    "register_station_name": "Solapur, Solapur",
+    "operator": "MPCB",
+    "register_latitude": "17.6599",
+    "register_longitude": "75.9064"
+  },
+  "site_305": {
+    "station_id": "site_305",
+    "register_city": "Thane",
+    "register_station_name": "Pimpleshwar Mandir, Thane",
+    "operator": "MPCB",
+    "register_latitude": "19.1921",
+    "register_longitude": "72.9585"
+  },
+  "site_5024": {
+    "station_id": "site_5024",
+    "register_city": "Delhi",
+    "register_station_name": "Alipur, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.8153",
+    "register_longitude": "77.1530"
+  },
+  "site_301": {
+    "station_id": "site_301",
+    "register_city": "Delhi",
+    "register_station_name": "Anand Vihar, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6476",
+    "register_longitude": "77.3158"
+  },
+  "site_1420": {
+    "station_id": "site_1420",
+    "register_city": "Delhi",
+    "register_station_name": "Ashok Vihar, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6954",
+    "register_longitude": "77.1817"
+  },
+  "site_108": {
+    "station_id": "site_108",
+    "register_city": "Delhi",
+    "register_station_name": "Aya Nagar, Delhi",
+    "operator": "IMD",
+    "register_latitude": "28.4707",
+    "register_longitude": "77.1099"
+  },
+  "site_1560": {
+    "station_id": "site_1560",
+    "register_city": "Delhi",
+    "register_station_name": "Bawana, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.7762",
+    "register_longitude": "77.0511"
+  },
+  "site_104": {
+    "station_id": "site_104",
+    "register_city": "Delhi",
+    "register_station_name": "Burari Crossing, Delhi",
+    "operator": "IMD",
+    "register_latitude": "28.7257",
+    "register_longitude": "77.2012"
+  },
+  "site_103": {
+    "station_id": "site_103",
+    "register_city": "Delhi",
+    "register_station_name": "CRRI Mathura Road, Delhi",
+    "operator": "IMD",
+    "register_latitude": "28.5512",
+    "register_longitude": "77.2736"
+  },
+  "site_5393": {
+    "station_id": "site_5393",
+    "register_city": "Delhi",
+    "register_station_name": "Chandni Chowk, Delhi",
+    "operator": "IITM",
+    "register_latitude": "28.6568",
+    "register_longitude": "77.2272"
+  },
+  "site_118": {
+    "station_id": "site_118",
+    "register_city": "Delhi",
+    "register_station_name": "DTU, Delhi",
+    "operator": "CPCB",
+    "register_latitude": "28.7500",
+    "register_longitude": "77.1113"
+  },
+  "site_1421": {
+    "station_id": "site_1421",
+    "register_city": "Delhi",
+    "register_station_name": "Dr. Karni Singh Shooting Range, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.4986",
+    "register_longitude": "77.2648"
+  },
+  "site_1422": {
+    "station_id": "site_1422",
+    "register_city": "Delhi",
+    "register_station_name": "Dwarka-Sector 8, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.5710",
+    "register_longitude": "77.0719"
+  },
+  "site_106": {
+    "station_id": "site_106",
+    "register_city": "Delhi",
+    "register_station_name": "IGI Airport (T3), Delhi",
+    "operator": "IMD",
+    "register_latitude": "28.5628",
+    "register_longitude": "77.1180"
+  },
+  "site_114": {
+    "station_id": "site_114",
+    "register_city": "Delhi",
+    "register_station_name": "IHBAS, Dilshad Garden, Delhi",
+    "operator": "CPCB",
+    "register_latitude": "28.6812",
+    "register_longitude": "77.3025"
+  },
+  "site_117": {
+    "station_id": "site_117",
+    "register_city": "Delhi",
+    "register_station_name": "ITO, Delhi",
+    "operator": "CPCB",
+    "register_latitude": "28.6286",
+    "register_longitude": "77.2411"
+  },
+  "site_1423": {
+    "station_id": "site_1423",
+    "register_city": "Delhi",
+    "register_station_name": "Jahangirpuri, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.7328",
+    "register_longitude": "77.1706"
+  },
+  "site_1424": {
+    "station_id": "site_1424",
+    "register_city": "Delhi",
+    "register_station_name": "Jawaharlal Nehru Stadium, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.5803",
+    "register_longitude": "77.2338"
+  },
+  "site_5395": {
+    "station_id": "site_5395",
+    "register_city": "Delhi",
+    "register_station_name": "Lodhi Road, Delhi",
+    "operator": "IITM",
+    "register_latitude": "28.5883",
+    "register_longitude": "77.2217"
+  },
+  "site_109": {
+    "station_id": "site_109",
+    "register_city": "Delhi",
+    "register_station_name": "Lodhi Road, Delhi",
+    "operator": "IMD",
+    "register_latitude": "28.5918",
+    "register_longitude": "77.2273"
+  },
+  "site_1425": {
+    "station_id": "site_1425",
+    "register_city": "Delhi",
+    "register_station_name": "Major Dhyan Chand National Stadium, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6113",
+    "register_longitude": "77.2377"
+  },
+  "site_122": {
+    "station_id": "site_122",
+    "register_city": "Delhi",
+    "register_station_name": "Mandir Marg, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6364",
+    "register_longitude": "77.2011"
+  },
+  "site_1561": {
+    "station_id": "site_1561",
+    "register_city": "Delhi",
+    "register_station_name": "Mundka, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6847",
+    "register_longitude": "77.0766"
+  },
+  "site_115": {
+    "station_id": "site_115",
+    "register_city": "Delhi",
+    "register_station_name": "NSIT Dwarka, Delhi",
+    "operator": "CPCB",
+    "register_latitude": "28.6091",
+    "register_longitude": "77.0325"
+  },
+  "site_1427": {
+    "station_id": "site_1427",
+    "register_city": "Delhi",
+    "register_station_name": "Najafgarh, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.5702",
+    "register_longitude": "76.9338"
+  },
+  "site_1426": {
+    "station_id": "site_1426",
+    "register_city": "Delhi",
+    "register_station_name": "Narela, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.8228",
+    "register_longitude": "77.1020"
+  },
+  "site_1429": {
+    "station_id": "site_1429",
+    "register_city": "Delhi",
+    "register_station_name": "Nehru Nagar, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.5679",
+    "register_longitude": "77.2505"
+  },
+  "site_105": {
+    "station_id": "site_105",
+    "register_city": "Delhi",
+    "register_station_name": "North Campus, DU, Delhi",
+    "operator": "IMD",
+    "register_latitude": "28.6574",
+    "register_longitude": "77.1585"
+  },
+  "site_1428": {
+    "station_id": "site_1428",
+    "register_city": "Delhi",
+    "register_station_name": "Okhla Phase-2, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.5308",
+    "register_longitude": "77.2713"
+  },
+  "site_1431": {
+    "station_id": "site_1431",
+    "register_city": "Delhi",
+    "register_station_name": "Patparganj, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6238",
+    "register_longitude": "77.2872"
+  },
+  "site_125": {
+    "station_id": "site_125",
+    "register_city": "Delhi",
+    "register_station_name": "Punjabi Bagh, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6740",
+    "register_longitude": "77.1310"
+  },
+  "site_1563": {
+    "station_id": "site_1563",
+    "register_city": "Delhi",
+    "register_station_name": "Pusa, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6396",
+    "register_longitude": "77.1463"
+  },
+  "site_107": {
+    "station_id": "site_107",
+    "register_city": "Delhi",
+    "register_station_name": "Pusa, Delhi",
+    "operator": "IMD",
+    "register_latitude": "28.6396",
+    "register_longitude": "77.1463"
+  },
+  "site_124": {
+    "station_id": "site_124",
+    "register_city": "Delhi",
+    "register_station_name": "R K Puram, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.5633",
+    "register_longitude": "77.1869"
+  },
+  "site_1430": {
+    "station_id": "site_1430",
+    "register_city": "Delhi",
+    "register_station_name": "Rohini, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.7325",
+    "register_longitude": "77.1199"
+  },
+  "site_113": {
+    "station_id": "site_113",
+    "register_city": "Delhi",
+    "register_station_name": "Shadipur, Delhi",
+    "operator": "CPCB",
+    "register_latitude": "28.6515",
+    "register_longitude": "77.1473"
+  },
+  "site_119": {
+    "station_id": "site_119",
+    "register_city": "Delhi",
+    "register_station_name": "Sirifort, Delhi",
+    "operator": "CPCB",
+    "register_latitude": "28.5504",
+    "register_longitude": "77.2159"
+  },
+  "site_1432": {
+    "station_id": "site_1432",
+    "register_city": "Delhi",
+    "register_station_name": "Sonia Vihar, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.7105",
+    "register_longitude": "77.2495"
+  },
+  "site_1562": {
+    "station_id": "site_1562",
+    "register_city": "Delhi",
+    "register_station_name": "Sri Aurobindo Marg, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.5313",
+    "register_longitude": "77.1902"
+  },
+  "site_1435": {
+    "station_id": "site_1435",
+    "register_city": "Delhi",
+    "register_station_name": "Vivek Vihar, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6723",
+    "register_longitude": "77.3153"
+  },
+  "site_1434": {
+    "station_id": "site_1434",
+    "register_city": "Delhi",
+    "register_station_name": "Wazirpur, Delhi",
+    "operator": "DPCC",
+    "register_latitude": "28.6998",
+    "register_longitude": "77.1655"
+  },
+  "site_5539": {
+    "station_id": "site_5539",
+    "register_city": "Araria",
+    "register_station_name": "Kharahiya Basti, Araria",
+    "operator": "BSPCB",
+    "register_latitude": "26.1465",
+    "register_longitude": "87.4542"
+  },
+  "site_5538": {
+    "station_id": "site_5538",
+    "register_city": "Arrah",
+    "register_station_name": "New DM Office, Arrah",
+    "operator": "BSPCB",
+    "register_latitude": "25.5626",
+    "register_longitude": "84.6633"
+  },
+  "site_5544": {
+    "station_id": "site_5544",
+    "register_city": "AurangabadB",
+    "register_station_name": "Gurdeo Nagar, Aurangabad",
+    "operator": "BSPCB",
+    "register_latitude": "24.7575",
+    "register_longitude": "84.3662"
+  },
+  "site_5540": {
+    "station_id": "site_5540",
+    "register_city": "Begusarai",
+    "register_station_name": "DRCC Anandpur, Begusarai",
+    "operator": "BSPCB",
+    "register_latitude": "25.4443",
+    "register_longitude": "86.1402"
+  },
+  "site_5476": {
+    "station_id": "site_5476",
+    "register_city": "Bettiah",
+    "register_station_name": "Kamalnath Nagar, Bettiah",
+    "operator": "BSPCB",
+    "register_latitude": "26.8037",
+    "register_longitude": "84.5195"
+  },
+  "site_5543": {
+    "station_id": "site_5543",
+    "register_city": "Bhagalpur",
+    "register_station_name": "DM Office_Kachari Chowk, Bhagalpur",
+    "operator": "BSPCB",
+    "register_latitude": "25.2510",
+    "register_longitude": "86.9890"
+  },
+  "site_5541": {
+    "station_id": "site_5541",
+    "register_city": "Bhagalpur",
+    "register_station_name": "Mayaganj, Bhagalpur",
+    "operator": "BSPCB",
+    "register_latitude": "25.2652",
+    "register_longitude": "87.0129"
+  },
+  "site_5481": {
+    "station_id": "site_5481",
+    "register_city": "Bihar Sharif",
+    "register_station_name": "D M Colony, Bihar Sharif",
+    "operator": "BSPCB",
+    "register_latitude": "25.2048",
+    "register_longitude": "85.5150"
+  },
+  "site_5542": {
+    "station_id": "site_5542",
+    "register_city": "Buxar",
+    "register_station_name": "Central Jail, Buxar",
+    "operator": "BSPCB",
+    "register_latitude": "25.5556",
+    "register_longitude": "83.9509"
+  },
+  "site_5545": {
+    "station_id": "site_5545",
+    "register_city": "Chhapra",
+    "register_station_name": "Darshan Nagar, Chhapra",
+    "operator": "BSPCB",
+    "register_latitude": "25.7808",
+    "register_longitude": "84.7447"
+  },
+  "site_5477": {
+    "station_id": "site_5477",
+    "register_city": "Darbhanga",
+    "register_station_name": "Town Hall - Lal Bagh, Darbhanga",
+    "operator": "BSPCB",
+    "register_latitude": "26.1515",
+    "register_longitude": "85.8934"
+  },
+  "site_159": {
+    "station_id": "site_159",
+    "register_city": "Gaya",
+    "register_station_name": "Collectorate, Gaya",
+    "operator": "BSPCB",
+    "register_latitude": "24.7955",
+    "register_longitude": "84.9994"
+  },
+  "site_5548": {
+    "station_id": "site_5548",
+    "register_city": "Gaya",
+    "register_station_name": "Kareemganj, Gaya",
+    "operator": "BSPCB",
+    "register_latitude": "24.7924",
+    "register_longitude": "84.9924"
+  },
+  "site_5338": {
+    "station_id": "site_5338",
+    "register_city": "Gaya",
+    "register_station_name": "SFTI Kusdihra, Gaya",
+    "operator": "BSPCB",
+    "register_latitude": "24.7625",
+    "register_longitude": "84.9823"
+  },
+  "site_5337": {
+    "station_id": "site_5337",
+    "register_city": "Hajipur",
+    "register_station_name": "Industrial Area, Hajipur",
+    "operator": "BSPCB",
+    "register_latitude": "25.6972",
+    "register_longitude": "85.2459"
+  },
+  "site_5546": {
+    "station_id": "site_5546",
+    "register_city": "Katihar",
+    "register_station_name": "Mirchaibari, Katihar",
+    "operator": "BSPCB",
+    "register_latitude": "25.5601",
+    "register_longitude": "87.5533"
+  },
+  "site_5547": {
+    "station_id": "site_5547",
+    "register_city": "Kishanganj",
+    "register_station_name": "SDM Office_Khagra, Kishanganj",
+    "operator": "BSPCB",
+    "register_latitude": "26.0881",
+    "register_longitude": "87.9384"
+  },
+  "site_5550": {
+    "station_id": "site_5550",
+    "register_city": "Manguraha",
+    "register_station_name": "Forest Rest House, Manguraha",
+    "operator": "BSPCB",
+    "register_latitude": "25.3573",
+    "register_longitude": "84.1078"
+  },
+  "site_5478": {
+    "station_id": "site_5478",
+    "register_city": "Motihari",
+    "register_station_name": "Gandak Colony, Motihari",
+    "operator": "BSPCB",
+    "register_latitude": "26.6309",
+    "register_longitude": "84.9005"
+  },
+  "site_5490": {
+    "station_id": "site_5490",
+    "register_city": "Munger",
+    "register_station_name": "Town Hall, Munger",
+    "operator": "BSPCB",
+    "register_latitude": "25.3768",
+    "register_longitude": "86.4715"
+  },
+  "site_5370": {
+    "station_id": "site_5370",
+    "register_city": "Muzaffarpur",
+    "register_station_name": "Buddha Colony, Muzaffarpur",
+    "operator": "BSPCB",
+    "register_latitude": "26.1144",
+    "register_longitude": "85.3981"
+  },
+  "site_5479": {
+    "station_id": "site_5479",
+    "register_city": "Muzaffarpur",
+    "register_station_name": "MIT-Daudpur Kothi, Muzaffarpur",
+    "operator": "BSPCB",
+    "register_latitude": "26.1403",
+    "register_longitude": "85.3650"
+  },
+  "site_158": {
+    "station_id": "site_158",
+    "register_city": "Muzaffarpur",
+    "register_station_name": "Muzaffarpur Collectorate, Muzaffarpur",
+    "operator": "BSPCB",
+    "register_latitude": "26.1209",
+    "register_longitude": "85.3647"
+  },
+  "site_5336": {
+    "station_id": "site_5336",
+    "register_city": "Patna",
+    "register_station_name": "DRM Office Danapur, Patna",
+    "operator": "BSPCB",
+    "register_latitude": "25.5866",
+    "register_longitude": "85.0436"
+  },
+  "site_5335": {
+    "station_id": "site_5335",
+    "register_city": "Patna",
+    "register_station_name": "Govt. High School Shikarpur, Patna",
+    "operator": "BSPCB",
+    "register_latitude": "25.5925",
+    "register_longitude": "85.2272"
+  },
+  "site_157": {
+    "station_id": "site_157",
+    "register_city": "Patna",
+    "register_station_name": "IGSC Planetarium Complex, Patna",
+    "operator": "BSPCB",
+    "register_latitude": "25.5941",
+    "register_longitude": "85.1376"
+  },
+  "site_5261": {
+    "station_id": "site_5261",
+    "register_city": "Patna",
+    "register_station_name": "Muradpur, Patna",
+    "operator": "BSPCB",
+    "register_latitude": "25.6197",
+    "register_longitude": "85.1474"
+  },
+  "site_5262": {
+    "station_id": "site_5262",
+    "register_city": "Patna",
+    "register_station_name": "Rajbansi Nagar, Patna",
+    "operator": "BSPCB",
+    "register_latitude": "25.5995",
+    "register_longitude": "85.1137"
+  },
+  "site_5263": {
+    "station_id": "site_5263",
+    "register_city": "Patna",
+    "register_station_name": "Samanpura, Patna",
+    "operator": "BSPCB",
+    "register_latitude": "25.5967",
+    "register_longitude": "85.0856"
+  },
+  "site_5549": {
+    "station_id": "site_5549",
+    "register_city": "Purnia",
+    "register_station_name": "Mariam Nagar, Purnia",
+    "operator": "BSPCB",
+    "register_latitude": "25.3663",
+    "register_longitude": "87.1175"
+  },
+  "site_5489": {
+    "station_id": "site_5489",
+    "register_city": "Rajgir",
+    "register_station_name": "Dangi Tola, Rajgir",
+    "operator": "BSPCB",
+    "register_latitude": "25.0328",
+    "register_longitude": "85.4195"
+  },
+  "site_5551": {
+    "station_id": "site_5551",
+    "register_city": "Saharsa",
+    "register_station_name": "Police Line, Saharsa",
+    "operator": "BSPCB",
+    "register_latitude": "25.8924",
+    "register_longitude": "86.5903"
+  },
+  "site_5552": {
+    "station_id": "site_5552",
+    "register_city": "Samastipur",
+    "register_station_name": "DM Office_Kasipur, Samastipur",
+    "operator": "BSPCB",
+    "register_latitude": "25.8597",
+    "register_longitude": "85.7794"
+  },
+  "site_5485": {
+    "station_id": "site_5485",
+    "register_city": "Sasaram",
+    "register_station_name": "Dada Peer, Sasaram",
+    "operator": "BSPCB",
+    "register_latitude": "24.9528",
+    "register_longitude": "84.0024"
+  },
+  "site_5553": {
+    "station_id": "site_5553",
+    "register_city": "Siwan",
+    "register_station_name": "Chitragupta Nagar, Siwan",
+    "operator": "BSPCB",
+    "register_latitude": "26.2272",
+    "register_longitude": "84.3570"
+  },
+  "site_5264": {
+    "station_id": "site_5264",
+    "register_city": "Bagalkot",
+    "register_station_name": "Vidayagiri, Bagalkot",
+    "operator": "KSPCB",
+    "register_latitude": "16.1728",
+    "register_longitude": "75.6597"
+  },
+  "site_162": {
+    "station_id": "site_162",
+    "register_city": "Bengaluru",
+    "register_station_name": "BTM Layout, Bengaluru",
+    "operator": "CPCB",
+    "register_latitude": "12.9135",
+    "register_longitude": "77.5951"
+  },
+  "site_164": {
+    "station_id": "site_164",
+    "register_city": "Bengaluru",
+    "register_station_name": "BWSSB Kadabesanahalli, Bengaluru",
+    "operator": "CPCB",
+    "register_latitude": "12.9352",
+    "register_longitude": "77.6814"
+  },
+  "site_1553": {
+    "station_id": "site_1553",
+    "register_city": "Bengaluru",
+    "register_station_name": "Bapuji Nagar, Bengaluru",
+    "operator": "KSPCB",
+    "register_latitude": "12.9519",
+    "register_longitude": "77.5398"
+  },
+  "site_165": {
+    "station_id": "site_165",
+    "register_city": "Bengaluru",
+    "register_station_name": "City Railway Station, Bengaluru",
+    "operator": "KSPCB",
+    "register_latitude": "12.9757",
+    "register_longitude": "77.5661"
+  },
+  "site_1554": {
+    "station_id": "site_1554",
+    "register_city": "Bengaluru",
+    "register_station_name": "Hebbal, Bengaluru",
+    "operator": "KSPCB",
+    "register_latitude": "13.0292",
+    "register_longitude": "77.5859"
+  },
+  "site_1555": {
+    "station_id": "site_1555",
+    "register_city": "Bengaluru",
+    "register_station_name": "Hombegowda Nagar, Bengaluru",
+    "operator": "KSPCB",
+    "register_latitude": "12.9385",
+    "register_longitude": "77.5901"
+  },
+  "site_1556": {
+    "station_id": "site_1556",
+    "register_city": "Bengaluru",
+    "register_station_name": "Jayanagar 5th Block, Bengaluru",
+    "operator": "KSPCB",
+    "register_latitude": "12.9210",
+    "register_longitude": "77.5849"
+  },
+  "site_163": {
+    "station_id": "site_163",
+    "register_city": "Bengaluru",
+    "register_station_name": "Peenya, Bengaluru",
+    "operator": "CPCB",
+    "register_latitude": "13.0270",
+    "register_longitude": "77.4941"
+  },
+  "site_166": {
+    "station_id": "site_166",
+    "register_city": "Bengaluru",
+    "register_station_name": "Sanegurava Halli, Bengaluru",
+    "operator": "KSPCB",
+    "register_latitude": "12.9903",
+    "register_longitude": "77.5431"
+  },
+  "site_1558": {
+    "station_id": "site_1558",
+    "register_city": "Bengaluru",
+    "register_station_name": "Silk Board, Bengaluru",
+    "operator": "KSPCB",
+    "register_latitude": "12.9173",
+    "register_longitude": "77.6228"
+  },
+  "site_5418": {
+    "station_id": "site_5418",
+    "register_city": "Bidar",
+    "register_station_name": "Naubad, Bidar",
+    "operator": "KSPCB",
+    "register_latitude": "17.9303",
+    "register_longitude": "77.4822"
+  },
+  "site_5124": {
+    "station_id": "site_5124",
+    "register_city": "Chamarajanagar",
+    "register_station_name": "Urban, Chamarajanagar",
+    "operator": "KSPCB",
+    "register_latitude": "11.5536",
+    "register_longitude": "76.5552"
+  },
+  "site_1557": {
+    "station_id": "site_1557",
+    "register_city": "Chikkaballapur",
+    "register_station_name": "Chikkaballapur Rural, Chikkaballapur",
+    "operator": "KSPCB",
+    "register_latitude": "13.4288",
+    "register_longitude": "77.7314"
+  },
+  "site_5265": {
+    "station_id": "site_5265",
+    "register_city": "Chikkamagaluru",
+    "register_station_name": "Kalyana Nagara, Chikkamagaluru",
+    "operator": "KSPCB",
+    "register_latitude": "13.3280",
+    "register_longitude": "75.7971"
+  },
+  "site_5422": {
+    "station_id": "site_5422",
+    "register_city": "Davanagere",
+    "register_station_name": "Devaraj Urs Badavane, Davanagere",
+    "operator": "KSPCB",
+    "register_latitude": "14.4758",
+    "register_longitude": "75.9052"
+  },
+  "site_5419": {
+    "station_id": "site_5419",
+    "register_city": "Gadag",
+    "register_station_name": "Panchal Nagar, Gadag",
+    "operator": "KSPCB",
+    "register_latitude": "15.4115",
+    "register_longitude": "75.6381"
+  },
+  "site_5448": {
+    "station_id": "site_5448",
+    "register_city": "Hassan",
+    "register_station_name": "B.Katihalli, Hassan",
+    "operator": "KSPCB",
+    "register_latitude": "13.0086",
+    "register_longitude": "76.1253"
+  },
+  "site_5420": {
+    "station_id": "site_5420",
+    "register_city": "Haveri",
+    "register_station_name": "Ashwini Nagar, Haveri",
+    "operator": "KSPCB",
+    "register_latitude": "14.7918",
+    "register_longitude": "75.3896"
+  },
+  "site_1447": {
+    "station_id": "site_1447",
+    "register_city": "Hubballi",
+    "register_station_name": "Deshpande Nagar, Hubballi",
+    "operator": "KSPCB",
+    "register_latitude": "15.3518",
+    "register_longitude": "75.1407"
+  },
+  "site_1565": {
+    "station_id": "site_1565",
+    "register_city": "Kalaburagi",
+    "register_station_name": "Lal Bahadur Shastri Nagar, Kalaburagi",
+    "operator": "KSPCB",
+    "register_latitude": "17.3220",
+    "register_longitude": "76.8226"
+  },
+  "site_1551": {
+    "station_id": "site_1551",
+    "register_city": "Kolar",
+    "register_station_name": "Tamaka Ind. Area, Kolar",
+    "operator": "KSPCB",
+    "register_latitude": "13.1276",
+    "register_longitude": "78.1570"
+  },
+  "site_5415": {
+    "station_id": "site_5415",
+    "register_city": "Koppal",
+    "register_station_name": "Diwator Nagar, Koppal",
+    "operator": "KSPCB",
+    "register_latitude": "15.3476",
+    "register_longitude": "76.1818"
+  },
+  "site_5391": {
+    "station_id": "site_5391",
+    "register_city": "Madikeri",
+    "register_station_name": "Stuart Hill, Madikeri",
+    "operator": "KSPCB",
+    "register_latitude": "12.4159",
+    "register_longitude": "75.7351"
+  },
+  "site_5421": {
+    "station_id": "site_5421",
+    "register_city": "Mangalore",
+    "register_station_name": "Kadri, Mangalore",
+    "operator": "KSPCB",
+    "register_latitude": "12.8893",
+    "register_longitude": "74.8530"
+  },
+  "site_5125": {
+    "station_id": "site_5125",
+    "register_city": "Mysuru",
+    "register_station_name": "Hebbal 1st Stage, Mysuru",
+    "operator": "KSPCB",
+    "register_latitude": "12.2104",
+    "register_longitude": "76.3738"
+  },
+  "site_5414": {
+    "station_id": "site_5414",
+    "register_city": "Raichur",
+    "register_station_name": "Haji Colony, Raichur",
+    "operator": "KSPCB",
+    "register_latitude": "16.2081",
+    "register_longitude": "77.3484"
+  },
+  "site_5255": {
+    "station_id": "site_5255",
+    "register_city": "Ramanagara",
+    "register_station_name": "Vijay Nagar, Ramanagara",
+    "operator": "KSPCB",
+    "register_latitude": "12.7334",
+    "register_longitude": "77.2981"
+  },
+  "site_5266": {
+    "station_id": "site_5266",
+    "register_city": "Shivamogga",
+    "register_station_name": "Vinoba Nagara, Shivamogga",
+    "operator": "KSPCB",
+    "register_latitude": "13.9400",
+    "register_longitude": "75.5559"
+  },
+  "site_5433": {
+    "station_id": "site_5433",
+    "register_city": "Udupi",
+    "register_station_name": "Brahmagiri, Udupi",
+    "operator": "KSPCB",
+    "register_latitude": "13.3419",
+    "register_longitude": "74.7469"
+  },
+  "site_5267": {
+    "station_id": "site_5267",
+    "register_city": "Vijayapura",
+    "register_station_name": "Ibrahimpur, Vijayapura",
+    "operator": "KSPCB",
+    "register_latitude": "16.8026",
+    "register_longitude": "75.7227"
+  },
+  "site_5254": {
+    "station_id": "site_5254",
+    "register_city": "Yadgir",
+    "register_station_name": "Collector Office, Yadgir",
+    "operator": "KSPCB",
+    "register_latitude": "16.7602",
+    "register_longitude": "77.1428"
+  },
+  "site_5052": {
+    "station_id": "site_5052",
+    "register_city": "Ambala",
+    "register_station_name": "Patti Mehar, Ambala",
+    "operator": "HSPCB",
+    "register_latitude": "30.3796",
+    "register_longitude": "76.7783"
+  },
+  "site_5045": {
+    "station_id": "site_5045",
+    "register_city": "Bahadurgarh",
+    "register_station_name": "Arya Nagar, Bahadurgarh",
+    "operator": "HSPCB",
+    "register_latitude": "28.6701",
+    "register_longitude": "76.9254"
+  },
+  "site_5060": {
+    "station_id": "site_5060",
+    "register_city": "Ballabgarh",
+    "register_station_name": "Nathu Colony, Ballabgarh",
+    "operator": "HSPCB",
+    "register_latitude": "28.3419",
+    "register_longitude": "77.3197"
+  },
+  "site_5047": {
+    "station_id": "site_5047",
+    "register_city": "Bhiwani",
+    "register_station_name": "H.B. Colony, Bhiwani",
+    "operator": "HSPCB",
+    "register_latitude": "28.8062",
+    "register_longitude": "76.1411"
+  },
+  "site_5339": {
+    "station_id": "site_5339",
+    "register_city": "Charkhi Dadri",
+    "register_station_name": "Mini Secretariat, Charkhi Dadri",
+    "operator": "HSPCB",
+    "register_latitude": "28.5939",
+    "register_longitude": "76.2707"
+  },
+  "site_5044": {
+    "station_id": "site_5044",
+    "register_city": "Dharuhera",
+    "register_station_name": "Municipal Corporation Office, Dharuhera",
+    "operator": "HSPCB",
+    "register_latitude": "28.2068",
+    "register_longitude": "76.7997"
+  },
+  "site_5340": {
+    "station_id": "site_5340",
+    "register_city": "Faridabad",
+    "register_station_name": "New Industrial Town, Faridabad",
+    "operator": "HSPCB",
+    "register_latitude": "28.3907",
+    "register_longitude": "77.3006"
+  },
+  "site_5342": {
+    "station_id": "site_5342",
+    "register_city": "Faridabad",
+    "register_station_name": "Sector 11, Faridabad",
+    "operator": "HSPCB",
+    "register_latitude": "28.3761",
+    "register_longitude": "77.3157"
+  },
+  "site_5341": {
+    "station_id": "site_5341",
+    "register_city": "Faridabad",
+    "register_station_name": "Sector 30, Faridabad",
+    "operator": "HSPCB",
+    "register_latitude": "28.4417",
+    "register_longitude": "77.3217"
+  },
+  "site_263": {
+    "station_id": "site_263",
+    "register_city": "Faridabad",
+    "register_station_name": "Sector- 16A, Faridabad",
+    "operator": "HSPCB",
+    "register_latitude": "28.4088",
+    "register_longitude": "77.3099"
+  },
+  "site_5054": {
+    "station_id": "site_5054",
+    "register_city": "Fatehabad",
+    "register_station_name": "Huda Sector, Fatehabad",
+    "operator": "HSPCB",
+    "register_latitude": "29.5037",
+    "register_longitude": "75.4679"
+  },
+  "site_5025": {
+    "station_id": "site_5025",
+    "register_city": "Gurugram",
+    "register_station_name": "NISE Gwal Pahari, Gurugram",
+    "operator": "IMD",
+    "register_latitude": "28.4227",
+    "register_longitude": "77.1489"
+  },
+  "site_5345": {
+    "station_id": "site_5345",
+    "register_city": "Gurugram",
+    "register_station_name": "Sector-51, Gurugram",
+    "operator": "HSPCB",
+    "register_latitude": "28.4227",
+    "register_longitude": "77.0667"
+  },
+  "site_5344": {
+    "station_id": "site_5344",
+    "register_city": "Gurugram",
+    "register_station_name": "Teri Gram, Gurugram",
+    "operator": "HSPCB",
+    "register_latitude": "28.4275",
+    "register_longitude": "77.1465"
+  },
+  "site_146": {
+    "station_id": "site_146",
+    "register_city": "Gurugram",
+    "register_station_name": "Vikas Sadan, Gurugram",
+    "operator": "HSPCB",
+    "register_latitude": "28.4501",
+    "register_longitude": "77.0263"
+  },
+  "site_5057": {
+    "station_id": "site_5057",
+    "register_city": "Hisar",
+    "register_station_name": "Urban Estate-II, Hisar",
+    "operator": "HSPCB",
+    "register_latitude": "29.1406",
+    "register_longitude": "75.7449"
+  },
+  "site_5056": {
+    "station_id": "site_5056",
+    "register_city": "Jind",
+    "register_station_name": "Police Lines, Jind",
+    "operator": "HSPCB",
+    "register_latitude": "29.3078",
+    "register_longitude": "76.3376"
+  },
+  "site_5072": {
+    "station_id": "site_5072",
+    "register_city": "Kaithal",
+    "register_station_name": "Rishi Nagar, Kaithal",
+    "operator": "HSPCB",
+    "register_latitude": "29.8006",
+    "register_longitude": "76.4155"
+  },
+  "site_5049": {
+    "station_id": "site_5049",
+    "register_city": "Karnal",
+    "register_station_name": "Sector-12, Karnal",
+    "operator": "HSPCB",
+    "register_latitude": "29.6953",
+    "register_longitude": "77.0027"
+  },
+  "site_5043": {
+    "station_id": "site_5043",
+    "register_city": "Kurukshetra",
+    "register_station_name": "Sector-7, Kurukshetra",
+    "operator": "HSPCB",
+    "register_latitude": "29.9669",
+    "register_longitude": "76.8759"
+  },
+  "site_5055": {
+    "station_id": "site_5055",
+    "register_city": "Mandikhera",
+    "register_station_name": "General Hospital, Mandikhera",
+    "operator": "HSPCB",
+    "register_latitude": "27.9002",
+    "register_longitude": "76.9938"
+  },
+  "site_5039": {
+    "station_id": "site_5039",
+    "register_city": "Manesar",
+    "register_station_name": "Sector-2 IMT, Manesar",
+    "operator": "HSPCB",
+    "register_latitude": "28.3607",
+    "register_longitude": "76.9361"
+  },
+  "site_5053": {
+    "station_id": "site_5053",
+    "register_city": "Narnaul",
+    "register_station_name": "Shastri Nagar, Narnaul",
+    "operator": "HSPCB",
+    "register_latitude": "28.0602",
+    "register_longitude": "76.1131"
+  },
+  "site_5050": {
+    "station_id": "site_5050",
+    "register_city": "Palwal",
+    "register_station_name": "Shyam Nagar, Palwal",
+    "operator": "HSPCB",
+    "register_latitude": "28.1486",
+    "register_longitude": "77.3321"
+  },
+  "site_161": {
+    "station_id": "site_161",
+    "register_city": "Panchkula",
+    "register_station_name": "Sector-6, Panchkula",
+    "operator": "HSPCB",
+    "register_latitude": "30.7058",
+    "register_longitude": "76.8532"
+  },
+  "site_5048": {
+    "station_id": "site_5048",
+    "register_city": "Panipat",
+    "register_station_name": "Sector-18, Panipat",
+    "operator": "HSPCB",
+    "register_latitude": "29.4980",
+    "register_longitude": "76.9933"
+  },
+  "site_147": {
+    "station_id": "site_147",
+    "register_city": "Rohtak",
+    "register_station_name": "MD University, Rohtak",
+    "operator": "HSPCB",
+    "register_latitude": "28.5212",
+    "register_longitude": "76.3714"
+  },
+  "site_5051": {
+    "station_id": "site_5051",
+    "register_city": "Sirsa",
+    "register_station_name": "F-Block, Sirsa",
+    "operator": "HSPCB",
+    "register_latitude": "29.5364",
+    "register_longitude": "75.0158"
+  },
+  "site_5041": {
+    "station_id": "site_5041",
+    "register_city": "Sonipat",
+    "register_station_name": "Murthal, Sonipat",
+    "operator": "HSPCB",
+    "register_latitude": "29.0272",
+    "register_longitude": "77.0621"
+  },
+  "site_5046": {
+    "station_id": "site_5046",
+    "register_city": "Yamuna Nagar",
+    "register_station_name": "Gobind Pura, Yamuna Nagar",
+    "operator": "HSPCB",
+    "register_latitude": "30.1481",
+    "register_longitude": "77.2893"
+  },
+  "site_5453": {
+    "station_id": "site_5453",
+    "register_city": "Ahmedabad",
+    "register_station_name": "Chandkheda, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "23.1080",
+    "register_longitude": "72.5746"
+  },
+  "site_5450": {
+    "station_id": "site_5450",
+    "register_city": "Ahmedabad",
+    "register_station_name": "Gyaspur, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "22.9771",
+    "register_longitude": "72.5530"
+  },
+  "site_308": {
+    "station_id": "site_308",
+    "register_city": "Ahmedabad",
+    "register_station_name": "Maninagar, Ahmedabad",
+    "operator": "GPCB",
+    "register_latitude": "23.0027",
+    "register_longitude": "72.5919"
+  },
+  "site_5452": {
+    "station_id": "site_5452",
+    "register_city": "Ahmedabad",
+    "register_station_name": "Raikhad, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "23.0205",
+    "register_longitude": "72.5793"
+  },
+  "site_5451": {
+    "station_id": "site_5451",
+    "register_city": "Ahmedabad",
+    "register_station_name": "Rakhial, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "23.0168",
+    "register_longitude": "72.6258"
+  },
+  "site_5454": {
+    "station_id": "site_5454",
+    "register_city": "Ahmedabad",
+    "register_station_name": "SAC ISRO Bopal, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "23.0411",
+    "register_longitude": "72.4567"
+  },
+  "site_5455": {
+    "station_id": "site_5455",
+    "register_city": "Ahmedabad",
+    "register_station_name": "SAC ISRO Satellite, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "23.0234",
+    "register_longitude": "72.5152"
+  },
+  "site_5456": {
+    "station_id": "site_5456",
+    "register_city": "Ahmedabad",
+    "register_station_name": "SVPI Airport Hansol, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "23.0768",
+    "register_longitude": "72.6279"
+  },
+  "site_5449": {
+    "station_id": "site_5449",
+    "register_city": "Ahmedabad",
+    "register_station_name": "Sardar Vallabhbhai Patel Stadium, Ahmedabad",
+    "operator": "IITM",
+    "register_latitude": "23.0431",
+    "register_longitude": "72.5630"
+  },
+  "site_5065": {
+    "station_id": "site_5065",
+    "register_city": "Ankleshwar",
+    "register_station_name": "GIDC, Ankleshwar",
+    "operator": "GPCB",
+    "register_latitude": "21.6133",
+    "register_longitude": "73.0106"
+  },
+  "site_5458": {
+    "station_id": "site_5458",
+    "register_city": "Gandhinagar",
+    "register_station_name": "GIFT City, Gandhinagar",
+    "operator": "IITM",
+    "register_latitude": "23.1638",
+    "register_longitude": "72.6778"
+  },
+  "site_5457": {
+    "station_id": "site_5457",
+    "register_city": "Gandhinagar",
+    "register_station_name": "IIPHG Lekawada, Gandhinagar",
+    "operator": "IITM",
+    "register_latitude": "23.2436",
+    "register_longitude": "72.6899"
+  },
+  "site_5066": {
+    "station_id": "site_5066",
+    "register_city": "Gandhinagar",
+    "register_station_name": "Sector-10, Gandhinagar",
+    "operator": "GPCB",
+    "register_latitude": "23.2217",
+    "register_longitude": "72.6543"
+  },
+  "site_5274": {
+    "station_id": "site_5274",
+    "register_city": "Nandesari",
+    "register_station_name": "GIDC, Nandesari",
+    "operator": "Nandesari Ind. Association",
+    "register_latitude": "22.4108",
+    "register_longitude": "73.0979"
+  },
+  "site_5071": {
+    "station_id": "site_5071",
+    "register_city": "Vapi",
+    "register_station_name": "Phase-1 GIDC, Vapi",
+    "operator": "GPCB",
+    "register_latitude": "20.3624",
+    "register_longitude": "72.9180"
+  },
+  "site_5067": {
+    "station_id": "site_5067",
+    "register_city": "Vatva",
+    "register_station_name": "Phase-4 GIDC, Vatva",
+    "operator": "GPCB",
+    "register_latitude": "22.9696",
+    "register_longitude": "72.6435"
+  },
+  "site_5247": {
+    "station_id": "site_5247",
+    "register_city": "Bhopal",
+    "register_station_name": "T T Nagar, Bhopal",
+    "operator": "MPPCB",
+    "register_latitude": "23.2336",
+    "register_longitude": "77.4006"
+  },
+  "site_5040": {
+    "station_id": "site_5040",
+    "register_city": "Damoh",
+    "register_station_name": "Shrivastav Colony, Damoh",
+    "operator": "MPPCB",
+    "register_latitude": "23.8175",
+    "register_longitude": "79.4462"
+  },
+  "site_1404": {
+    "station_id": "site_1404",
+    "register_city": "Dewas",
+    "register_station_name": "Bhopal Chauraha, Dewas",
+    "operator": "MPPCB",
+    "register_latitude": "22.9683",
+    "register_longitude": "76.0641"
+  },
+  "site_5273": {
+    "station_id": "site_5273",
+    "register_city": "Gwalior",
+    "register_station_name": "City Center, Gwalior",
+    "operator": "MPPCB",
+    "register_latitude": "26.2034",
+    "register_longitude": "78.1933"
+  },
+  "site_5275": {
+    "station_id": "site_5275",
+    "register_city": "Gwalior",
+    "register_station_name": "Phool Bagh, Gwalior",
+    "operator": "Mondelez Ind. Food",
+    "register_latitude": "26.2105",
+    "register_longitude": "78.1710"
+  },
+  "site_5248": {
+    "station_id": "site_5248",
+    "register_city": "Indore",
+    "register_station_name": "Chhoti Gwaltoli, Indore",
+    "operator": "MPPCB",
+    "register_latitude": "22.4310",
+    "register_longitude": "75.5213"
+  },
+  "site_5249": {
+    "station_id": "site_5249",
+    "register_city": "Jabalpur",
+    "register_station_name": "Marhatal, Jabalpur",
+    "operator": "MPPCB",
+    "register_latitude": "23.1686",
+    "register_longitude": "79.9322"
+  },
+  "site_5250": {
+    "station_id": "site_5250",
+    "register_city": "Katni",
+    "register_station_name": "Gole Bazar, Katni",
+    "operator": "MPPCB",
+    "register_latitude": "23.5002",
+    "register_longitude": "80.2328"
+  },
+  "site_5068": {
+    "station_id": "site_5068",
+    "register_city": "Maihar",
+    "register_station_name": "Sahilara, Maihar",
+    "operator": "KJS Cements",
+    "register_latitude": "24.2613",
+    "register_longitude": "80.7232"
+  },
+  "site_1403": {
+    "station_id": "site_1403",
+    "register_city": "Mandideep",
+    "register_station_name": "Sector-D Industrial Area, Mandideep",
+    "operator": "MPPCB",
+    "register_latitude": "23.1084",
+    "register_longitude": "77.5114"
+  },
+  "site_1402": {
+    "station_id": "site_1402",
+    "register_city": "Pithampur",
+    "register_station_name": "Sector-2 Industrial Area, Pithampur",
+    "operator": "MPPCB",
+    "register_latitude": "22.6248",
+    "register_longitude": "75.6752"
+  },
+  "site_5042": {
+    "station_id": "site_5042",
+    "register_city": "Ratlam",
+    "register_station_name": "Shasthri Nagar, Ratlam",
+    "operator": "IPCA Lab",
+    "register_latitude": "23.3317",
+    "register_longitude": "75.0460"
+  },
+  "site_5269": {
+    "station_id": "site_5269",
+    "register_city": "Sagar",
+    "register_station_name": "Deen Dayal Nagar, Sagar",
+    "operator": "MPPCB",
+    "register_latitude": "23.8640",
+    "register_longitude": "78.8029"
+  },
+  "site_1433": {
+    "station_id": "site_1433",
+    "register_city": "Satna",
+    "register_station_name": "Bandhavgar Colony, Satna",
+    "operator": "Birla Cement",
+    "register_latitude": "24.5843",
+    "register_longitude": "80.8549"
+  },
+  "site_1401": {
+    "station_id": "site_1401",
+    "register_city": "Singrauli",
+    "register_station_name": "Suryakiran Bhawan NCL, Singrauli",
+    "operator": "MPPCB",
+    "register_latitude": "24.1090",
+    "register_longitude": "82.6456"
+  },
+  "site_1400": {
+    "station_id": "site_1400",
+    "register_city": "Ujjain",
+    "register_station_name": "Mahakaleshwar Temple, Ujjain",
+    "operator": "MPPCB",
+    "register_latitude": "23.1827",
+    "register_longitude": "75.7682"
+  },
+  "site_199": {
+    "station_id": "site_199",
+    "register_city": "Hyderabad",
+    "register_station_name": "Bollaram Industrial Area, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.5409",
+    "register_longitude": "78.3585"
+  },
+  "site_262": {
+    "station_id": "site_262",
+    "register_city": "Hyderabad",
+    "register_station_name": "Central University, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.4601",
+    "register_longitude": "78.3344"
+  },
+  "site_5596": {
+    "station_id": "site_5596",
+    "register_city": "Hyderabad",
+    "register_station_name": "ECIL Kapra, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.4704",
+    "register_longitude": "78.5670"
+  },
+  "site_251": {
+    "station_id": "site_251",
+    "register_city": "Hyderabad",
+    "register_station_name": "ICRISAT Patancheru, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.5184",
+    "register_longitude": "78.2788"
+  },
+  "site_275": {
+    "station_id": "site_275",
+    "register_city": "Hyderabad",
+    "register_station_name": "IDA Pashamylaram, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.5317",
+    "register_longitude": "78.2189"
+  },
+  "site_5597": {
+    "station_id": "site_5597",
+    "register_city": "Hyderabad",
+    "register_station_name": "IITH Kandi, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.5857",
+    "register_longitude": "78.1262"
+  },
+  "site_5604": {
+    "station_id": "site_5604",
+    "register_city": "Hyderabad",
+    "register_station_name": "Kokapet, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.3936",
+    "register_longitude": "78.3392"
+  },
+  "site_5599": {
+    "station_id": "site_5599",
+    "register_city": "Hyderabad",
+    "register_station_name": "Kompally Municipal Office, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.5449",
+    "register_longitude": "78.4869"
+  },
+  "site_5600": {
+    "station_id": "site_5600",
+    "register_city": "Hyderabad",
+    "register_station_name": "Nacharam_TSIIC IALA, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.4294",
+    "register_longitude": "78.5694"
+  },
+  "site_5595": {
+    "station_id": "site_5595",
+    "register_city": "Hyderabad",
+    "register_station_name": "New Malakpet, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.3721",
+    "register_longitude": "78.5086"
+  },
+  "site_5602": {
+    "station_id": "site_5602",
+    "register_city": "Hyderabad",
+    "register_station_name": "Ramachandrapuram, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.5285",
+    "register_longitude": "78.2862"
+  },
+  "site_294": {
+    "station_id": "site_294",
+    "register_city": "Hyderabad",
+    "register_station_name": "Sanathnagar, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.4559",
+    "register_longitude": "78.4332"
+  },
+  "site_5598": {
+    "station_id": "site_5598",
+    "register_city": "Hyderabad",
+    "register_station_name": "Somajiguda, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.4171",
+    "register_longitude": "78.4574"
+  },
+  "site_298": {
+    "station_id": "site_298",
+    "register_city": "Hyderabad",
+    "register_station_name": "Zoo Park, Hyderabad",
+    "operator": "TSPCB",
+    "register_latitude": "17.3497",
+    "register_longitude": "78.4514"
+  },
+  "site_1418": {
+    "station_id": "site_1418",
+    "register_city": "Asansol",
+    "register_station_name": "Asansol Court Area, Asansol",
+    "operator": "WBPCB",
+    "register_latitude": "23.6853",
+    "register_longitude": "86.9460"
+  },
+  "site_299": {
+    "station_id": "site_299",
+    "register_city": "Durgapur",
+    "register_station_name": "Sidhu Kanhu Indoor Stadium, Durgapur",
+    "operator": "WBPCB",
+    "register_latitude": "23.5404",
+    "register_longitude": "87.2892"
+  },
+  "site_300": {
+    "station_id": "site_300",
+    "register_city": "Haldia",
+    "register_station_name": "Haldia, Haldia",
+    "operator": "WBPCB",
+    "register_latitude": "22.0605",
+    "register_longitude": "88.1097"
+  },
+  "site_5101": {
+    "station_id": "site_5101",
+    "register_city": "Howrah",
+    "register_station_name": "Belur Math, Howrah",
+    "operator": "WBPCB",
+    "register_latitude": "22.6298",
+    "register_longitude": "88.3520"
+  },
+  "site_274": {
+    "station_id": "site_274",
+    "register_city": "Howrah",
+    "register_station_name": "Ghusuri, Howrah",
+    "operator": "WBPCB",
+    "register_latitude": "22.6120",
+    "register_longitude": "88.3474"
+  },
+  "site_1416": {
+    "station_id": "site_1416",
+    "register_city": "Howrah",
+    "register_station_name": "Padmapukur, Howrah",
+    "operator": "WBPCB",
+    "register_latitude": "22.5687",
+    "register_longitude": "88.2797"
+  },
+  "site_5238": {
+    "station_id": "site_5238",
+    "register_city": "Kolkata",
+    "register_station_name": "Ballygunge, Kolkata",
+    "operator": "WBPCB",
+    "register_latitude": "22.5368",
+    "register_longitude": "88.3638"
+  },
+  "site_5129": {
+    "station_id": "site_5129",
+    "register_city": "Kolkata",
+    "register_station_name": "Bidhannagar, Kolkata",
+    "operator": "WBPCB",
+    "register_latitude": "22.5816",
+    "register_longitude": "88.4100"
+  },
+  "site_5110": {
+    "station_id": "site_5110",
+    "register_city": "Kolkata",
+    "register_station_name": "Fort William, Kolkata",
+    "operator": "WBPCB",
+    "register_latitude": "22.5566",
+    "register_longitude": "88.3427"
+  },
+  "site_5111": {
+    "station_id": "site_5111",
+    "register_city": "Kolkata",
+    "register_station_name": "Jadavpur, Kolkata",
+    "operator": "WBPCB",
+    "register_latitude": "22.4993",
+    "register_longitude": "88.3692"
+  },
+  "site_296": {
+    "station_id": "site_296",
+    "register_city": "Kolkata",
+    "register_station_name": "Rabindra Bharati University, Kolkata",
+    "operator": "WBPCB",
+    "register_latitude": "22.6278",
+    "register_longitude": "88.3807"
+  },
+  "site_5126": {
+    "station_id": "site_5126",
+    "register_city": "Kolkata",
+    "register_station_name": "Rabindra Sarobar, Kolkata",
+    "operator": "WBPCB",
+    "register_latitude": "22.5111",
+    "register_longitude": "88.3514"
+  },
+  "site_309": {
+    "station_id": "site_309",
+    "register_city": "Kolkata",
+    "register_station_name": "Victoria, Kolkata",
+    "operator": "WBPCB",
+    "register_latitude": "22.5448",
+    "register_longitude": "88.3404"
+  },
+  "site_1419": {
+    "station_id": "site_1419",
+    "register_city": "Siliguri",
+    "register_station_name": "Ward-32 Bapupara, Siliguri",
+    "operator": "WBPCB",
+    "register_latitude": "26.6883",
+    "register_longitude": "88.4127"
+  },
+  "site_293": {
+    "station_id": "site_293",
+    "register_city": "Chennai",
+    "register_station_name": "Alandur Bus Depot, Chennai",
+    "operator": "CPCB",
+    "register_latitude": "12.9099",
+    "register_longitude": "80.1077"
+  },
+  "site_5361": {
+    "station_id": "site_5361",
+    "register_city": "Chennai",
+    "register_station_name": "Arumbakkam, Chennai",
+    "operator": "TNPCB",
+    "register_latitude": "13.0664",
+    "register_longitude": "80.2112"
+  },
+  "site_5365": {
+    "station_id": "site_5365",
+    "register_city": "Chennai",
+    "register_station_name": "Kodungaiyur, Chennai",
+    "operator": "TNPCB",
+    "register_latitude": "13.1278",
+    "register_longitude": "80.2642"
+  },
+  "site_5092": {
+    "station_id": "site_5092",
+    "register_city": "Chennai",
+    "register_station_name": "Manali Village, Chennai",
+    "operator": "TNPCB",
+    "register_latitude": "13.1662",
+    "register_longitude": "80.2584"
+  },
+  "site_306": {
+    "station_id": "site_306",
+    "register_city": "Chennai",
+    "register_station_name": "Manali, Chennai",
+    "operator": "CPCB",
+    "register_latitude": "13.1645",
+    "register_longitude": "80.2629"
+  },
+  "site_5363": {
+    "station_id": "site_5363",
+    "register_city": "Chennai",
+    "register_station_name": "Perungudi, Chennai",
+    "operator": "TNPCB",
+    "register_latitude": "12.9533",
+    "register_longitude": "80.2357"
+  },
+  "site_5364": {
+    "station_id": "site_5364",
+    "register_city": "Chennai",
+    "register_station_name": "Royapuram, Chennai",
+    "operator": "TNPCB",
+    "register_latitude": "13.1036",
+    "register_longitude": "80.2909"
+  },
+  "site_288": {
+    "station_id": "site_288",
+    "register_city": "Chennai",
+    "register_station_name": "Velachery Res. Area, Chennai",
+    "operator": "CPCB",
+    "register_latitude": "13.0052",
+    "register_longitude": "80.2398"
+  },
+  "site_5094": {
+    "station_id": "site_5094",
+    "register_city": "Coimbatore",
+    "register_station_name": "SIDCO Kurichi, Coimbatore",
+    "operator": "TNPCB",
+    "register_latitude": "10.9425",
+    "register_longitude": "76.9790"
+  },
+  "site_5362": {
+    "station_id": "site_5362",
+    "register_city": "Gummidipoondi",
+    "register_station_name": "Anthoni Pillai Nagar, Gummidipoondi",
+    "operator": "TNPCB",
+    "register_latitude": "13.4127",
+    "register_longitude": "80.1081"
+  },
+  "site_5367": {
+    "station_id": "site_5367",
+    "register_city": "Thoothukudi",
+    "register_station_name": "Meelavittan, Thoothukudi",
+    "operator": "TNPCB",
+    "register_latitude": "8.8164",
+    "register_longitude": "78.0990"
+  },
+  "site_1392": {
+    "station_id": "site_1392",
+    "register_city": "Ajmer",
+    "register_station_name": "Civil Lines, Ajmer",
+    "operator": "RSPCB",
+    "register_latitude": "26.4709",
+    "register_longitude": "74.6466"
+  },
+  "site_1390": {
+    "station_id": "site_1390",
+    "register_city": "Alwar",
+    "register_station_name": "Moti Doongri, Alwar",
+    "operator": "RSPCB",
+    "register_latitude": "27.5548",
+    "register_longitude": "76.6115"
+  },
+  "site_1391": {
+    "station_id": "site_1391",
+    "register_city": "Bhiwadi",
+    "register_station_name": "RIICO Ind. Area III, Bhiwadi",
+    "operator": "RSPCB",
+    "register_latitude": "28.1949",
+    "register_longitude": "76.8623"
+  },
+  "site_1393": {
+    "station_id": "site_1393",
+    "register_city": "Jaipur",
+    "register_station_name": "Adarsh Nagar, Jaipur",
+    "operator": "RSPCB",
+    "register_latitude": "26.9029",
+    "register_longitude": "75.8369"
+  },
+  "site_134": {
+    "station_id": "site_134",
+    "register_city": "Jaipur",
+    "register_station_name": "Police Commissionerate, Jaipur",
+    "operator": "RSPCB",
+    "register_latitude": "26.9164",
+    "register_longitude": "75.7995"
+  },
+  "site_1396": {
+    "station_id": "site_1396",
+    "register_city": "Jaipur",
+    "register_station_name": "Shastri Nagar, Jaipur",
+    "operator": "RSPCB",
+    "register_latitude": "26.9503",
+    "register_longitude": "75.7309"
+  },
+  "site_136": {
+    "station_id": "site_136",
+    "register_city": "Jodhpur",
+    "register_station_name": "Collectorate, Jodhpur",
+    "operator": "RSPCB",
+    "register_latitude": "26.2682",
+    "register_longitude": "73.0194"
+  },
+  "site_1394": {
+    "station_id": "site_1394",
+    "register_city": "Kota",
+    "register_station_name": "Shrinath Puram, Kota",
+    "operator": "RSPCB",
+    "register_latitude": "25.1439",
+    "register_longitude": "75.8213"
+  },
+  "site_1395": {
+    "station_id": "site_1395",
+    "register_city": "Pali",
+    "register_station_name": "Indira Colony Vistar, Pali",
+    "operator": "RSPCB",
+    "register_latitude": "25.7711",
+    "register_longitude": "73.3402"
+  },
+  "site_1397": {
+    "station_id": "site_1397",
+    "register_city": "Udaipur",
+    "register_station_name": "Ashok Nagar, Udaipur",
+    "operator": "RSPCB",
+    "register_latitude": "24.5886",
+    "register_longitude": "73.6321"
+  },
+  "site_5105": {
+    "station_id": "site_5105",
+    "register_city": "Eloor",
+    "register_station_name": "Udyogamandal, Eloor",
+    "operator": "Kerala PCB",
+    "register_latitude": "10.0732",
+    "register_longitude": "76.3028"
+  },
+  "site_5272": {
+    "station_id": "site_5272",
+    "register_city": "Ernakulam",
+    "register_station_name": "Kacheripady, Ernakulam",
+    "operator": "Kerala PCB",
+    "register_latitude": "9.9857",
+    "register_longitude": "76.2813"
+  },
+  "site_5276": {
+    "station_id": "site_5276",
+    "register_city": "Kannur",
+    "register_station_name": "Thavakkara, Kannur",
+    "operator": "Kerala PCB",
+    "register_latitude": "11.8750",
+    "register_longitude": "75.3732"
+  },
+  "site_5270": {
+    "station_id": "site_5270",
+    "register_city": "Kochi",
+    "register_station_name": "Vyttila, Kochi",
+    "operator": "Kerala PCB",
+    "register_latitude": "9.9694",
+    "register_longitude": "76.3212"
+  },
+  "site_5334": {
+    "station_id": "site_5334",
+    "register_city": "Kollam",
+    "register_station_name": "Polayathode, Kollam",
+    "operator": "Kerala PCB",
+    "register_latitude": "8.8787",
+    "register_longitude": "76.6073"
+  },
+  "site_5271": {
+    "station_id": "site_5271",
+    "register_city": "Kozhikode",
+    "register_station_name": "Palayam, Kozhikode",
+    "operator": "Kerala PCB",
+    "register_latitude": "11.2491",
+    "register_longitude": "75.7844"
+  },
+  "site_5331": {
+    "station_id": "site_5331",
+    "register_city": "Thiruvananthapuram",
+    "register_station_name": "Kariavattom, Thiruvananthapuram",
+    "operator": "Kerala PCB",
+    "register_latitude": "8.5637",
+    "register_longitude": "76.8865"
+  },
+  "site_252": {
+    "station_id": "site_252",
+    "register_city": "Thiruvananthapuram",
+    "register_station_name": "Plammoodu, Thiruvananthapuram",
+    "operator": "Kerala PCB",
+    "register_latitude": "8.5149",
+    "register_longitude": "76.9436"
+  },
+  "site_5390": {
+    "station_id": "site_5390",
+    "register_city": "Thrissur",
+    "register_station_name": "Corporation Ground, Thrissur",
+    "operator": "Kerala PCB",
+    "register_latitude": "10.5324",
+    "register_longitude": "76.2159"
+  },
+  "site_256": {
+    "station_id": "site_256",
+    "register_city": "Amritsar",
+    "register_station_name": "Golden Temple, Amritsar",
+    "operator": "PPCB",
+    "register_latitude": "31.6200",
+    "register_longitude": "74.8765"
+  },
+  "site_1549": {
+    "station_id": "site_1549",
+    "register_city": "Bathinda",
+    "register_station_name": "Hardev Nagar, Bathinda",
+    "operator": "PPCB",
+    "register_latitude": "30.2330",
+    "register_longitude": "74.9078"
+  },
+  "site_1438": {
+    "station_id": "site_1438",
+    "register_city": "Jalandhar",
+    "register_station_name": "Civil Line, Jalandhar",
+    "operator": "PPCB",
+    "register_latitude": "31.3219",
+    "register_longitude": "75.5789"
+  },
+  "site_1450": {
+    "station_id": "site_1450",
+    "register_city": "Khanna",
+    "register_station_name": "Kalal Majra, Khanna",
+    "operator": "PPCB",
+    "register_latitude": "30.7361",
+    "register_longitude": "76.2097"
+  },
+  "site_253": {
+    "station_id": "site_253",
+    "register_city": "Ludhiana",
+    "register_station_name": "Punjab Agricultural University, Ludhiana",
+    "operator": "PPCB",
+    "register_latitude": "30.9028",
+    "register_longitude": "75.8086"
+  },
+  "site_255": {
+    "station_id": "site_255",
+    "register_city": "Mandi Gobindgarh",
+    "register_station_name": "RIMT University, Mandi Gobindgarh",
+    "operator": "PPCB",
+    "register_latitude": "30.6500",
+    "register_longitude": "76.3314"
+  },
+  "site_1437": {
+    "station_id": "site_1437",
+    "register_city": "Patiala",
+    "register_station_name": "Model Town, Patiala",
+    "operator": "PPCB",
+    "register_latitude": "30.3494",
+    "register_longitude": "76.3666"
+  },
+  "site_1538": {
+    "station_id": "site_1538",
+    "register_city": "Rupnagar",
+    "register_station_name": "Ratanpura, Rupnagar",
+    "operator": "Ambuja Cements",
+    "register_latitude": "31.0325",
+    "register_longitude": "76.5623"
+  },
+  "site_1406": {
+    "station_id": "site_1406",
+    "register_city": "Amaravati",
+    "register_station_name": "Secretariat, Amaravati",
+    "operator": "APPCB",
+    "register_latitude": "16.5151",
+    "register_longitude": "80.5182"
+  },
+  "site_1399": {
+    "station_id": "site_1399",
+    "register_city": "Rajamahendravaram",
+    "register_station_name": "Anand Kala Kshetram, Rajamahendravaram",
+    "operator": "APPCB",
+    "register_latitude": "16.9873",
+    "register_longitude": "81.7363"
+  },
+  "site_258": {
+    "station_id": "site_258",
+    "register_city": "Tirupati",
+    "register_station_name": "Tirumala, Tirupati",
+    "operator": "APPCB",
+    "register_latitude": "13.6700",
+    "register_longitude": "79.3500"
+  },
+  "site_260": {
+    "station_id": "site_260",
+    "register_city": "Visakhapatnam",
+    "register_station_name": "GVM Corporation, Visakhapatnam",
+    "operator": "APPCB",
+    "register_latitude": "17.7200",
+    "register_longitude": "83.3000"
+  },
+  "site_5491": {
+    "station_id": "site_5491",
+    "register_city": "Chandigarh",
+    "register_station_name": "Sector 22, Chandigarh",
+    "operator": "CPCC",
+    "register_latitude": "30.7356",
+    "register_longitude": "76.7757"
+  },
+  "site_5127": {
+    "station_id": "site_5127",
+    "register_city": "Chandigarh",
+    "register_station_name": "Sector-25, Chandigarh",
+    "operator": "CPCC",
+    "register_latitude": "30.7515",
+    "register_longitude": "76.7629"
+  },
+  "site_5582": {
+    "station_id": "site_5582",
+    "register_city": "Chandigarh",
+    "register_station_name": "Sector-53, Chandigarh",
+    "operator": "CPCC",
+    "register_latitude": "30.7199",
+    "register_longitude": "76.7386"
+  },
+  "site_5417": {
+    "station_id": "site_5417",
+    "register_city": "Guwahati",
+    "register_station_name": "Pan Bazaar, Guwahati",
+    "operator": "APCB",
+    "register_latitude": "26.1875",
+    "register_longitude": "91.7442"
+  },
+  "site_5073": {
+    "station_id": "site_5073",
+    "register_city": "Guwahati",
+    "register_station_name": "Railway Colony, Guwahati",
+    "operator": "APCB",
+    "register_latitude": "26.1817",
+    "register_longitude": "91.7806"
+  },
+  "site_5536": {
+    "station_id": "site_5536",
+    "register_city": "Bhilai",
+    "register_station_name": "Civic Center, Bhilai",
+    "operator": "Bhilai Steel Plant",
+    "register_latitude": "21.1856",
+    "register_longitude": "81.3432"
+  },
+  "site_5503": {
+    "station_id": "site_5503",
+    "register_city": "Bilaspur",
+    "register_station_name": "Mangala, Bilaspur",
+    "operator": "NTPC",
+    "register_latitude": "22.0881",
+    "register_longitude": "82.1374"
+  },
+  "site_5592": {
+    "station_id": "site_5592",
+    "register_city": "Imphal",
+    "register_station_name": "DM College of Science, Imphal",
+    "operator": "Manipur PCB",
+    "register_latitude": "24.8207",
+    "register_longitude": "93.9423"
+  },
+  "site_5591": {
+    "station_id": "site_5591",
+    "register_city": "Imphal",
+    "register_station_name": "Manipur University, Imphal",
+    "operator": "Manipur PCB",
+    "register_latitude": "24.7524",
+    "register_longitude": "93.9286"
+  },
+  "site_5593": {
+    "station_id": "site_5593",
+    "register_city": "Shillong",
+    "register_station_name": "JN Stadium, Shillong",
+    "operator": "Meghalaya PCB",
+    "register_latitude": "25.5803",
+    "register_longitude": "91.8943"
+  },
+  "site_5131": {
+    "station_id": "site_5131",
+    "register_city": "Shillong",
+    "register_station_name": "Lumpyngngad, Shillong",
+    "operator": "Meghalaya PCB",
+    "register_latitude": "25.5586",
+    "register_longitude": "91.8985"
+  },
+  "site_1410": {
+    "station_id": "site_1410",
+    "register_city": "Brajrajnagar",
+    "register_station_name": "GM Office, Brajrajnagar",
+    "operator": "OSPCB",
+    "register_latitude": "21.8005",
+    "register_longitude": "83.8397"
+  },
+  "site_1408": {
+    "station_id": "site_1408",
+    "register_city": "Talcher",
+    "register_station_name": "Talcher Coalfields,Talcher",
+    "operator": "OSPCB",
+    "register_latitude": "20.9361",
+    "register_longitude": "85.1707"
+  },
+  "site_5587": {
+    "station_id": "site_5587",
+    "register_city": "Agartala",
+    "register_station_name": "Bardowali, Agartala",
+    "operator": "Tripura SPCB",
+    "register_latitude": "23.8175",
+    "register_longitude": "91.2727"
+  },
+  "site_5377": {
+    "station_id": "site_5377",
+    "register_city": "Agartala",
+    "register_station_name": "Kunjaban, Agartala",
+    "operator": "Tripura SPCB",
+    "register_latitude": "23.8628",
+    "register_longitude": "91.2887"
+  },
+  "site_5446": {
+    "station_id": "site_5446",
+    "register_city": "Naharlagun",
+    "register_station_name": "Naharlagun, Naharlagun",
+    "operator": "APSPCB",
+    "register_latitude": "27.1034",
+    "register_longitude": "93.6796"
+  },
+  "site_5586": {
+    "station_id": "site_5586",
+    "register_city": "Baddi",
+    "register_station_name": "HIMUDA Complex Phase-1, Baddi",
+    "operator": "HPPCB",
+    "register_latitude": "30.9439",
+    "register_longitude": "76.8020"
+  },
+  "site_5424": {
+    "station_id": "site_5424",
+    "register_city": "Srinagar",
+    "register_station_name": "Rajbagh, Srinagar",
+    "operator": "JKSPCB",
+    "register_latitude": "34.0662",
+    "register_longitude": "74.8198"
+  },
+  "site_254": {
+    "station_id": "site_254",
+    "register_city": "Jorapokhar",
+    "register_station_name": "Tata Stadium, Jorapokhar",
+    "operator": "JSPCB",
+    "register_latitude": "23.7079",
+    "register_longitude": "86.4147"
+  },
+  "site_5346": {
+    "station_id": "site_5346",
+    "register_city": "Aizawl",
+    "register_station_name": "Sikulpuikawn, Aizawl",
+    "operator": "Mizoram PCB",
+    "register_latitude": "23.7176",
+    "register_longitude": "92.7193"
+  },
+  "site_5375": {
+    "station_id": "site_5375",
+    "register_city": "Kohima",
+    "register_station_name": "PWD Juction, Kohima",
+    "operator": "NPCB",
+    "register_latitude": "25.6635",
+    "register_longitude": "94.0990"
+  },
+  "site_5423": {
+    "station_id": "site_5423",
+    "register_city": "Puducherry",
+    "register_station_name": "Jawahar Nagar, Puducherry",
+    "operator": "PPCC",
+    "register_latitude": "11.9309",
+    "register_longitude": "79.8027"
+  },
+  "site_5590": {
+    "station_id": "site_5590",
+    "register_city": "Gangtok",
+    "register_station_name": "Zero Point GICI, Gangtok",
+    "operator": "SSPCB",
+    "register_latitude": "27.3385",
+    "register_longitude": "88.6141"
+  },
+  "site_5594": {
+    "station_id": "site_5594",
+    "register_city": "Dehradun",
+    "register_station_name": "Doon University, Dehradun",
+    "operator": "UKPCB",
+    "register_latitude": "30.2694",
+    "register_longitude": "78.0442"
+  }
+}

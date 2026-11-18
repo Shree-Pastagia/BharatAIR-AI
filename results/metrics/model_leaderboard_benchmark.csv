@@ -1,0 +1,7 @@
+model,family,median_mae_ug_m3,median_rmse_ug_m3,mean_train_seconds,mean_predict_seconds
+xgboost,traditional_ml,10.559,27.113,60.372,1.745
+random_forest,traditional_ml,10.56,27.142,1553.373,3.371
+tcn,deep_learning,10.766,26.549,1007.417,2.894
+gru,deep_learning,11.121,26.688,694.265,3.017
+linear_regression,traditional_ml,11.258,27.299,18.555,1.52
+lstm,deep_learning,11.274,26.742,684.612,3.47

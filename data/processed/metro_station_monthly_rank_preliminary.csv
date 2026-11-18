@@ -1,0 +1,144 @@
+station_id,station_name,city_name,state_name,source,latitude,longitude,first_pm25_month,last_pm25_month,months_reporting,span_months,observations,interior_months_assessed,interior_coverage_pct,interior_months_ge80pct,interior_months_ge90pct,missing_calendar_months_within_span,longest_zero_month_run,months_with_data_2024,months_ge80pct_2024,months_ge80pct_2025,last_seen_all_parameters,metro_group,eligible_two_year_history
+site_115,"NSIT Dwarka, Delhi - CPCB",Delhi,Delhi,cpcb_caaqm,28.60909,77.0325413,2018-01,2025-09,90,93,63016,88,96.83,88,87,3,84,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_113,"Shadipur, Delhi - CPCB",Delhi,Delhi,cpcb_caaqm,28.6514781,77.1473105,2018-01,2025-09,90,93,62299,88,95.72,88,82,3,84,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_125,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.674045,77.131023,2018-01,2025-09,90,93,62133,88,95.63,87,79,3,84,12,12,5,2025-09-01T21:00:00,Delhi NCR,True
+site_308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,Gujarat,cpcb_caaqm,23.002657,72.591912,2018-01,2025-09,90,93,61214,88,94.05,87,77,3,84,12,12,4,2025-09-01T23:00:00,Ahmedabad,True
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",Delhi,Delhi,cpcb_caaqm,28.5710274,77.0719006,2018-02,2025-09,89,92,63178,87,98.23,86,86,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1428,"Okhla Phase-2, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.530785,77.271255,2018-02,2025-09,89,92,62989,87,97.93,86,86,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.611281,77.237738,2018-02,2025-09,89,92,62709,87,97.49,86,82,3,83,12,12,5,2025-09-01T22:00:00,Delhi NCR,True
+site_1430,"Rohini, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.732528,77.11992,2018-02,2025-09,89,92,62643,87,97.47,86,80,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1432,"Sonia Vihar, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.710508,77.249485,2018-02,2025-09,89,92,61901,87,96.22,86,79,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1429,"Nehru Nagar, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.56789,77.250515,2018-02,2025-09,89,92,62716,87,97.5,85,82,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1426,"Narela, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.822836,77.101981,2018-02,2025-09,89,92,62441,87,97.13,85,83,3,83,12,12,5,2025-09-01T22:00:00,Delhi NCR,True
+site_1431,"Patparganj, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.623763,77.287209,2018-02,2025-09,89,92,62282,87,96.83,85,81,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1423,"Jahangirpuri, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.73282,77.170633,2018-02,2025-09,89,92,62005,87,96.41,85,79,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1434,"Wazirpur, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.699793,77.165453,2018-02,2025-09,89,92,61944,87,96.31,85,79,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.58028,77.233829,2018-02,2025-09,89,92,61844,87,96.17,85,81,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",Delhi,Delhi,cpcb_caaqm,28.6811736,77.3025234,2018-01,2025-09,90,93,60889,88,93.54,84,72,3,84,12,12,5,2025-09-01T22:00:00,Delhi NCR,True
+site_1435,"Vivek Vihar, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.672342,77.31526,2018-02,2025-09,89,92,61374,87,95.41,83,78,3,83,12,12,5,2025-09-01T22:00:00,Delhi NCR,True
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.5184,78.278777,2018-01,2025-09,90,93,60782,88,93.4,83,70,3,84,12,12,5,2025-09-01T23:00:00,Hyderabad,True
+site_109,"Lodhi Road, Delhi - IMD",Delhi,Delhi,cpcb_caaqm,28.5918245,77.2273074,2018-01,2025-07,88,91,61086,86,95.25,82,73,3,84,12,12,3,2025-07-27T19:00:00,Delhi NCR,True
+site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.4559458,78.4332152,2018-01,2025-09,90,93,61259,88,94.2,82,72,3,84,12,12,5,2025-09-01T23:00:00,Hyderabad,True
+site_1561,"Mundka, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.684678,77.076574,2018-07,2025-09,84,87,58512,82,96.48,81,76,3,78,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1420,"Ashok Vihar, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.695381,77.181665,2018-02,2025-09,89,92,61235,87,95.19,81,77,3,83,12,12,5,2025-09-01T21:00:00,Delhi NCR,True
+site_262,"Central University, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.460103,78.334361,2018-01,2025-09,90,93,59371,88,91.18,81,56,3,84,12,12,4,2025-09-01T23:00:00,Hyderabad,True
+site_1560,"Bawana, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.7762,77.051074,2018-07,2025-09,84,87,58900,82,97.12,80,78,3,78,12,12,5,2025-09-01T19:00:00,Delhi NCR,True
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.498571,77.26484,2018-02,2025-09,89,92,59742,87,93.77,80,76,3,83,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_108,"Aya Nagar, Delhi - IMD",Delhi,Delhi,cpcb_caaqm,28.4706914,77.1099364,2018-01,2025-09,90,93,60151,88,92.37,80,64,3,84,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_105,"North Campus, DU, Delhi - IMD",Delhi,Delhi,cpcb_caaqm,28.6573814,77.1585447,2018-01,2025-09,90,93,59928,88,92.03,80,73,3,84,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1562,"Sri Aurobindo Marg, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.531346,77.190156,2018-07,2025-07,82,85,58528,80,97.69,79,77,3,78,12,12,4,2025-07-31T23:00:00,Delhi NCR,True
+site_1563,"Pusa, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.639652,77.146275,2018-07,2025-09,84,87,57859,82,95.34,79,74,3,78,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_106,"IGI Airport (T3), Delhi - IMD",Delhi,Delhi,cpcb_caaqm,28.5627763,77.1180053,2018-01,2025-09,87,93,58832,85,93.56,79,77,6,42,12,12,3,2025-09-01T23:00:00,Delhi NCR,True
+site_124,"R K Puram, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.563262,77.186937,2018-01,2025-09,90,93,60336,88,92.73,79,69,3,84,12,12,4,2025-09-01T17:00:00,Delhi NCR,True
+site_117,"ITO, Delhi - CPCB",Delhi,Delhi,cpcb_caaqm,28.628624,77.24106,2018-01,2025-09,90,93,59743,88,91.73,78,64,3,84,12,12,4,2025-09-01T23:00:00,Delhi NCR,True
+site_107,"Pusa, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.639652,77.146275,2018-01,2025-09,89,93,58074,87,90.18,78,68,4,43,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_111,"Sector - 62, Noida - IMD",Noida,Uttar Pradesh,cpcb_caaqm,28.6245479,77.3577104,2018-01,2025-09,89,93,58761,87,91.32,77,67,4,43,12,12,4,2025-09-01T23:00:00,Delhi NCR,True
+site_118,"DTU, Delhi - CPCB",Delhi,Delhi,cpcb_caaqm,28.7500499,77.1112615,2018-01,2025-09,90,93,59210,88,90.9,77,59,3,84,12,12,4,2025-09-01T23:00:00,Delhi NCR,True
+site_5024,"Alipur, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.815329,77.15301,2018-11,2025-09,80,83,54994,78,95.8,76,72,3,74,12,12,5,2025-09-01T17:00:00,Delhi NCR,True
+site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.938539,77.5901,2018-07,2025-09,84,87,56794,82,93.56,76,68,3,78,12,12,5,2025-09-01T23:00:00,Bengaluru,True
+site_5082,"Indirapuram, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,cpcb_caaqm,28.646233,77.358075,2019-02,2025-09,77,80,52777,75,96.1,73,69,3,71,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_5081,"Sanjay Nagar, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,cpcb_caaqm,28.685382,77.453839,2019-02,2025-09,77,80,52457,75,95.52,73,69,3,71,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1553,"Bapuji Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.951913,77.539784,2018-06,2025-08,84,87,54747,82,90.04,72,58,3,79,12,12,5,2025-08-31T12:00:00,Bengaluru,True
+site_5111,"Jadavpur, Kolkata - WBPCB",Kolkata,West Bengal,cpcb_caaqm,22.49929,88.36917,2019-06,2025-09,73,76,51202,71,97.31,71,68,3,67,12,12,5,2025-09-01T23:00:00,Kolkata,True
+site_1558,"Silk Board, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.917348,77.622813,2018-06,2025-09,85,88,54026,83,88.92,71,47,3,79,12,12,4,2025-09-01T23:00:00,Bengaluru,True
+site_1554,"Hebbal, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,13.029152,77.585901,2018-06,2025-09,85,88,53337,83,87.83,71,49,3,79,12,12,5,2025-09-01T23:00:00,Bengaluru,True
+site_5123,"Sector-1, Noida - UPPCB",Noida,Uttar Pradesh,cpcb_caaqm,28.5898,77.3101,2019-06,2025-09,73,76,50049,71,96.02,70,64,3,67,12,12,5,2025-09-01T23:00:00,Delhi NCR,True
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",Kolkata,West Bengal,cpcb_caaqm,22.627847,88.380669,2018-11,2025-09,80,83,52827,78,91.6,70,58,3,74,12,12,5,2025-09-01T23:00:00,Kolkata,True
+site_146,"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana,cpcb_caaqm,28.4501238,77.0263051,2018-01,2024-12,81,84,52244,79,88.19,68,51,3,54,12,12,0,2024-12-31T23:00:00,Delhi NCR,True
+site_5129,"Bidhannagar, Kolkata - WBPCB",Kolkata,West Bengal,cpcb_caaqm,22.58157048,88.41002457,2019-08,2025-09,71,74,48004,69,94.62,67,56,3,65,12,12,5,2025-09-01T23:00:00,Kolkata,True
+site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.10078,72.87462,2019-06,2025-09,73,76,48570,71,92.45,67,55,3,67,12,12,5,2025-09-01T23:00:00,Mumbai,True
+site_5083,"Loni, Ghaziabad - UPPCB",Ghaziabad,Uttar Pradesh,cpcb_caaqm,28.757294,77.278792,2019-02,2025-09,77,80,49835,75,90.73,67,55,3,71,12,12,4,2025-09-01T23:00:00,Delhi NCR,True
+site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.920984,77.584908,2018-06,2025-09,85,88,53270,83,87.75,66,50,3,79,12,12,4,2025-09-01T15:00:00,Bengaluru,True
+site_5126,"Rabindra Sarobar, Kolkata - WBPCB",Kolkata,West Bengal,cpcb_caaqm,22.51106,88.35142,2019-08,2025-09,71,74,48330,69,94.64,65,60,3,65,12,12,5,2025-09-01T23:00:00,Kolkata,True
+site_5119,"Sion, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.047,72.8746,2019-06,2025-08,72,75,48513,70,93.0,65,58,3,67,12,12,3,2025-08-29T18:00:00,Mumbai,True
+site_5238,"Ballygunge, Kolkata - WBPCB",Kolkata,West Bengal,cpcb_caaqm,22.5367507,88.3638022,2019-08,2025-09,70,74,46800,68,94.03,64,60,4,65,12,12,3,2025-09-01T23:00:00,Kolkata,True
+site_5112,"Powai, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.1375,72.915056,2019-06,2025-08,72,75,47772,70,91.64,64,52,3,67,12,12,3,2025-08-29T16:00:00,Mumbai,True
+site_5121,"Knowledge Park - V, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,cpcb_caaqm,28.557054,77.453663,2019-06,2024-12,65,67,45835,63,97.56,63,60,2,42,12,12,0,2024-12-31T23:00:00,Delhi NCR,True
+site_5110,"Fort William, Kolkata - WBPCB",Kolkata,West Bengal,cpcb_caaqm,22.55664,88.342674,2019-05,2025-09,73,77,46289,71,89.07,58,52,4,42,12,12,2,2025-09-01T23:00:00,Kolkata,True
+site_5345,"Sector-51, Gurugram - HSPCB",Gurugram,Haryana,cpcb_caaqm,28.4227,77.0667,2020-03,2024-12,58,58,39984,56,94.74,56,51,0,58,12,12,0,2024-12-31T16:00:00,Delhi NCR,True
+site_5344,"Teri Gram, Gurugram - HSPCB",Gurugram,Haryana,cpcb_caaqm,28.4275,77.1465,2020-03,2024-12,58,58,39513,56,93.65,54,44,0,58,12,12,0,2024-12-31T17:00:00,Delhi NCR,True
+site_104,"Burari Crossing, Delhi - IMD",Delhi,Delhi,cpcb_caaqm,28.7256504,77.2011573,2018-01,2025-09,65,93,39603,63,84.38,51,42,28,29,12,12,5,2025-09-01T19:00:00,Delhi NCR,True
+site_5361,"Arumbakkam, Chennai - TNPCB",Chennai,TamilNadu,cpcb_caaqm,13.0664,80.2112,2020-11,2025-09,54,59,34534,52,90.09,45,38,5,50,12,12,2,2025-09-01T23:00:00,Chennai,True
+site_5365,"Kodungaiyur, Chennai - TNPCB",Chennai,TamilNadu,cpcb_caaqm,13.1278,80.2642,2020-11,2025-09,52,59,33159,50,89.29,41,37,7,32,12,12,5,2025-09-01T23:00:00,Chennai,True
+site_5340,"New Industrial Town, Faridabad - HSPCB",Faridabad,Haryana,cpcb_caaqm,28.39072,77.30059,2020-03,2025-04,59,62,34734,57,82.48,41,24,3,58,12,12,0,2025-04-02T11:00:00,Delhi NCR,True
+site_5409,"Revenue Colony-Shivajinagar, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.530085,73.849598,2020-11,2025-08,49,58,30713,47,88.14,39,36,9,24,12,12,4,2025-08-10T15:00:00,Pune,True
+site_5342,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,cpcb_caaqm,28.376058,77.315741,2020-03,2024-12,57,58,32816,55,78.54,34,23,1,47,12,12,0,2024-12-31T15:00:00,Delhi NCR,True
+site_5450,"Gyaspur, Ahmedabad - IITM",Ahmedabad,Gujarat,cpcb_caaqm,22.977134,72.553024,2021-06,2025-09,37,52,24170,35,91.83,33,29,15,17,12,12,5,2025-09-01T23:00:00,Ahmedabad,True
+site_5453,"Chandkheda, Ahmedabad - IITM",Ahmedabad,Gujarat,cpcb_caaqm,23.107969,72.574648,2021-06,2025-09,47,52,28068,45,83.26,33,28,5,24,12,12,5,2025-09-01T23:00:00,Ahmedabad,True
+site_5595,"New Malakpet, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.37206,78.50864,2022-05,2025-09,38,41,22671,36,85.45,31,16,3,32,12,12,2,2025-09-01T23:00:00,Hyderabad,True
+site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.0632143,72.8456324,2023-06,2025-09,25,28,16530,23,96.35,23,23,3,19,12,12,5,2025-09-01T23:00:00,Mumbai,True
+site_5810,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.065931,72.862131,2023-06,2025-09,25,28,16241,23,95.0,23,20,3,19,12,12,5,2025-09-01T23:00:00,Mumbai,True
+site_5811,"Chembur, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.0364585,72.8954371,2023-06,2025-09,25,28,16125,23,93.91,23,17,3,19,12,12,5,2025-09-01T23:00:00,Mumbai,True
+site_1427,"Najafgarh, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.570173,76.933762,2018-02,2025-09,89,92,60409,87,93.88,83,73,3,83,12,11,5,2025-09-01T23:00:00,Delhi NCR,True
+site_309,"Victoria, Kolkata - WBPCB",Kolkata,West Bengal,cpcb_caaqm,22.5448082,88.3403691,2018-04,2025-09,87,90,58938,85,94.51,81,77,3,81,12,11,5,2025-09-01T23:00:00,Kolkata,True
+site_288,"Velachery Res. Area, Chennai - CPCB",Chennai,TamilNadu,cpcb_caaqm,13.0052189,80.2398125,2018-01,2025-09,90,93,61195,88,93.98,79,72,3,84,12,11,4,2025-09-01T23:00:00,Chennai,True
+site_306,"Manali, Chennai - CPCB",Chennai,TamilNadu,cpcb_caaqm,13.164544,80.26285,2018-01,2025-09,90,93,57826,88,88.79,73,54,3,84,12,11,3,2025-09-01T23:00:00,Chennai,True
+site_5122,"Sector-116, Noida - UPPCB",Noida,Uttar Pradesh,cpcb_caaqm,28.56923,77.393848,2019-06,2025-09,73,76,48449,71,92.94,65,59,3,67,12,11,4,2025-09-01T23:00:00,Delhi NCR,True
+site_5104,"Kurla, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.0863,72.8888,2019-06,2025-09,73,76,46005,71,87.45,57,41,3,67,12,11,3,2025-09-01T23:00:00,Mumbai,True
+site_5363,"Perungudi, Chennai - TNPCB",Chennai,TamilNadu,cpcb_caaqm,12.9533,80.2357,2020-12,2025-09,55,58,35884,53,91.87,48,37,3,49,12,11,5,2025-09-01T23:00:00,Chennai,True
+site_5412,"Kandivali East, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.2058,72.8682,2020-12,2025-09,54,58,33647,52,87.6,44,33,4,35,12,11,5,2025-09-01T23:00:00,Mumbai,True
+site_5397,"Khindipada-Bhandup West, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.1653323,72.922099,2020-12,2025-05,47,54,31053,45,91.96,40,37,7,30,12,11,1,2025-09-01T23:00:00,Mumbai,True
+site_5413,"Mulund West, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.175,72.9419,2020-12,2025-09,55,58,33289,53,85.14,40,25,3,49,12,11,4,2025-09-01T23:00:00,Mumbai,True
+site_5102,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.19709,72.82204,2019-06,2025-09,72,76,39495,70,75.99,38,10,4,64,12,11,1,2025-09-01T00:00:00,Mumbai,True
+site_5807,"Mindspace-Malad West, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.1878657,72.8304069,2023-07,2025-09,24,27,15571,22,94.86,21,19,3,18,12,11,5,2025-09-01T23:00:00,Mumbai,True
+site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,13.0246342,77.5080115,2023-02,2025-09,29,32,17767,27,86.61,20,15,3,23,12,11,1,2025-09-01T23:00:00,Bengaluru,True
+site_153,"Sector - 125, Noida - UPPCB",Noida,Uttar Pradesh,cpcb_caaqm,28.5447608,77.3231257,2018-01,2025-09,90,93,56694,88,87.01,72,52,3,84,12,10,5,2025-09-01T23:00:00,Delhi NCR,True
+site_1541,"Knowledge Park - III, Greater Noida - UPPCB",Greater Noida,Uttar Pradesh,cpcb_caaqm,28.47272,77.482,2018-05,2024-12,80,80,52921,78,91.39,69,54,0,80,12,10,0,2024-12-31T23:00:00,Delhi NCR,True
+site_298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.349694,78.451437,2018-01,2025-09,88,93,55292,86,86.81,67,47,5,42,12,10,5,2025-09-01T23:00:00,Hyderabad,True
+site_5113,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.23241,72.86895,2019-06,2025-09,73,76,45451,71,86.62,54,43,3,67,12,10,1,2025-09-01T23:00:00,Mumbai,True
+site_5115,Worli Mumbai,Mumbai,Maharashtra,cpcb_caaqm,19.000083,72.813993,2019-06,2025-09,73,76,45164,71,86.08,54,47,3,67,12,10,3,2025-09-01T23:00:00,Mumbai,True
+site_5364,"Royapuram, Chennai - TNPCB",Chennai,TamilNadu,cpcb_caaqm,13.1036,80.2909,2020-11,2025-09,56,59,36591,54,91.28,49,37,3,50,12,10,5,2025-09-01T23:00:00,Chennai,True
+site_5400,"Borivali East, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.23241,72.86895,2020-11,2025-09,51,59,31577,49,86.96,42,35,8,24,12,10,4,2025-09-01T23:00:00,Mumbai,True
+site_5404,"Mhada Colony, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.57304,73.927715,2020-11,2025-09,48,59,29478,46,86.43,38,32,11,24,12,10,5,2025-09-01T23:00:00,Pune,True
+site_5398,"Navy Nagar-Colaba, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,18.897756,72.81332,2020-11,2025-09,54,59,32451,52,84.25,38,30,5,30,12,10,5,2025-09-01T23:00:00,Mumbai,True
+site_5456,"SVPI Airport Hansol, Ahmedabad - IITM",Ahmedabad,Gujarat,cpcb_caaqm,23.076793,72.627874,2021-06,2025-09,42,52,25996,40,87.51,34,27,10,22,12,10,5,2025-09-01T23:00:00,Ahmedabad,True
+site_5451,"Rakhial, Ahmedabad - IITM",Ahmedabad,Gujarat,cpcb_caaqm,23.016834,72.625775,2021-06,2025-09,42,52,26318,40,87.74,33,27,10,24,12,10,5,2025-09-01T23:00:00,Ahmedabad,True
+site_5681,"Kasturi Nagar, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,13.003872,77.664217,2023-04,2025-08,26,29,17360,24,94.32,21,18,3,21,12,10,3,2025-08-22T14:00:00,Bengaluru,True
+site_103,"CRRI Mathura Road, Delhi - IMD",Delhi,Delhi,cpcb_caaqm,28.5512005,77.2735737,2018-01,2025-09,89,93,61183,87,95.08,84,77,4,80,11,9,5,2025-09-01T23:00:00,Delhi NCR,True
+site_162,"BTM Layout, Bengaluru - CPCB",Bengaluru,Karnataka,cpcb_caaqm,12.9135218,77.5950804,2018-01,2025-09,89,93,57459,87,89.49,72,61,4,77,11,9,5,2025-09-01T23:00:00,Bengaluru,True
+site_163,"Peenya, Bengaluru - CPCB",Bengaluru,Karnataka,cpcb_caaqm,13.0270199,77.494094,2018-01,2025-09,86,93,52771,84,85.09,64,51,7,50,12,9,5,2025-09-01T23:00:00,Bengaluru,True
+site_5120,"Colaba, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,18.91,72.82,2019-06,2025-09,72,76,42332,70,82.39,51,39,4,42,12,9,3,2025-09-01T23:00:00,Mumbai,True
+site_5106,"Vile Parle West, Mumbai - MPCB",Mumbai,Maharashtra,cpcb_caaqm,19.10861,72.83622,2019-06,2025-08,71,75,42292,69,82.05,45,30,4,45,12,9,2,2025-08-30T02:00:00,Mumbai,True
+site_5455,"SAC ISRO Satellite, Ahmedabad - IITM",Ahmedabad,Gujarat,cpcb_caaqm,23.023389,72.515201,2021-06,2025-09,42,52,27199,40,91.71,36,35,10,17,10,9,4,2025-09-01T23:00:00,Ahmedabad,True
+site_5596,"ECIL Kapra, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.470431,78.566959,2022-05,2025-09,37,41,22196,35,86.03,28,13,4,25,11,9,5,2025-09-01T23:00:00,Hyderabad,True
+site_122,"Mandir Marg, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.636429,77.201067,2018-01,2025-09,90,93,60748,88,93.38,82,73,3,84,12,8,5,2025-09-01T23:00:00,Delhi NCR,True
+site_119,"Sirifort, Delhi - CPCB",Delhi,Delhi,cpcb_caaqm,28.5504249,77.2159377,2018-01,2025-09,87,93,58340,85,93.03,77,67,6,73,9,8,5,2025-09-01T23:00:00,Delhi NCR,True
+site_301,"Anand Vihar, Delhi - DPCC",Delhi,Delhi,cpcb_caaqm,28.647622,77.315809,2018-01,2025-09,89,93,58327,87,90.67,75,66,4,77,12,8,5,2025-09-01T23:00:00,Delhi NCR,True
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.540891,78.358528,2018-01,2025-09,90,93,58599,88,89.95,75,56,3,84,12,8,5,2025-09-01T23:00:00,Hyderabad,True
+site_5452,"Raikhad, Ahmedabad - IITM",Ahmedabad,Gujarat,cpcb_caaqm,23.020509,72.579261,2021-06,2025-09,43,52,23039,41,76.74,23,21,9,17,12,8,3,2025-09-01T23:00:00,Ahmedabad,True
+site_5396,"Deonar, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.04946,72.923,2020-11,2025-09,54,59,31294,52,81.11,37,29,5,39,10,7,2,2025-09-01T23:00:00,Mumbai,True
+site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.429398,78.569354,2022-05,2025-09,38,41,22995,36,86.7,26,16,3,32,12,7,4,2025-09-01T23:00:00,Hyderabad,True
+site_5729,"Jigani, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.7816279,77.6299145,2023-04,2025-09,27,30,16038,25,85.12,19,17,3,21,12,7,5,2025-09-01T23:00:00,Bengaluru,True
+site_5766,"Katraj Dairy, Pune - MPCB",Pune,Maharashtra,cpcb_caaqm,18.45445,73.854155,2023-05,2025-09,26,29,14846,24,83.11,18,10,3,20,12,7,4,2025-09-01T23:00:00,Pune,True
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.5316895,78.218939,2018-01,2025-08,84,92,52847,82,86.01,65,38,8,72,7,6,4,2025-08-29T17:00:00,Hyderabad,True
+site_5394,"Mazgaon, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,18.96702,72.84214,2020-11,2025-09,51,59,32046,49,88.05,41,29,8,43,7,6,3,2025-09-01T23:00:00,Mumbai,True
+site_5341,"Sector 30, Faridabad - HSPCB",Faridabad,Haryana,cpcb_caaqm,28.4417,77.3217,2020-03,2024-12,58,58,33886,56,79.81,34,13,0,58,12,6,0,2024-12-31T23:00:00,Delhi NCR,True
+site_5402,"Malad West, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.19709,72.82204,2020-11,2025-09,46,59,27504,44,84.23,30,24,13,16,11,6,5,2025-09-01T23:00:00,Mumbai,True
+site_5604,"Kokapet, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.393559,78.339194,2022-06,2025-09,37,40,21602,35,81.85,20,6,3,31,12,6,4,2025-09-01T23:00:00,Hyderabad,True
+site_5408,"Transport Nagar-Nigdi, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.664282,73.763966,2020-11,2025-08,45,58,23560,43,72.26,19,12,13,17,12,6,3,2025-08-29T23:00:00,Pune,True
+site_5599,"Kompally Municipal Office, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.544899,78.486949,2022-05,2025-09,38,41,20953,36,79.1,18,5,3,32,12,6,3,2025-09-01T23:00:00,Hyderabad,True
+site_5960,"Byculla, Mumbai - BMC",Mumbai,Maharashtra,cpcb_caaqm,18.9767,72.838,2023-11,2025-09,20,23,13305,18,96.92,18,17,3,14,12,12,5,2025-09-01T23:00:00,Mumbai,False
+site_5964,"Ghatkopar, Mumbai - BMC",Mumbai,Maharashtra,cpcb_caaqm,19.083694,72.920967,2023-11,2025-09,20,23,12502,18,91.53,17,12,3,14,12,12,4,2025-09-01T23:00:00,Mumbai,False
+site_5962,"Kandivali West, Mumbai - BMC",Mumbai,Maharashtra,cpcb_caaqm,19.215859,72.831718,2023-11,2025-09,20,23,12627,18,92.74,17,13,3,14,12,11,5,2025-09-01T23:00:00,Mumbai,False
+site_5963,"Sewri, Mumbai - BMC",Mumbai,Maharashtra,cpcb_caaqm,19.000084,72.85673,2023-11,2025-09,20,23,11405,18,84.64,13,10,3,14,12,10,2,2025-09-01T23:00:00,Mumbai,False
+site_5406,"Bhosari, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.640051,73.848956,2020-11,2025-09,38,59,19873,36,74.48,16,11,21,15,7,7,4,2025-09-01T23:00:00,Pune,False
+site_5678,"RVCE-Mailasandra, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.921418,77.502466,2022-12,2025-08,30,33,16847,28,77.68,13,10,3,25,12,7,2,2025-09-01T23:00:00,Bengaluru,False
+site_5988,"Bhumkar Nagar, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.60577,73.749976,2024-05,2025-09,14,17,8130,12,92.02,11,9,3,8,8,6,5,2025-09-01T23:00:00,Pune,False
+site_5961,"Shivaji Nagar, Mumbai - BMC",Mumbai,Maharashtra,cpcb_caaqm,19.060498,72.923356,2023-11,2025-08,19,22,10158,17,72.71,10,7,3,14,12,6,4,2025-08-31T19:00:00,Mumbai,False
+site_263,"Sector 11, Faridabad - HSPCB",Faridabad,Haryana,cpcb_caaqm,28.376058,77.315741,2018-01,2024-11,82,83,50403,80,84.32,62,44,1,53,11,5,0,2024-11-20T09:00:00,Delhi NCR,False
+site_5399,"Chakala-Andheri East, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.11074,72.86084,2020-12,2025-09,48,58,28421,46,82.83,35,27,10,33,7,5,4,2025-09-01T23:00:00,Mumbai,False
+site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.000083,72.813993,2021-01,2025-09,54,57,30966,52,80.23,35,27,3,48,12,4,4,2025-09-01T23:00:00,Mumbai,False
+site_5454,"SAC ISRO Bopal, Ahmedabad - IITM",Ahmedabad,Gujarat,cpcb_caaqm,23.041137,72.456691,2021-06,2025-09,37,52,23522,35,91.21,29,27,15,15,6,4,4,2025-09-01T23:00:00,Ahmedabad,False
+site_5393,"Chandni Chowk, Delhi - IITM",Delhi,Delhi,cpcb_caaqm,28.656756,77.227234,2020-11,2025-09,43,59,22208,41,72.78,19,12,16,22,8,3,2,2025-09-01T23:00:00,Delhi NCR,False
+site_5395,"Lodhi Road, Delhi - IMD",Delhi,Delhi,cpcb_caaqm,28.5918245,77.2273074,2020-11,2025-09,51,59,22034,49,60.24,19,9,8,22,12,3,5,2025-09-01T23:00:00,Delhi NCR,False
+site_5597,"IITH Kandi, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.585705,78.126199,2022-05,2025-09,38,41,20558,36,77.44,18,13,3,32,12,3,3,2025-09-01T23:00:00,Hyderabad,False
+site_5602,"Ramachandrapuram, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.528544,78.286195,2022-06,2025-09,37,40,19753,35,74.45,11,3,3,31,12,3,2,2025-09-01T23:00:00,Hyderabad,False
+site_5996,"Panchawati_Pashan, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.536457,73.805454,2024-07,2025-09,12,15,6361,10,83.29,7,6,3,6,6,3,4,2025-09-01T23:00:00,Pune,False
+site_5025,"NISE Gwal Pahari, Gurugram - IMD",Gurugram,Haryana,cpcb_caaqm,28.422681,77.148944,2018-01,2024-12,77,84,46401,75,82.21,50,40,7,35,8,2,0,2024-12-31T23:00:00,Delhi NCR,False
+site_5092,"Manali Village, Chennai - TNPCB",Chennai,TamilNadu,cpcb_caaqm,13.1662,80.2584,2019-03,2025-09,54,79,30380,52,79.7,35,19,25,29,5,2,4,2025-09-01T23:00:00,Chennai,False
+site_5598,"Somajiguda, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.417094,78.457437,2022-05,2025-09,38,41,20400,36,76.85,17,9,3,32,12,2,3,2025-09-01T23:00:00,Hyderabad,False
+site_5407,"Hadapsar, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.501793,73.927532,2021-01,2025-05,24,53,10593,22,63.92,12,7,29,10,6,2,1,2025-05-11T20:00:00,Pune,False
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Bengaluru,Karnataka,cpcb_caaqm,12.9352049,77.6814488,2018-01,2022-08,56,56,34053,54,83.97,41,24,0,56,0,0,0,2022-08-27T20:00:00,Bengaluru,False
+site_168,Bandra Mumbai,Mumbai,Maharashtra,cpcb_caaqm,19.053536,72.84643,2018-04,2021-12,45,45,26114,43,81.27,27,17,0,45,0,0,0,2021-12-24T12:00:00,Mumbai,False
+site_5392,"Bandra Kurla Complex, Mumbai - IITM",Mumbai,Maharashtra,cpcb_caaqm,19.053536,72.84643,2020-11,2025-09,44,59,25266,42,80.63,25,14,15,38,0,0,2,2025-09-01T23:00:00,Mumbai,False
+site_6012,"Dhankawadi, Pune - IITM",Pune,Maharashtra,cpcb_caaqm,18.459883,73.852193,2025-04,2025-09,6,6,1284,4,39.4,0,0,0,6,0,0,0,2025-09-01T23:00:00,Pune,False

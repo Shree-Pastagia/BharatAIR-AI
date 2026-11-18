@@ -1,0 +1,15 @@
+{
+  "model": "linear_regression",
+  "family": "traditional_ml",
+  "input_hours": 168,
+  "horizon_hours": 1,
+  "seed": 16843,
+  "hyperparameters": {
+    "estimator": "LinearRegression",
+    "scale_features": true
+  },
+  "train_rows": 27757,
+  "validation_rows_scored": 7360,
+  "checkpoint": "models\\linear_regression_L168_H1.joblib",
+  "validation_metric": "MAE"
+}

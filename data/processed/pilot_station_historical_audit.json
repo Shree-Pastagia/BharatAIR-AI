@@ -1,0 +1,1769 @@
+[
+  {
+    "station_id": "site_1422",
+    "station_name": "Dwarka-Sector 8, Delhi - DPCC ",
+    "city_name": "Delhi",
+    "state_name": "Delhi",
+    "source": "cpcb_caaqm",
+    "unit": "µg/m³",
+    "first_pm25": "2018-02-01T10:00:00",
+    "latest_pm25": "2025-09-01T23:00:00",
+    "total_observations": 63178,
+    "distinct_timestamps": 63178,
+    "duplicate_timestamps": 0,
+    "distinct_reporting_days": 2672,
+    "distinct_reporting_months": 89,
+    "expected_hourly_slots_active_period": 66470,
+    "actual_distinct_hourly_observations": 63178,
+    "missing_observations": 3292,
+    "missing_pct": 4.953,
+    "longest_consecutive_missing_hours": 2160,
+    "months_ge80pct_active_span": 88,
+    "months_ge90pct_active_span": 88,
+    "months_assessed": 92,
+    "non_hour_clock_rows": 0,
+    "negative_values": 0,
+    "zero_or_negative_values": 0,
+    "values_ge500": 406,
+    "values_ge1000": 0,
+    "minimum": 1.0,
+    "p99": 455.75,
+    "maximum": 973.0,
+    "monthly_coverage": [
+      {
+        "month": "2018-02",
+        "observations": 660,
+        "expected_active_hours": 662,
+        "coverage_pct": 99.698
+      },
+      {
+        "month": "2018-03",
+        "observations": 697,
+        "expected_active_hours": 744,
+        "coverage_pct": 93.683
+      },
+      {
+        "month": "2018-04",
+        "observations": 715,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.306
+      },
+      {
+        "month": "2018-05",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2018-06",
+        "observations": 679,
+        "expected_active_hours": 720,
+        "coverage_pct": 94.306
+      },
+      {
+        "month": "2018-07",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2018-08",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2018-09",
+        "observations": 704,
+        "expected_active_hours": 720,
+        "coverage_pct": 97.778
+      },
+      {
+        "month": "2018-10",
+        "observations": 741,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.597
+      },
+      {
+        "month": "2018-11",
+        "observations": 713,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.028
+      },
+      {
+        "month": "2018-12",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2019-01",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2019-02",
+        "observations": 662,
+        "expected_active_hours": 672,
+        "coverage_pct": 98.512
+      },
+      {
+        "month": "2019-03",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2019-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2019-05",
+        "observations": 724,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.312
+      },
+      {
+        "month": "2019-06",
+        "observations": 719,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.861
+      },
+      {
+        "month": "2019-07",
+        "observations": 740,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.462
+      },
+      {
+        "month": "2019-08",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2019-09",
+        "observations": 683,
+        "expected_active_hours": 720,
+        "coverage_pct": 94.861
+      },
+      {
+        "month": "2019-10",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2019-11",
+        "observations": 718,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.722
+      },
+      {
+        "month": "2019-12",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2020-01",
+        "observations": 713,
+        "expected_active_hours": 744,
+        "coverage_pct": 95.833
+      },
+      {
+        "month": "2020-02",
+        "observations": 677,
+        "expected_active_hours": 696,
+        "coverage_pct": 97.27
+      },
+      {
+        "month": "2020-03",
+        "observations": 737,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.059
+      },
+      {
+        "month": "2020-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2020-05",
+        "observations": 741,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.597
+      },
+      {
+        "month": "2020-06",
+        "observations": 711,
+        "expected_active_hours": 720,
+        "coverage_pct": 98.75
+      },
+      {
+        "month": "2020-07",
+        "observations": 706,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.892
+      },
+      {
+        "month": "2020-08",
+        "observations": 680,
+        "expected_active_hours": 744,
+        "coverage_pct": 91.398
+      },
+      {
+        "month": "2020-09",
+        "observations": 714,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.167
+      },
+      {
+        "month": "2020-10",
+        "observations": 722,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.043
+      },
+      {
+        "month": "2020-11",
+        "observations": 707,
+        "expected_active_hours": 720,
+        "coverage_pct": 98.194
+      },
+      {
+        "month": "2020-12",
+        "observations": 737,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.059
+      },
+      {
+        "month": "2021-01",
+        "observations": 716,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.237
+      },
+      {
+        "month": "2021-02",
+        "observations": 671,
+        "expected_active_hours": 672,
+        "coverage_pct": 99.851
+      },
+      {
+        "month": "2021-03",
+        "observations": 688,
+        "expected_active_hours": 744,
+        "coverage_pct": 92.473
+      },
+      {
+        "month": "2021-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2021-05",
+        "observations": 740,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.462
+      },
+      {
+        "month": "2021-06",
+        "observations": 719,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.861
+      },
+      {
+        "month": "2021-07",
+        "observations": 728,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.849
+      },
+      {
+        "month": "2021-08",
+        "observations": 726,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.581
+      },
+      {
+        "month": "2021-09",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2021-10",
+        "observations": 741,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.597
+      },
+      {
+        "month": "2021-11",
+        "observations": 716,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.444
+      },
+      {
+        "month": "2021-12",
+        "observations": 742,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.731
+      },
+      {
+        "month": "2022-01",
+        "observations": 715,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.102
+      },
+      {
+        "month": "2022-02",
+        "observations": 671,
+        "expected_active_hours": 672,
+        "coverage_pct": 99.851
+      },
+      {
+        "month": "2022-03",
+        "observations": 715,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.102
+      },
+      {
+        "month": "2022-04",
+        "observations": 687,
+        "expected_active_hours": 720,
+        "coverage_pct": 95.417
+      },
+      {
+        "month": "2022-05",
+        "observations": 719,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.64
+      },
+      {
+        "month": "2022-06",
+        "observations": 701,
+        "expected_active_hours": 720,
+        "coverage_pct": 97.361
+      },
+      {
+        "month": "2022-07",
+        "observations": 734,
+        "expected_active_hours": 744,
+        "coverage_pct": 98.656
+      },
+      {
+        "month": "2022-08",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2022-09",
+        "observations": 706,
+        "expected_active_hours": 720,
+        "coverage_pct": 98.056
+      },
+      {
+        "month": "2022-10",
+        "observations": 737,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.059
+      },
+      {
+        "month": "2022-11",
+        "observations": 710,
+        "expected_active_hours": 720,
+        "coverage_pct": 98.611
+      },
+      {
+        "month": "2022-12",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2023-01",
+        "observations": 728,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.849
+      },
+      {
+        "month": "2023-02",
+        "observations": 672,
+        "expected_active_hours": 672,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2023-03",
+        "observations": 708,
+        "expected_active_hours": 744,
+        "coverage_pct": 95.161
+      },
+      {
+        "month": "2023-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2023-05",
+        "observations": 730,
+        "expected_active_hours": 744,
+        "coverage_pct": 98.118
+      },
+      {
+        "month": "2023-06",
+        "observations": 706,
+        "expected_active_hours": 720,
+        "coverage_pct": 98.056
+      },
+      {
+        "month": "2023-07",
+        "observations": 583,
+        "expected_active_hours": 744,
+        "coverage_pct": 78.36
+      },
+      {
+        "month": "2023-08",
+        "observations": 716,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.237
+      },
+      {
+        "month": "2023-09",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2023-10",
+        "observations": 735,
+        "expected_active_hours": 744,
+        "coverage_pct": 98.79
+      },
+      {
+        "month": "2023-11",
+        "observations": 719,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.861
+      },
+      {
+        "month": "2023-12",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-01",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-02",
+        "observations": 696,
+        "expected_active_hours": 696,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-03",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-05",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-06",
+        "observations": 715,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.306
+      },
+      {
+        "month": "2024-07",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-08",
+        "observations": 741,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.597
+      },
+      {
+        "month": "2024-09",
+        "observations": 719,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.861
+      },
+      {
+        "month": "2024-10",
+        "observations": 739,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.328
+      },
+      {
+        "month": "2024-11",
+        "observations": 715,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.306
+      },
+      {
+        "month": "2024-12",
+        "observations": 740,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.462
+      },
+      {
+        "month": "2025-01",
+        "observations": 0,
+        "expected_active_hours": 744,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2025-02",
+        "observations": 0,
+        "expected_active_hours": 672,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2025-03",
+        "observations": 0,
+        "expected_active_hours": 744,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2025-04",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2025-05",
+        "observations": 737,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.059
+      },
+      {
+        "month": "2025-06",
+        "observations": 686,
+        "expected_active_hours": 720,
+        "coverage_pct": 95.278
+      },
+      {
+        "month": "2025-07",
+        "observations": 728,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.849
+      },
+      {
+        "month": "2025-08",
+        "observations": 708,
+        "expected_active_hours": 744,
+        "coverage_pct": 95.161
+      },
+      {
+        "month": "2025-09",
+        "observations": 22,
+        "expected_active_hours": 24,
+        "coverage_pct": 91.667
+      }
+    ]
+  },
+  {
+    "station_id": "site_294",
+    "station_name": "Sanathnagar, Hyderabad - TSPCB",
+    "city_name": "Hyderabad",
+    "state_name": "Telangana",
+    "source": "cpcb_caaqm",
+    "unit": "µg/m³",
+    "first_pm25": "2015-03-31T00:00:00",
+    "latest_pm25": "2025-09-01T23:00:00",
+    "total_observations": 80379,
+    "distinct_timestamps": 80379,
+    "duplicate_timestamps": 0,
+    "distinct_reporting_days": 3500,
+    "distinct_reporting_months": 122,
+    "expected_hourly_slots_active_period": 91392,
+    "actual_distinct_hourly_observations": 80379,
+    "missing_observations": 11013,
+    "missing_pct": 12.05,
+    "longest_consecutive_missing_hours": 2591,
+    "months_ge80pct_active_span": 108,
+    "months_ge90pct_active_span": 93,
+    "months_assessed": 127,
+    "non_hour_clock_rows": 0,
+    "negative_values": 0,
+    "zero_or_negative_values": 0,
+    "values_ge500": 569,
+    "values_ge1000": 0,
+    "minimum": 0.25,
+    "p99": 232.3050000000003,
+    "maximum": 995.0,
+    "monthly_coverage": [
+      {
+        "month": "2015-03",
+        "observations": 24,
+        "expected_active_hours": 24,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2015-04",
+        "observations": 575,
+        "expected_active_hours": 720,
+        "coverage_pct": 79.861
+      },
+      {
+        "month": "2015-05",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2015-06",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2015-07",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2015-08",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2015-09",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2015-10",
+        "observations": 724,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.312
+      },
+      {
+        "month": "2015-11",
+        "observations": 697,
+        "expected_active_hours": 720,
+        "coverage_pct": 96.806
+      },
+      {
+        "month": "2015-12",
+        "observations": 738,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.194
+      },
+      {
+        "month": "2016-01",
+        "observations": 581,
+        "expected_active_hours": 744,
+        "coverage_pct": 78.091
+      },
+      {
+        "month": "2016-02",
+        "observations": 608,
+        "expected_active_hours": 696,
+        "coverage_pct": 87.356
+      },
+      {
+        "month": "2016-03",
+        "observations": 600,
+        "expected_active_hours": 744,
+        "coverage_pct": 80.645
+      },
+      {
+        "month": "2016-04",
+        "observations": 435,
+        "expected_active_hours": 720,
+        "coverage_pct": 60.417
+      },
+      {
+        "month": "2016-05",
+        "observations": 680,
+        "expected_active_hours": 744,
+        "coverage_pct": 91.398
+      },
+      {
+        "month": "2016-06",
+        "observations": 677,
+        "expected_active_hours": 720,
+        "coverage_pct": 94.028
+      },
+      {
+        "month": "2016-07",
+        "observations": 668,
+        "expected_active_hours": 744,
+        "coverage_pct": 89.785
+      },
+      {
+        "month": "2016-08",
+        "observations": 266,
+        "expected_active_hours": 744,
+        "coverage_pct": 35.753
+      },
+      {
+        "month": "2016-09",
+        "observations": 0,
+        "expected_active_hours": 720,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2016-10",
+        "observations": 0,
+        "expected_active_hours": 744,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2016-11",
+        "observations": 58,
+        "expected_active_hours": 720,
+        "coverage_pct": 8.056
+      },
+      {
+        "month": "2016-12",
+        "observations": 596,
+        "expected_active_hours": 744,
+        "coverage_pct": 80.108
+      },
+      {
+        "month": "2017-01",
+        "observations": 677,
+        "expected_active_hours": 744,
+        "coverage_pct": 90.995
+      },
+      {
+        "month": "2017-02",
+        "observations": 659,
+        "expected_active_hours": 672,
+        "coverage_pct": 98.065
+      },
+      {
+        "month": "2017-03",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2017-04",
+        "observations": 566,
+        "expected_active_hours": 720,
+        "coverage_pct": 78.611
+      },
+      {
+        "month": "2017-05",
+        "observations": 555,
+        "expected_active_hours": 744,
+        "coverage_pct": 74.597
+      },
+      {
+        "month": "2017-06",
+        "observations": 695,
+        "expected_active_hours": 720,
+        "coverage_pct": 96.528
+      },
+      {
+        "month": "2017-07",
+        "observations": 707,
+        "expected_active_hours": 744,
+        "coverage_pct": 95.027
+      },
+      {
+        "month": "2017-08",
+        "observations": 635,
+        "expected_active_hours": 744,
+        "coverage_pct": 85.349
+      },
+      {
+        "month": "2017-09",
+        "observations": 703,
+        "expected_active_hours": 720,
+        "coverage_pct": 97.639
+      },
+      {
+        "month": "2017-10",
+        "observations": 128,
+        "expected_active_hours": 744,
+        "coverage_pct": 17.204
+      },
+      {
+        "month": "2017-11",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2017-12",
+        "observations": 741,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.597
+      },
+      {
+        "month": "2018-01",
+        "observations": 670,
+        "expected_active_hours": 744,
+        "coverage_pct": 90.054
+      },
+      {
+        "month": "2018-02",
+        "observations": 672,
+        "expected_active_hours": 672,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2018-03",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2018-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2018-05",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2018-06",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2018-07",
+        "observations": 563,
+        "expected_active_hours": 744,
+        "coverage_pct": 75.672
+      },
+      {
+        "month": "2018-08",
+        "observations": 615,
+        "expected_active_hours": 744,
+        "coverage_pct": 82.661
+      },
+      {
+        "month": "2018-09",
+        "observations": 718,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.722
+      },
+      {
+        "month": "2018-10",
+        "observations": 728,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.849
+      },
+      {
+        "month": "2018-11",
+        "observations": 713,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.028
+      },
+      {
+        "month": "2018-12",
+        "observations": 699,
+        "expected_active_hours": 744,
+        "coverage_pct": 93.952
+      },
+      {
+        "month": "2019-01",
+        "observations": 712,
+        "expected_active_hours": 744,
+        "coverage_pct": 95.699
+      },
+      {
+        "month": "2019-02",
+        "observations": 609,
+        "expected_active_hours": 672,
+        "coverage_pct": 90.625
+      },
+      {
+        "month": "2019-03",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2019-04",
+        "observations": 695,
+        "expected_active_hours": 720,
+        "coverage_pct": 96.528
+      },
+      {
+        "month": "2019-05",
+        "observations": 622,
+        "expected_active_hours": 744,
+        "coverage_pct": 83.602
+      },
+      {
+        "month": "2019-06",
+        "observations": 592,
+        "expected_active_hours": 720,
+        "coverage_pct": 82.222
+      },
+      {
+        "month": "2019-07",
+        "observations": 503,
+        "expected_active_hours": 744,
+        "coverage_pct": 67.608
+      },
+      {
+        "month": "2019-08",
+        "observations": 576,
+        "expected_active_hours": 744,
+        "coverage_pct": 77.419
+      },
+      {
+        "month": "2019-09",
+        "observations": 683,
+        "expected_active_hours": 720,
+        "coverage_pct": 94.861
+      },
+      {
+        "month": "2019-10",
+        "observations": 695,
+        "expected_active_hours": 744,
+        "coverage_pct": 93.414
+      },
+      {
+        "month": "2019-11",
+        "observations": 650,
+        "expected_active_hours": 720,
+        "coverage_pct": 90.278
+      },
+      {
+        "month": "2019-12",
+        "observations": 661,
+        "expected_active_hours": 744,
+        "coverage_pct": 88.844
+      },
+      {
+        "month": "2020-01",
+        "observations": 451,
+        "expected_active_hours": 744,
+        "coverage_pct": 60.618
+      },
+      {
+        "month": "2020-02",
+        "observations": 696,
+        "expected_active_hours": 696,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2020-03",
+        "observations": 457,
+        "expected_active_hours": 744,
+        "coverage_pct": 61.425
+      },
+      {
+        "month": "2020-04",
+        "observations": 462,
+        "expected_active_hours": 720,
+        "coverage_pct": 64.167
+      },
+      {
+        "month": "2020-05",
+        "observations": 742,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.731
+      },
+      {
+        "month": "2020-06",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2020-07",
+        "observations": 626,
+        "expected_active_hours": 744,
+        "coverage_pct": 84.14
+      },
+      {
+        "month": "2020-08",
+        "observations": 723,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.177
+      },
+      {
+        "month": "2020-09",
+        "observations": 644,
+        "expected_active_hours": 720,
+        "coverage_pct": 89.444
+      },
+      {
+        "month": "2020-10",
+        "observations": 722,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.043
+      },
+      {
+        "month": "2020-11",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2020-12",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2021-01",
+        "observations": 737,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.059
+      },
+      {
+        "month": "2021-02",
+        "observations": 652,
+        "expected_active_hours": 672,
+        "coverage_pct": 97.024
+      },
+      {
+        "month": "2021-03",
+        "observations": 706,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.892
+      },
+      {
+        "month": "2021-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2021-05",
+        "observations": 705,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.758
+      },
+      {
+        "month": "2021-06",
+        "observations": 713,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.028
+      },
+      {
+        "month": "2021-07",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2021-08",
+        "observations": 660,
+        "expected_active_hours": 744,
+        "coverage_pct": 88.71
+      },
+      {
+        "month": "2021-09",
+        "observations": 658,
+        "expected_active_hours": 720,
+        "coverage_pct": 91.389
+      },
+      {
+        "month": "2021-10",
+        "observations": 672,
+        "expected_active_hours": 744,
+        "coverage_pct": 90.323
+      },
+      {
+        "month": "2021-11",
+        "observations": 694,
+        "expected_active_hours": 720,
+        "coverage_pct": 96.389
+      },
+      {
+        "month": "2021-12",
+        "observations": 722,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.043
+      },
+      {
+        "month": "2022-01",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2022-02",
+        "observations": 657,
+        "expected_active_hours": 672,
+        "coverage_pct": 97.768
+      },
+      {
+        "month": "2022-03",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2022-04",
+        "observations": 709,
+        "expected_active_hours": 720,
+        "coverage_pct": 98.472
+      },
+      {
+        "month": "2022-05",
+        "observations": 715,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.102
+      },
+      {
+        "month": "2022-06",
+        "observations": 695,
+        "expected_active_hours": 720,
+        "coverage_pct": 96.528
+      },
+      {
+        "month": "2022-07",
+        "observations": 700,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.086
+      },
+      {
+        "month": "2022-08",
+        "observations": 716,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.237
+      },
+      {
+        "month": "2022-09",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2022-10",
+        "observations": 730,
+        "expected_active_hours": 744,
+        "coverage_pct": 98.118
+      },
+      {
+        "month": "2022-11",
+        "observations": 691,
+        "expected_active_hours": 720,
+        "coverage_pct": 95.972
+      },
+      {
+        "month": "2022-12",
+        "observations": 710,
+        "expected_active_hours": 744,
+        "coverage_pct": 95.43
+      },
+      {
+        "month": "2023-01",
+        "observations": 715,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.102
+      },
+      {
+        "month": "2023-02",
+        "observations": 661,
+        "expected_active_hours": 672,
+        "coverage_pct": 98.363
+      },
+      {
+        "month": "2023-03",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2023-04",
+        "observations": 634,
+        "expected_active_hours": 720,
+        "coverage_pct": 88.056
+      },
+      {
+        "month": "2023-05",
+        "observations": 636,
+        "expected_active_hours": 744,
+        "coverage_pct": 85.484
+      },
+      {
+        "month": "2023-06",
+        "observations": 703,
+        "expected_active_hours": 720,
+        "coverage_pct": 97.639
+      },
+      {
+        "month": "2023-07",
+        "observations": 725,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.446
+      },
+      {
+        "month": "2023-08",
+        "observations": 736,
+        "expected_active_hours": 744,
+        "coverage_pct": 98.925
+      },
+      {
+        "month": "2023-09",
+        "observations": 600,
+        "expected_active_hours": 720,
+        "coverage_pct": 83.333
+      },
+      {
+        "month": "2023-10",
+        "observations": 721,
+        "expected_active_hours": 744,
+        "coverage_pct": 96.909
+      },
+      {
+        "month": "2023-11",
+        "observations": 653,
+        "expected_active_hours": 720,
+        "coverage_pct": 90.694
+      },
+      {
+        "month": "2023-12",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-01",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-02",
+        "observations": 696,
+        "expected_active_hours": 696,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-03",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-04",
+        "observations": 718,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.722
+      },
+      {
+        "month": "2024-05",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-06",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-07",
+        "observations": 739,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.328
+      },
+      {
+        "month": "2024-08",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-09",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-10",
+        "observations": 740,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.462
+      },
+      {
+        "month": "2024-11",
+        "observations": 704,
+        "expected_active_hours": 720,
+        "coverage_pct": 97.778
+      },
+      {
+        "month": "2024-12",
+        "observations": 735,
+        "expected_active_hours": 744,
+        "coverage_pct": 98.79
+      },
+      {
+        "month": "2025-01",
+        "observations": 0,
+        "expected_active_hours": 744,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2025-02",
+        "observations": 0,
+        "expected_active_hours": 672,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2025-03",
+        "observations": 0,
+        "expected_active_hours": 744,
+        "coverage_pct": 0.0
+      },
+      {
+        "month": "2025-04",
+        "observations": 717,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.583
+      },
+      {
+        "month": "2025-05",
+        "observations": 742,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.731
+      },
+      {
+        "month": "2025-06",
+        "observations": 658,
+        "expected_active_hours": 720,
+        "coverage_pct": 91.389
+      },
+      {
+        "month": "2025-07",
+        "observations": 705,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.758
+      },
+      {
+        "month": "2025-08",
+        "observations": 733,
+        "expected_active_hours": 744,
+        "coverage_pct": 98.522
+      },
+      {
+        "month": "2025-09",
+        "observations": 24,
+        "expected_active_hours": 24,
+        "coverage_pct": 100.0
+      }
+    ]
+  },
+  {
+    "station_id": "site_5331",
+    "station_name": "Kariavattom, Thiruvananthapuram - Kerala PCB",
+    "city_name": "Thiruvananthapuram",
+    "state_name": "Kerala",
+    "source": "cpcb_caaqm",
+    "unit": "µg/m³",
+    "first_pm25": "2020-02-13T16:00:00",
+    "latest_pm25": "2024-12-31T23:00:00",
+    "total_observations": 37197,
+    "distinct_timestamps": 37197,
+    "duplicate_timestamps": 0,
+    "distinct_reporting_days": 1667,
+    "distinct_reporting_months": 59,
+    "expected_hourly_slots_active_period": 42800,
+    "actual_distinct_hourly_observations": 37197,
+    "missing_observations": 5603,
+    "missing_pct": 13.091,
+    "longest_consecutive_missing_hours": 674,
+    "months_ge80pct_active_span": 47,
+    "months_ge90pct_active_span": 40,
+    "months_assessed": 59,
+    "non_hour_clock_rows": 0,
+    "negative_values": 0,
+    "zero_or_negative_values": 0,
+    "values_ge500": 2,
+    "values_ge1000": 0,
+    "minimum": 0.24,
+    "p99": 65.7108,
+    "maximum": 692.59,
+    "monthly_coverage": [
+      {
+        "month": "2020-02",
+        "observations": 379,
+        "expected_active_hours": 392,
+        "coverage_pct": 96.684
+      },
+      {
+        "month": "2020-03",
+        "observations": 635,
+        "expected_active_hours": 744,
+        "coverage_pct": 85.349
+      },
+      {
+        "month": "2020-04",
+        "observations": 660,
+        "expected_active_hours": 720,
+        "coverage_pct": 91.667
+      },
+      {
+        "month": "2020-05",
+        "observations": 724,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.312
+      },
+      {
+        "month": "2020-06",
+        "observations": 489,
+        "expected_active_hours": 720,
+        "coverage_pct": 67.917
+      },
+      {
+        "month": "2020-07",
+        "observations": 126,
+        "expected_active_hours": 744,
+        "coverage_pct": 16.935
+      },
+      {
+        "month": "2020-08",
+        "observations": 555,
+        "expected_active_hours": 744,
+        "coverage_pct": 74.597
+      },
+      {
+        "month": "2020-09",
+        "observations": 719,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.861
+      },
+      {
+        "month": "2020-10",
+        "observations": 690,
+        "expected_active_hours": 744,
+        "coverage_pct": 92.742
+      },
+      {
+        "month": "2020-11",
+        "observations": 638,
+        "expected_active_hours": 720,
+        "coverage_pct": 88.611
+      },
+      {
+        "month": "2020-12",
+        "observations": 643,
+        "expected_active_hours": 744,
+        "coverage_pct": 86.425
+      },
+      {
+        "month": "2021-01",
+        "observations": 654,
+        "expected_active_hours": 744,
+        "coverage_pct": 87.903
+      },
+      {
+        "month": "2021-02",
+        "observations": 668,
+        "expected_active_hours": 672,
+        "coverage_pct": 99.405
+      },
+      {
+        "month": "2021-03",
+        "observations": 723,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.177
+      },
+      {
+        "month": "2021-04",
+        "observations": 697,
+        "expected_active_hours": 720,
+        "coverage_pct": 96.806
+      },
+      {
+        "month": "2021-05",
+        "observations": 471,
+        "expected_active_hours": 744,
+        "coverage_pct": 63.306
+      },
+      {
+        "month": "2021-06",
+        "observations": 719,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.861
+      },
+      {
+        "month": "2021-07",
+        "observations": 743,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.866
+      },
+      {
+        "month": "2021-08",
+        "observations": 728,
+        "expected_active_hours": 744,
+        "coverage_pct": 97.849
+      },
+      {
+        "month": "2021-09",
+        "observations": 718,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.722
+      },
+      {
+        "month": "2021-10",
+        "observations": 592,
+        "expected_active_hours": 744,
+        "coverage_pct": 79.57
+      },
+      {
+        "month": "2021-11",
+        "observations": 699,
+        "expected_active_hours": 720,
+        "coverage_pct": 97.083
+      },
+      {
+        "month": "2021-12",
+        "observations": 714,
+        "expected_active_hours": 744,
+        "coverage_pct": 95.968
+      },
+      {
+        "month": "2022-01",
+        "observations": 673,
+        "expected_active_hours": 744,
+        "coverage_pct": 90.457
+      },
+      {
+        "month": "2022-02",
+        "observations": 495,
+        "expected_active_hours": 672,
+        "coverage_pct": 73.661
+      },
+      {
+        "month": "2022-03",
+        "observations": 653,
+        "expected_active_hours": 744,
+        "coverage_pct": 87.769
+      },
+      {
+        "month": "2022-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2022-05",
+        "observations": 482,
+        "expected_active_hours": 744,
+        "coverage_pct": 64.785
+      },
+      {
+        "month": "2022-06",
+        "observations": 361,
+        "expected_active_hours": 720,
+        "coverage_pct": 50.139
+      },
+      {
+        "month": "2022-07",
+        "observations": 287,
+        "expected_active_hours": 744,
+        "coverage_pct": 38.575
+      },
+      {
+        "month": "2022-08",
+        "observations": 448,
+        "expected_active_hours": 744,
+        "coverage_pct": 60.215
+      },
+      {
+        "month": "2022-09",
+        "observations": 650,
+        "expected_active_hours": 720,
+        "coverage_pct": 90.278
+      },
+      {
+        "month": "2022-10",
+        "observations": 705,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.758
+      },
+      {
+        "month": "2022-11",
+        "observations": 691,
+        "expected_active_hours": 720,
+        "coverage_pct": 95.972
+      },
+      {
+        "month": "2022-12",
+        "observations": 705,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.758
+      },
+      {
+        "month": "2023-01",
+        "observations": 684,
+        "expected_active_hours": 744,
+        "coverage_pct": 91.935
+      },
+      {
+        "month": "2023-02",
+        "observations": 653,
+        "expected_active_hours": 672,
+        "coverage_pct": 97.173
+      },
+      {
+        "month": "2023-03",
+        "observations": 701,
+        "expected_active_hours": 744,
+        "coverage_pct": 94.22
+      },
+      {
+        "month": "2023-04",
+        "observations": 718,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.722
+      },
+      {
+        "month": "2023-05",
+        "observations": 695,
+        "expected_active_hours": 744,
+        "coverage_pct": 93.414
+      },
+      {
+        "month": "2023-06",
+        "observations": 711,
+        "expected_active_hours": 720,
+        "coverage_pct": 98.75
+      },
+      {
+        "month": "2023-07",
+        "observations": 384,
+        "expected_active_hours": 744,
+        "coverage_pct": 51.613
+      },
+      {
+        "month": "2023-08",
+        "observations": 684,
+        "expected_active_hours": 744,
+        "coverage_pct": 91.935
+      },
+      {
+        "month": "2023-09",
+        "observations": 695,
+        "expected_active_hours": 720,
+        "coverage_pct": 96.528
+      },
+      {
+        "month": "2023-10",
+        "observations": 611,
+        "expected_active_hours": 744,
+        "coverage_pct": 82.124
+      },
+      {
+        "month": "2023-11",
+        "observations": 23,
+        "expected_active_hours": 720,
+        "coverage_pct": 3.194
+      },
+      {
+        "month": "2023-12",
+        "observations": 606,
+        "expected_active_hours": 744,
+        "coverage_pct": 81.452
+      },
+      {
+        "month": "2024-01",
+        "observations": 741,
+        "expected_active_hours": 744,
+        "coverage_pct": 99.597
+      },
+      {
+        "month": "2024-02",
+        "observations": 696,
+        "expected_active_hours": 696,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-03",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-04",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-05",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-06",
+        "observations": 718,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.722
+      },
+      {
+        "month": "2024-07",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-08",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-09",
+        "observations": 719,
+        "expected_active_hours": 720,
+        "coverage_pct": 99.861
+      },
+      {
+        "month": "2024-10",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-11",
+        "observations": 720,
+        "expected_active_hours": 720,
+        "coverage_pct": 100.0
+      },
+      {
+        "month": "2024-12",
+        "observations": 744,
+        "expected_active_hours": 744,
+        "coverage_pct": 100.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "generated_at_utc": "2026-11-17T08:13:53.109652+00:00",
+  "source": "XKDR India Air Quality Database, source=cpcb_caaqm, parameter=PM2.5",
+  "raw_scope": "only station-level CPCB CAAQM PM2.5 observations; no Embassy records; no filling or outlier removal",
+  "retrieval": {
+    "start": "2009-01-01",
+    "end": "2026-03-31 (inclusive query bound)",
+    "actual_latest_observation_ist": "2025-09-01 23:00:00",
+    "total_rows": 17594014,
+    "bytes": 60698411,
+    "files": 18,
+    "year_2026_query_rows": 0,
+    "truncation": "false for all 18 year-bounded queries"
+  },
+  "station_universe": {
+    "measurement_station_ids": 549,
+    "current_cpcb_metadata_rows": 553,
+    "stations_with_pm25": 549,
+    "official_register_rows": 358,
+    "historical_ids_missing_current_metadata": 0,
+    "known_state_city_pairs": 245,
+    "distinct_nonblank_city_labels": 263,
+    "stations_missing_state_metadata": 62,
+    "stations_missing_city_metadata": 29,
+    "stations_missing_both_city_and_state": 29
+  },
+  "eligibility": {
+    "tier_a": 310,
+    "tier_b": 165,
+    "tier_c": 78,
+    "tier_rule": "A: >=2 represented years, >=70% active-span coverage, >=75% active months >=80% hourly coverage, >=60% Jan-2024–Sep-2025 active months >=80%, and no duplicate, off-hour, null, nonnumeric, or negative records. B: >=1 represented year, >=50% active-span coverage, >=50% active months >=80%; otherwise C. This is a screening tier, not a regulatory grade."
+  },
+  "data_quality": {
+    "timestamp_timezone": "naive Asia/Kolkata (IST), per XKDR docs",
+    "hourly_expected_grid": "top-of-hour timestamps; only on-hour timestamps count toward hourly coverage",
+    "unit_variants": [
+      "µg/m³"
+    ],
+    "negative_rows": 0,
+    "extreme_ge_500_rows": 43832,
+    "extreme_ge_1000_rows": 488,
+    "duplicate_timestamp_rows": 0,
+    "off_hour_rows": 0,
+    "null_or_nonnumeric_rows": 0,
+    "null_timestamp_rows": 0
+  },
+  "network_separation": {
+    "CPCB CAAQM PM2.5 rows retrieved": 17594014,
+    "US Embassy data excluded from all coverage/rankings": true
+  },
+  "source_artifacts": {
+    "xkdr_file_index_sha256": "7fd506983d804b540569ee19a5583aa28bccaedfdaa30836bcec51664d1d96e1",
+    "xkdr_station_metadata_sha256": "811d16a5556d6e6eb74a7885fe19ec6c41a30cda0cbb8c2dce29ae720cddf7f7",
+    "official_register_sha256": "72bd87631dffac40b29ebf111bae8fe5f773943734073b93007d18810f055513",
+    "yearly_extract_manifest": "C:/Users/karti/OneDrive/Documents/ChatGPT/BharatAIR/data/phase4_audit/raw_cpcb_pm25/yearly/retrieval_manifest.json"
+  },
+  "methodology": {
+    "station_identity": "exact XKDR site_NNN station_id; operator cross-referenced by site code to official CPCB CCR PDF where present",
+    "timestamp_timezone": "naive IST as documented by XKDR",
+    "observed_cadence": "hourly; verified from returned timestamps",
+    "hourly_coverage": "distinct exact HH:00 timestamps divided by expected hourly timestamps from first to last observed hour inclusive",
+    "monthly_coverage": "actual distinct on-hour timestamps divided by active-span expected hours in that calendar month; first/last partial months flagged",
+    "longest_gap": "largest internal run of absent hourly slots between adjacent distinct on-hour observations; excludes leading/trailing span",
+    "extreme_thresholds_ug_m3": [
+      500,
+      1000
+    ],
+    "outliers_removed": false,
+    "imputation": "none"
+  }
+}

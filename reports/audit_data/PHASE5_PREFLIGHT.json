@@ -1,0 +1,246 @@
+{
+  "preflight_only": true,
+  "pm25_values_read": false,
+  "test_targets_read_or_scored": false,
+  "test_feature_windows_materialized": false,
+  "source": "Phase 4 verified raw CPCB CAAQM PM2.5 extracts; timestamp and station ID columns only",
+  "phase4_inventory_sha256": "e4281a30ea9a77754217430a18c1e2a82879cd7f9ed08f6d404c8a5d58eb1bef",
+  "phase4_eligibility_sha256": "02187aaa55e53797293ef013fe14016f08b6eaff409510743105dc73249b3d26",
+  "raw_retrieval_manifest_sha256": "b5056643357040afc906360ec43826c6d4a070fd4ba5ddcab3a3be00a2310517",
+  "primary_city_station_counts": {
+    "Delhi": 37,
+    "Hyderabad": 10,
+    "Bengaluru": 11,
+    "Mumbai": 29,
+    "Ahmedabad": 7,
+    "Chennai": 6,
+    "Kolkata": 7
+  },
+  "primary_city_tier_breakdown": {
+    "Delhi": {
+      "A": 29,
+      "B": 8
+    },
+    "Hyderabad": {
+      "A": 6,
+      "B": 4
+    },
+    "Bengaluru": {
+      "A": 6,
+      "B": 5
+    },
+    "Mumbai": {
+      "A": 13,
+      "B": 16
+    },
+    "Ahmedabad": {
+      "A": 1,
+      "B": 6
+    },
+    "Chennai": {
+      "A": 5,
+      "B": 1
+    },
+    "Kolkata": {
+      "A": 6,
+      "B": 1
+    }
+  },
+  "pune_tier_b_station_count": 5,
+  "station_count_primary": 107,
+  "station_count_pune": 5,
+  "eligible_windows": {
+    "total_train": 18688366,
+    "total_validation": 9829091,
+    "test_timestamp_eligibility_counts_only": 10620638,
+    "warning": "counts only; test PM2.5 values and test feature windows were never loaded or built"
+  },
+  "candidate_counts": {
+    "configs_per_station_or_fold": 72,
+    "experiment_a_station_specific_primary": 7704,
+    "experiment_a_pune_sensitivity": 360,
+    "experiment_b_pooled_primary": 1008,
+    "experiment_b_pooled_pune_sensitivity": 144,
+    "experiment_c_leave_one_station_out_primary": 7704,
+    "experiment_c_leave_one_station_out_pune_sensitivity": 360,
+    "total_if_all_three_designs_are_run": 17280,
+    "baseline_station_horizon_instances_primary_and_pune": 896
+  },
+  "runtime_estimate": {
+    "calibration": "Phase 3 completed run fit duration (642.45 sec total, including 328 sec CUDA and 315 sec CPU for 72 models, 63,178 timestamps); linear scaling by station timestamp row count, not a benchmark",
+    "primary_experiment_a_estimated_wall_hours": 14.9,
+    "primary_experiment_a_estimated_cuda_fit_hours": 7.6,
+    "primary_experiment_a_estimated_cpu_fit_hours": 7.3,
+    "primary_experiment_b_one_normalization_variant_estimated_wall_hours": 14.9,
+    "primary_experiment_b_two_normalization_variants_estimated_wall_hours": 29.7,
+    "primary_experiment_b_two_variants_estimated_cuda_fit_hours": 15.2,
+    "primary_experiment_c_loso_estimated_wall_hours": 363.3,
+    "primary_experiment_c_loso_estimated_cuda_fit_hours": 185.4,
+    "primary_loso_training_data_multiplier_vs_A": 24.44,
+    "pune_experiment_a_estimated_wall_hours": 0.3,
+    "pune_experiment_b_two_normalization_variants_estimated_wall_hours": 0.5,
+    "pune_experiment_c_loso_estimated_wall_hours": 1.0,
+    "total_all_designs_estimated_wall_hours": 409.6,
+    "total_all_designs_estimated_cuda_fit_hours": 209.1,
+    "runtime_uncertainty": "approximately 0.7x to 1.8x these estimates; CPU Random Forest and pooled candidate memory may dominate, and timings vary by sample count and convergence"
+  },
+  "splits": {
+    "rule": "within each city, sorted union of unique observed IST timestamps; first 70% train, next 15% validation, last 15% test; station-specific windows require all timestamps from first input through target and issue/target in the same partition",
+    "city_cutoffs": {
+      "Delhi": {
+        "validation_start_ist": "2020-10-19T03:00:00",
+        "test_start_ist": "2023-02-10T13:00:00",
+        "unique_union_timestamps": 135108
+      },
+      "Hyderabad": {
+        "validation_start_ist": "2022-05-22T14:00:00",
+        "test_start_ist": "2023-11-27T19:00:00",
+        "unique_union_timestamps": 88671
+      },
+      "Bengaluru": {
+        "validation_start_ist": "2022-06-04T17:00:00",
+        "test_start_ist": "2023-12-04T08:00:00",
+        "unique_union_timestamps": 87621
+      },
+      "Mumbai": {
+        "validation_start_ist": "2022-06-24T14:00:00",
+        "test_start_ist": "2023-12-14T07:00:00",
+        "unique_union_timestamps": 86032
+      },
+      "Ahmedabad": {
+        "validation_start_ist": "2022-10-13T15:00:00",
+        "test_start_ist": "2024-02-09T21:00:00",
+        "unique_union_timestamps": 76820
+      },
+      "Chennai": {
+        "validation_start_ist": "2022-05-29T02:00:00",
+        "test_start_ist": "2023-12-01T01:00:00",
+        "unique_union_timestamps": 88148
+      },
+      "Kolkata": {
+        "validation_start_ist": "2023-04-30T06:00:00",
+        "test_start_ist": "2024-05-17T03:00:00",
+        "unique_union_timestamps": 61258
+      },
+      "Pune": {
+        "validation_start_ist": "2024-03-26T22:00:00",
+        "test_start_ist": "2024-10-29T23:00:00",
+        "unique_union_timestamps": 34725
+      }
+    }
+  },
+  "selected_station_ids": [
+    "site_308",
+    "site_5450",
+    "site_5451",
+    "site_5453",
+    "site_5454",
+    "site_5455",
+    "site_5456",
+    "site_1553",
+    "site_1554",
+    "site_1555",
+    "site_1556",
+    "site_1558",
+    "site_162",
+    "site_163",
+    "site_164",
+    "site_5681",
+    "site_5686",
+    "site_5729",
+    "site_288",
+    "site_306",
+    "site_5361",
+    "site_5363",
+    "site_5364",
+    "site_5365",
+    "site_103",
+    "site_104",
+    "site_105",
+    "site_106",
+    "site_107",
+    "site_108",
+    "site_109",
+    "site_113",
+    "site_114",
+    "site_115",
+    "site_117",
+    "site_118",
+    "site_119",
+    "site_122",
+    "site_124",
+    "site_125",
+    "site_1420",
+    "site_1421",
+    "site_1422",
+    "site_1423",
+    "site_1424",
+    "site_1425",
+    "site_1426",
+    "site_1427",
+    "site_1428",
+    "site_1429",
+    "site_1430",
+    "site_1431",
+    "site_1432",
+    "site_1434",
+    "site_1435",
+    "site_1560",
+    "site_1561",
+    "site_1562",
+    "site_1563",
+    "site_301",
+    "site_5024",
+    "site_199",
+    "site_251",
+    "site_262",
+    "site_275",
+    "site_294",
+    "site_298",
+    "site_5595",
+    "site_5596",
+    "site_5600",
+    "site_5604",
+    "site_296",
+    "site_309",
+    "site_5110",
+    "site_5111",
+    "site_5126",
+    "site_5129",
+    "site_5238",
+    "site_168",
+    "site_5102",
+    "site_5104",
+    "site_5106",
+    "site_5107",
+    "site_5112",
+    "site_5113",
+    "site_5115",
+    "site_5119",
+    "site_5120",
+    "site_5394",
+    "site_5396",
+    "site_5397",
+    "site_5398",
+    "site_5399",
+    "site_5400",
+    "site_5402",
+    "site_5403",
+    "site_5412",
+    "site_5413",
+    "site_5807",
+    "site_5810",
+    "site_5811",
+    "site_5814",
+    "site_5960",
+    "site_5961",
+    "site_5962",
+    "site_5963",
+    "site_5964",
+    "site_5404",
+    "site_5409",
+    "site_5766",
+    "site_5988",
+    "site_5996"
+  ]
+}

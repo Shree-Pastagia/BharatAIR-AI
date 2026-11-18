@@ -1,0 +1,9 @@
+{
+  "source_url": "https://app.cpcbccr.com/ccr_docs/caaqms_list_All_India.pdf",
+  "retrieved_at_utc": "2026-11-17T07:57:30.869569+00:00",
+  "http_status": 200,
+  "bytes": 40901,
+  "sha256": "72bd87631dffac40b29ebf111bae8fe5f773943734073b93007d18810f055513",
+  "parsed_register_rows": 358,
+  "parser": "pdfminer.six; table columns associated by rendered baseline position"
+}

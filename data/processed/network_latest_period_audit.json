@@ -1,0 +1,38 @@
+[
+  {
+    "source": "cpcb_caaqm",
+    "start": "2025-09-02",
+    "end": "2026-03-31",
+    "url": "https://airquality.xkdr.org/v1/measurements?source=cpcb_caaqm&parameter=PM2.5&start=2025-09-02&end=2026-03-31&agg=monthly&format=csv",
+    "accessed_at_utc": "2026-11-16T20:03:37+00:00",
+    "http_status": 200,
+    "x_row_count": "0",
+    "x_truncated": "false",
+    "bytes": 59,
+    "sha256": "c1a632edfe18314ebc1c578f32276c0eb597018a30e6999ef850eb5dcf6477ce",
+    "path": "data/raw/historical_city_monthly/cpcb_caaqm_pm25_monthly_2025-09_2026-03.csv",
+    "response_rows": 0,
+    "actual_measurement_count": 0,
+    "station_count": 0,
+    "period_start_min": null,
+    "period_start_max": null
+  },
+  {
+    "source": "us_embassy",
+    "start": "2025-09-02",
+    "end": "2026-03-31",
+    "url": "https://airquality.xkdr.org/v1/measurements?source=us_embassy&parameter=PM2.5&start=2025-09-02&end=2026-03-31&agg=monthly&format=csv",
+    "accessed_at_utc": "2026-11-16T20:03:37+00:00",
+    "http_status": 200,
+    "x_row_count": "14",
+    "x_truncated": "false",
+    "bytes": 1135,
+    "sha256": "ac42bd319d7354044b2eec7a660fd3e8c5615c6ac254dffa8d6d2646037d82b1",
+    "path": "data/raw/historical_city_monthly/us_embassy_pm25_monthly_2025-09_2026-03.csv",
+    "response_rows": 14,
+    "actual_measurement_count": 9735,
+    "station_count": 2,
+    "period_start_min": "2025-09-01 00:00:00",
+    "period_start_max": "2026-03-01 00:00:00"
+  }
+]

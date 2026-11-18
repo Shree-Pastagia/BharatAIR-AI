@@ -1,0 +1,115 @@
+{
+  "seed": 42,
+  "train_fraction": 0.7,
+  "validation_fraction": 0.15,
+  "input_lengths": [
+    24,
+    48,
+    168
+  ],
+  "horizons": [
+    1,
+    6,
+    12,
+    24
+  ],
+  "long_gap_threshold_hours": 24,
+  "common_comparison_cohort": "intersection of eligible issue times across 24/48/168h windows",
+  "split_rule": "issue and target timestamps must lie in same chronological partition; windows crossing next split target boundary are purged",
+  "continuity_rule": "all hourly timestamps from first input through forecast target must be observed",
+  "seasonal_naive_rule": "actual observation at t+h-24; for h<=24, confirmed no later than issue time t",
+  "season_definition": "winter=Dec-Feb; pre-monsoon=Mar-May; monsoon=Jun-Sep; post-monsoon=Oct-Nov",
+  "neural_epochs": 8,
+  "neural_patience": 2,
+  "neural_batch_size": 512,
+  "neural_hidden_size": 24,
+  "tcn_channels": 8,
+  "bootstrap_replicates": 500,
+  "traditional_models": {
+    "linear_regression": {
+      "estimator": "LinearRegression",
+      "scale_features": true
+    },
+    "random_forest": {
+      "n_estimators": 80,
+      "max_depth": 14,
+      "min_samples_leaf": 3,
+      "max_features": 0.8,
+      "n_jobs": 4
+    },
+    "xgboost": {
+      "n_estimators": 180,
+      "max_depth": 4,
+      "learning_rate": 0.05,
+      "subsample": 0.85,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 1.0,
+      "n_jobs": 4,
+      "tree_method": "hist",
+      "objective": "reg:squarederror"
+    }
+  },
+  "deep_models": {
+    "lstm": {
+      "hidden_size": 24,
+      "max_epochs": 8,
+      "patience": 2,
+      "batch_size": 512,
+      "learning_rate": 0.001
+    },
+    "gru": {
+      "hidden_size": 24,
+      "max_epochs": 8,
+      "patience": 2,
+      "batch_size": 512,
+      "learning_rate": 0.001
+    },
+    "tcn": {
+      "channels": 8,
+      "kernel_size": 3,
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "max_epochs": 8,
+      "patience": 2,
+      "batch_size": 512,
+      "learning_rate": 0.001
+    }
+  },
+  "split_boundaries": {
+    "train_target_start": "2018-02-01T10:00:00",
+    "validation_target_start": "2023-03-22T12:00:00",
+    "test_target_start": "2024-04-30T02:00:00",
+    "data_last_timestamp": "2025-09-01T23:00:00",
+    "train_cut_fraction": 0.7,
+    "validation_cut_fraction": 0.85,
+    "quantile_basis": "sorted unique observed target timestamps",
+    "observed_timestamp_count": 63178,
+    "train_cut_index": 44224,
+    "validation_cut_index": 53701,
+    "timezone": "naive IST source timestamps; no UTC conversion"
+  },
+  "common_comparison_counts": {
+    "1": {
+      "validation": 7360,
+      "test": 5466
+    },
+    "6": {
+      "validation": 7305,
+      "test": 5401
+    },
+    "12": {
+      "validation": 7243,
+      "test": 5323
+    },
+    "24": {
+      "validation": 7123,
+      "test": 5167
+    }
+  }
+}

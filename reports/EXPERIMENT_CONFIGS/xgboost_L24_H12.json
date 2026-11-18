@@ -1,0 +1,22 @@
+{
+  "model": "xgboost",
+  "family": "traditional_ml",
+  "input_hours": 24,
+  "horizon_hours": 12,
+  "seed": 2454,
+  "hyperparameters": {
+    "n_estimators": 180,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "subsample": 0.85,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 1.0,
+    "n_jobs": 4,
+    "tree_method": "hist",
+    "objective": "reg:squarederror"
+  },
+  "train_rows": 39799,
+  "validation_rows_scored": 7243,
+  "checkpoint": "models\\xgboost_L24_H12.joblib",
+  "validation_metric": "MAE"
+}

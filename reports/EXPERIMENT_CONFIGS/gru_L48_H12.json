@@ -1,0 +1,44 @@
+{
+  "model": "gru",
+  "family": "deep_learning",
+  "input_hours": 48,
+  "horizon_hours": 12,
+  "seed": 104854,
+  "hyperparameters": {
+    "hidden_size": 24,
+    "max_epochs": 8,
+    "patience": 2,
+    "batch_size": 512,
+    "learning_rate": 0.001
+  },
+  "train_rows": 37342,
+  "validation_rows_scored": 7243,
+  "best_epoch": 8,
+  "train_loss_history": [
+    0.5948794619079752,
+    0.4090780816893644,
+    0.39197546209988154,
+    0.3819811529910441,
+    0.37470381326223634,
+    0.3719721068724153,
+    0.367133128132896,
+    0.3660063343907225
+  ],
+  "validation_loss_history": [
+    0.4100091755390167,
+    0.38511618971824646,
+    0.37667328119277954,
+    0.3738246262073517,
+    0.36682093143463135,
+    0.36325904726982117,
+    0.36417368054389954,
+    0.35654231905937195
+  ],
+  "scaler": {
+    "input_mean": 108.5373306274414,
+    "input_scale": 98.47596740722656,
+    "target_mean": 107.87910461425781,
+    "target_scale": 98.09873962402344
+  },
+  "checkpoint": "models\\gru_L48_H12.pt"
+}

@@ -1,0 +1,44 @@
+{
+  "model": "lstm",
+  "family": "deep_learning",
+  "input_hours": 168,
+  "horizon_hours": 6,
+  "seed": 116848,
+  "hyperparameters": {
+    "hidden_size": 24,
+    "max_epochs": 8,
+    "patience": 2,
+    "batch_size": 512,
+    "learning_rate": 0.001
+  },
+  "train_rows": 27391,
+  "validation_rows_scored": 7305,
+  "best_epoch": 8,
+  "train_loss_history": [
+    0.6923328635117332,
+    0.39788730720570886,
+    0.36373568107458504,
+    0.3482647688583974,
+    0.33727233871251266,
+    0.33059502452767514,
+    0.32455529778546227,
+    0.3219346072443047
+  ],
+  "validation_loss_history": [
+    0.4031693637371063,
+    0.36051058769226074,
+    0.3458325266838074,
+    0.33631449937820435,
+    0.32766014337539673,
+    0.32399803400039673,
+    0.3160947859287262,
+    0.31418272852897644
+  ],
+  "scaler": {
+    "input_mean": 109.72411346435547,
+    "input_scale": 98.54293060302734,
+    "target_mean": 109.56700134277344,
+    "target_scale": 99.48500061035156
+  },
+  "checkpoint": "models\\lstm_L168_H6.pt"
+}

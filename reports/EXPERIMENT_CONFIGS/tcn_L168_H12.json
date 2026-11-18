@@ -1,0 +1,53 @@
+{
+  "model": "tcn",
+  "family": "deep_learning",
+  "input_hours": 168,
+  "horizon_hours": 12,
+  "seed": 116854,
+  "hyperparameters": {
+    "channels": 8,
+    "kernel_size": 3,
+    "dilations": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      32
+    ],
+    "max_epochs": 8,
+    "patience": 2,
+    "batch_size": 512,
+    "learning_rate": 0.001
+  },
+  "train_rows": 26967,
+  "validation_rows_scored": 7243,
+  "best_epoch": 6,
+  "train_loss_history": [
+    0.6916285669922533,
+    0.44442712162141035,
+    0.40863045690348504,
+    0.38487884821454854,
+    0.37448699096067245,
+    0.3713892216070982,
+    0.3646731414543215,
+    0.3564560607102767
+  ],
+  "validation_loss_history": [
+    0.39751604199409485,
+    0.36724546551704407,
+    0.3424864113330841,
+    0.33742624521255493,
+    0.3323199152946472,
+    0.3239152431488037,
+    0.32672208547592163,
+    0.32393983006477356
+  ],
+  "scaler": {
+    "input_mean": 109.71993255615234,
+    "input_scale": 98.41791534423828,
+    "target_mean": 109.66375732421875,
+    "target_scale": 99.55079650878906
+  },
+  "checkpoint": "models\\tcn_L168_H12.pt"
+}

@@ -1,0 +1,4462 @@
+List of CAAQM Stations — All India
+Continuous Ambient Air Quality Monitoring Stations (CAAQMS)
+
+Central Pollution Control Board (CPCB) · Central Control Room for Air Quality Management
+
+This document lists 358 Continuous Ambient Air Quality Monitoring Stations (CAAQMS) across 31 states and Union
+Territories of India, with each station's operating agency and geographic coordinates. CAAQMS provide real-time, automated air
+quality data feeding the National Air Quality Index (AQI). Stations are operated by CPCB, State Pollution Control Boards (SPCBs),
+Pollution Control Committees, the India Meteorological Department (IMD), and the Indian Institute of Tropical Meteorology (IITM).
+
+Note: CPCB continually adds, relocates and retires stations, so the live count on the official portal will differ from this snapshot. Station codes take the
+form site_NNN and are used when querying or downloading a station's data from the CCR portal.
+
+City
+
+Station Name
+
+Uttar Pradesh  —  55 stations
+
+Agra
+
+Agra
+
+Agra
+
+Agra
+
+Agra
+
+Agra
+
+Baghpat
+
+Baghpat
+
+Bareilly
+
+Manoharpur, Agra
+
+Rohta, Agra
+
+Sanjay Palace, Agra
+
+Sector-3B Avas Vikas Colony, Agra
+
+Shahjahan Garden, Agra
+
+Shastripuram, Agra
+
+New Collectorate, Baghpat
+
+Sardar Patel Inter College, Baghpat
+
+Rajendra Nagar, Bareilly
+
+Bulandshahr
+
+Yamunapuram, Bulandshahr
+
+Firozabad
+
+Firozabad
+
+Ghaziabad
+
+Ghaziabad
+
+Ghaziabad
+
+Ghaziabad
+
+Gorakhpur
+
+Nagla Bhau, Firozabad
+
+Vibhab Nagar, Firozabad
+
+Indirapuram, Ghaziabad
+
+Loni, Ghaziabad
+
+Sanjay Nagar, Ghaziabad
+
+Vasundhara, Ghaziabad
+
+Madan Mohan Malaviya University of Technology,
+Gorakhpur
+
+Greater Noida
+
+Greater Noida
+
+Knowledge Park - III, Greater Noida
+
+Knowledge Park - V, Greater Noida
+
+Hapur
+
+Jhansi
+
+Kanpur
+
+Kanpur
+
+Kanpur
+
+Kanpur
+
+Khurja
+
+Lucknow
+
+Lucknow
+
+Lucknow
+
+Lucknow
+
+Lucknow
+
+Lucknow
+
+Meerut
+
+Meerut
+
+Meerut
+
+Moradabad
+
+Moradabad
+
+Moradabad
+
+Moradabad
+
+Moradabad
+
+Moradabad
+
+Moradabad
+
+Anand Vihar, Hapur
+
+Shivaji Nagar, Jhansi
+
+FTI Kidwai Nagar, Kanpur
+
+IITK, Kanpur
+
+NSI Kalyanpur, Kanpur
+
+Nehru Nagar, Kanpur
+
+Kalindi Kunj, Khurja
+
+B R Ambedkar University, Lucknow
+
+Central School, Lucknow
+
+Gomti Nagar, Lucknow
+
+Kukrail Picnic Spot-1, Lucknow
+
+Lalbagh, Lucknow
+
+Talkatora District Industries Center, Lucknow
+
+Ganga Nagar, Meerut
+
+Jai Bhim Nagar, Meerut
+
+Pallavpuram Phase 2, Meerut
+
+Buddhi Vihar, Moradabad
+
+Eco Herbal Park, Moradabad
+
+Employment Office, Moradabad
+
+Jigar Colony, Moradabad
+
+Kashiram Nagar, Moradabad
+
+Lajpat Nagar, Moradabad
+
+Transport Nagar, Moradabad
+
+Muzaffarnagar
+
+New Mandi, Muzaffarnagar
+
+Noida
+
+Noida
+
+Noida
+
+Noida
+
+Sector - 125, Noida
+
+Sector - 62, Noida
+
+Sector-1, Noida
+
+Sector-116, Noida
+
+Operating Agency
+
+Latitude
+
+Longitude
+
+Code
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+IITK
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+CPCB
+
+UPPCB
+
+UPPCB
+
+CPCB
+
+CPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+IMD
+
+UPPCB
+
+UPPCB
+
+27.2371
+
+27.1070
+
+27.1987
+
+27.1941
+
+27.1693
+
+27.1986
+
+28.9748
+
+28.9649
+
+28.3891
+
+28.4070
+
+27.1689
+
+27.1594
+
+28.6462
+
+28.7573
+
+28.6854
+
+28.6603
+
+78.0194
+
+78.0001
+
+78.0060
+
+77.9624
+
+78.0358
+
+77.9207
+
+77.2134
+
+77.2788
+
+79.4296
+
+77.8498
+
+78.3770
+
+78.3953
+
+77.3581
+
+77.2788
+
+77.4538
+
+77.3573
+
+26.7301
+
+83.4339
+
+28.4727
+
+28.5571
+
+28.7256
+
+25.4547
+
+26.4283
+
+26.5117
+
+26.5100
+
+26.4703
+
+28.2349
+
+26.7664
+
+26.8821
+
+26.8681
+
+26.9072
+
+26.8459
+
+26.8340
+
+28.9993
+
+28.9536
+
+29.0635
+
+28.8353
+
+28.8407
+
+28.8853
+
+28.8567
+
+28.8494
+
+28.8253
+
+28.8026
+
+29.4724
+
+28.5448
+
+28.6245
+
+28.5898
+
+28.5692
+
+77.4820
+
+77.4537
+
+77.7497
+
+78.6039
+
+80.3271
+
+80.2351
+
+80.2496
+
+80.3230
+
+77.8683
+
+80.9273
+
+80.9303
+
+81.0051
+
+80.9858
+
+80.9366
+
+80.8917
+
+77.7590
+
+77.7623
+
+77.7097
+
+78.7446
+
+78.6975
+
+78.7388
+
+78.7726
+
+78.7424
+
+78.7213
+
+78.7537
+
+77.7194
+
+77.3231
+
+77.3577
+
+77.3101
+
+77.3938
+
+#5464
+
+#5482
+
+#307
+
+#5465
+
+#5501
+
+#5463
+
+#1569
+
+#5585
+
+#5601
+
+#1542
+
+#5480
+
+#5584
+
+#5082
+
+#5083
+
+#5081
+
+#144
+
+#5472
+
+#1541
+
+#5121
+
+#5023
+
+#5583
+
+#5500
+
+#5416
+
+#5474
+
+#276
+
+#5603
+
+#5460
+
+#272
+
+#5128
+
+#5462
+
+#277
+
+#297
+
+#5258
+
+#5109
+
+#5257
+
+#5554
+
+#5556
+
+#5537
+
+#5555
+
+#5620
+
+#1398
+
+#5613
+
+#1550
+
+#153
+
+#111
+
+#5123
+
+#5122
+
+City
+
+Prayagraj
+
+Prayagraj
+
+Prayagraj
+
+Varanasi
+
+Varanasi
+
+Varanasi
+
+Varanasi
+
+Vrindavan
+
+Station Name
+
+Jhunsi, Prayagraj
+
+Motilal Nehru NIT, Prayagraj
+
+Nagar Nigam, Prayagraj
+
+Ardhali Bazar, Varanasi
+
+Bhelupur, Varanasi
+
+IESD Banaras Hindu University, Varanasi
+
+Maldahiya, Varanasi
+
+Omex Eternity, Vrindavan
+
+Maharashtra  —  41 stations
+
+Aurangabad
+
+Chandrapur
+
+Chandrapur
+
+Kalyan
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Nagpur
+
+Nashik
+
+Navi Mumbai
+
+Navi Mumbai
+
+Navi Mumbai
+
+Navi Mumbai
+
+Pune
+
+Pune
+
+Pune
+
+Pune
+
+Pune
+
+Pune
+
+Pune
+
+Pune
+
+Solapur
+
+Thane
+
+More Chowk Waluj, Aurangabad
+
+Chandrapur, Chandrapur
+
+MIDC Khutala, Chandrapur
+
+Khadakpada, Kalyan
+
+Bandra Kurla Complex, Mumbai
+
+Bandra, Mumbai
+
+Borivali East, Mumbai
+
+Borivali East, Mumbai
+
+Chakala-Andheri East, Mumbai
+
+Chhatrapati Shivaji Intl. Airport (T2), Mumbai
+
+Colaba, Mumbai
+
+Deonar, Mumbai
+
+Kandivali East, Mumbai
+
+Khindipada-Bhandup West, Mumbai
+
+Kurla, Mumbai
+
+Malad West, Mumbai
+
+Mazgaon, Mumbai
+
+Mulund West, Mumbai
+
+Navy Nagar-Colaba, Mumbai
+
+Powai, Mumbai
+
+Siddharth Nagar-Worli, Mumbai
+
+Sion, Mumbai
+
+Vasai West, Mumbai
+
+Vile Parle West, Mumbai
+
+Worli, Mumbai
+
+Opp GPO Civil Lines, Nagpur
+
+Gangapur Road, Nashik
+
+Airoli, Navi Mumbai
+
+Mahape, Navi Mumbai
+
+Nerul, Navi Mumbai
+
+Sector-19A Nerul, Navi Mumbai
+
+Alandi, Pune
+
+Bhosari, Pune
+
+Hadapsar, Pune
+
+Karve Road, Pune
+
+MIT-Kothrud, Pune
+
+Mhada Colony, Pune
+
+Revenue Colony-Shivajinagar, Pune
+
+Transport Nagar-Nigdi, Pune
+
+Solapur, Solapur
+
+Pimpleshwar Mandir, Thane
+
+Delhi  —  39 stations
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Alipur, Delhi
+
+Anand Vihar, Delhi
+
+Ashok Vihar, Delhi
+
+Aya Nagar, Delhi
+
+Bawana, Delhi
+
+Burari Crossing, Delhi
+
+CRRI Mathura Road, Delhi
+
+Chandni Chowk, Delhi
+
+Operating Agency
+
+Latitude
+
+Longitude
+
+Code
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+UPPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+IITM
+
+MPCB
+
+IITM
+
+MPCB
+
+IITM
+
+MPCB
+
+MPCB
+
+IITM
+
+MPCB
+
+IITM
+
+MPCB
+
+IITM
+
+IITM
+
+MPCB
+
+IITM
+
+MPCB
+
+IITM
+
+MPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+MPCB
+
+IITM
+
+IITM
+
+IITM
+
+IITM
+
+MPCB
+
+IITM
+
+IITM
+
+IITM
+
+IITM
+
+MPCB
+
+MPCB
+
+DPCC
+
+DPCC
+
+DPCC
+
+IMD
+
+DPCC
+
+IMD
+
+IMD
+
+IITM
+
+25.4256
+
+25.4940
+
+25.4492
+
+25.3506
+
+25.3018
+
+25.2623
+
+25.3239
+
+27.5714
+
+19.8389
+
+19.6453
+
+19.9775
+
+19.2529
+
+19.0535
+
+19.0627
+
+19.2324
+
+19.2243
+
+19.1107
+
+19.1008
+
+18.9100
+
+19.0495
+
+19.2058
+
+19.1653
+
+19.0863
+
+19.1971
+
+18.9670
+
+19.1750
+
+18.8978
+
+19.1375
+
+19.0001
+
+19.0470
+
+19.3832
+
+19.1086
+
+18.9936
+
+21.1529
+
+20.0073
+
+19.1494
+
+19.1135
+
+19.0088
+
+19.0440
+
+18.6751
+
+18.6401
+
+18.5018
+
+18.5012
+
+18.5178
+
+18.5730
+
+18.5301
+
+18.6643
+
+17.6599
+
+19.1921
+
+28.8153
+
+28.6476
+
+28.6954
+
+28.4707
+
+28.7762
+
+28.7257
+
+28.5512
+
+28.6568
+
+81.9172
+
+81.8630
+
+81.8274
+
+82.9083
+
+82.9968
+
+82.9954
+
+82.9969
+
+77.6558
+
+75.2444
+
+77.6345
+
+79.2337
+
+73.1420
+
+72.8464
+
+72.8461
+
+72.8689
+
+72.8658
+
+72.8608
+
+72.8746
+
+72.8200
+
+72.9230
+
+72.8682
+
+72.9221
+
+72.8888
+
+72.8220
+
+72.8421
+
+72.9419
+
+72.8133
+
+72.9151
+
+72.8140
+
+72.8746
+
+72.8204
+
+72.8362
+
+72.8128
+
+79.0518
+
+73.7762
+
+72.9986
+
+73.0090
+
+73.0166
+
+73.0325
+
+73.8927
+
+73.8490
+
+73.9275
+
+73.8166
+
+73.8215
+
+73.9277
+
+73.8496
+
+73.7640
+
+75.9064
+
+72.9585
+
+77.1530
+
+77.3158
+
+77.1817
+
+77.1099
+
+77.0511
+
+77.2012
+
+77.2736
+
+77.2272
+
+#5461
+
+#5459
+
+#5484
+
+#273
+
+#5469
+
+#5468
+
+#5475
+
+#5483
+
+#198
+
+#271
+
+#295
+
+#5118
+
+#5392
+
+#168
+
+#5400
+
+#5113
+
+#5399
+
+#5107
+
+#5120
+
+#5396
+
+#5412
+
+#5397
+
+#5104
+
+#5402
+
+#5394
+
+#5413
+
+#5398
+
+#5112
+
+#5403
+
+#5119
+
+#5102
+
+#5106
+
+#5115
+
+#303
+
+#304
+
+#261
+
+#5114
+
+#5103
+
+#5401
+
+#5405
+
+#5406
+
+#5407
+
+#292
+
+#5410
+
+#5404
+
+#5409
+
+#5408
+
+#302
+
+#305
+
+#5024
+
+#301
+
+#1420
+
+#108
+
+#1560
+
+#104
+
+#103
+
+#5393
+
+City
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Delhi
+
+Station Name
+
+DTU, Delhi
+
+Dr. Karni Singh Shooting Range, Delhi
+
+Dwarka-Sector 8, Delhi
+
+IGI Airport (T3), Delhi
+
+IHBAS, Dilshad Garden, Delhi
+
+ITO, Delhi
+
+Jahangirpuri, Delhi
+
+Jawaharlal Nehru Stadium, Delhi
+
+Lodhi Road, Delhi
+
+Lodhi Road, Delhi
+
+Major Dhyan Chand National Stadium, Delhi
+
+Mandir Marg, Delhi
+
+Mundka, Delhi
+
+NSIT Dwarka, Delhi
+
+Najafgarh, Delhi
+
+Narela, Delhi
+
+Nehru Nagar, Delhi
+
+North Campus, DU, Delhi
+
+Okhla Phase-2, Delhi
+
+Patparganj, Delhi
+
+Punjabi Bagh, Delhi
+
+Pusa, Delhi
+
+Pusa, Delhi
+
+R K Puram, Delhi
+
+Rohini, Delhi
+
+Shadipur, Delhi
+
+Sirifort, Delhi
+
+Sonia Vihar, Delhi
+
+Sri Aurobindo Marg, Delhi
+
+Vivek Vihar, Delhi
+
+Wazirpur, Delhi
+
+Bihar  —  35 stations
+
+Araria
+
+Arrah
+
+Kharahiya Basti, Araria
+
+New DM Office, Arrah
+
+AurangabadB
+
+Gurdeo Nagar, Aurangabad
+
+Begusarai
+
+Bettiah
+
+Bhagalpur
+
+Bhagalpur
+
+Bihar Sharif
+
+Buxar
+
+Chhapra
+
+Darbhanga
+
+Gaya
+
+Gaya
+
+Gaya
+
+Hajipur
+
+Katihar
+
+Kishanganj
+
+Manguraha
+
+Motihari
+
+Munger
+
+Muzaffarpur
+
+Muzaffarpur
+
+Muzaffarpur
+
+Patna
+
+Patna
+
+Patna
+
+Patna
+
+Patna
+
+DRCC Anandpur, Begusarai
+
+Kamalnath Nagar, Bettiah
+
+DM Office_Kachari Chowk, Bhagalpur
+
+Mayaganj, Bhagalpur
+
+D M Colony, Bihar Sharif
+
+Central Jail, Buxar
+
+Darshan Nagar, Chhapra
+
+Town Hall - Lal Bagh, Darbhanga
+
+Collectorate, Gaya
+
+Kareemganj, Gaya
+
+SFTI Kusdihra, Gaya
+
+Industrial Area, Hajipur
+
+Mirchaibari, Katihar
+
+SDM Office_Khagra, Kishanganj
+
+Forest Rest House, Manguraha
+
+Gandak Colony, Motihari
+
+Town Hall, Munger
+
+Buddha Colony, Muzaffarpur
+
+MIT-Daudpur Kothi, Muzaffarpur
+
+Muzaffarpur Collectorate, Muzaffarpur
+
+DRM Office Danapur, Patna
+
+Govt. High School Shikarpur, Patna
+
+IGSC Planetarium Complex, Patna
+
+Muradpur, Patna
+
+Rajbansi Nagar, Patna
+
+Operating Agency
+
+Latitude
+
+Longitude
+
+Code
+
+CPCB
+
+DPCC
+
+DPCC
+
+IMD
+
+CPCB
+
+CPCB
+
+DPCC
+
+DPCC
+
+IITM
+
+IMD
+
+DPCC
+
+DPCC
+
+DPCC
+
+CPCB
+
+DPCC
+
+DPCC
+
+DPCC
+
+IMD
+
+DPCC
+
+DPCC
+
+DPCC
+
+DPCC
+
+IMD
+
+DPCC
+
+DPCC
+
+CPCB
+
+CPCB
+
+DPCC
+
+DPCC
+
+DPCC
+
+DPCC
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+28.7500
+
+28.4986
+
+28.5710
+
+28.5628
+
+28.6812
+
+28.6286
+
+28.7328
+
+28.5803
+
+28.5883
+
+28.5918
+
+28.6113
+
+28.6364
+
+28.6847
+
+28.6091
+
+28.5702
+
+28.8228
+
+28.5679
+
+28.6574
+
+28.5308
+
+28.6238
+
+28.6740
+
+28.6396
+
+28.6396
+
+28.5633
+
+28.7325
+
+28.6515
+
+28.5504
+
+28.7105
+
+28.5313
+
+28.6723
+
+28.6998
+
+26.1465
+
+25.5626
+
+24.7575
+
+25.4443
+
+26.8037
+
+25.2510
+
+25.2652
+
+25.2048
+
+25.5556
+
+25.7808
+
+26.1515
+
+24.7955
+
+24.7924
+
+24.7625
+
+25.6972
+
+25.5601
+
+26.0881
+
+25.3573
+
+26.6309
+
+25.3768
+
+26.1144
+
+26.1403
+
+26.1209
+
+25.5866
+
+25.5925
+
+25.5941
+
+25.6197
+
+25.5995
+
+77.1113
+
+77.2648
+
+77.0719
+
+77.1180
+
+77.3025
+
+77.2411
+
+77.1706
+
+77.2338
+
+77.2217
+
+77.2273
+
+77.2377
+
+77.2011
+
+77.0766
+
+77.0325
+
+76.9338
+
+77.1020
+
+77.2505
+
+77.1585
+
+77.2713
+
+77.2872
+
+77.1310
+
+77.1463
+
+77.1463
+
+77.1869
+
+77.1199
+
+77.1473
+
+77.2159
+
+77.2495
+
+77.1902
+
+77.3153
+
+77.1655
+
+87.4542
+
+84.6633
+
+84.3662
+
+86.1402
+
+84.5195
+
+86.9890
+
+87.0129
+
+85.5150
+
+83.9509
+
+84.7447
+
+85.8934
+
+84.9994
+
+84.9924
+
+84.9823
+
+85.2459
+
+87.5533
+
+87.9384
+
+84.1078
+
+84.9005
+
+86.4715
+
+85.3981
+
+85.3650
+
+85.3647
+
+85.0436
+
+85.2272
+
+85.1376
+
+85.1474
+
+85.1137
+
+#118
+
+#1421
+
+#1422
+
+#106
+
+#114
+
+#117
+
+#1423
+
+#1424
+
+#5395
+
+#109
+
+#1425
+
+#122
+
+#1561
+
+#115
+
+#1427
+
+#1426
+
+#1429
+
+#105
+
+#1428
+
+#1431
+
+#125
+
+#1563
+
+#107
+
+#124
+
+#1430
+
+#113
+
+#119
+
+#1432
+
+#1562
+
+#1435
+
+#1434
+
+#5539
+
+#5538
+
+#5544
+
+#5540
+
+#5476
+
+#5543
+
+#5541
+
+#5481
+
+#5542
+
+#5545
+
+#5477
+
+#159
+
+#5548
+
+#5338
+
+#5337
+
+#5546
+
+#5547
+
+#5550
+
+#5478
+
+#5490
+
+#5370
+
+#5479
+
+#158
+
+#5336
+
+#5335
+
+#157
+
+#5261
+
+#5262
+
+City
+
+Patna
+
+Purnia
+
+Rajgir
+
+Saharsa
+
+Samastipur
+
+Sasaram
+
+Siwan
+
+Station Name
+
+Samanpura, Patna
+
+Mariam Nagar, Purnia
+
+Dangi Tola, Rajgir
+
+Police Line, Saharsa
+
+DM Office_Kasipur, Samastipur
+
+Dada Peer, Sasaram
+
+Chitragupta Nagar, Siwan
+
+Karnataka  —  32 stations
+
+Bagalkot
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bengaluru
+
+Bidar
+
+Vidayagiri, Bagalkot
+
+BTM Layout, Bengaluru
+
+BWSSB Kadabesanahalli, Bengaluru
+
+Bapuji Nagar, Bengaluru
+
+City Railway Station, Bengaluru
+
+Hebbal, Bengaluru
+
+Hombegowda Nagar, Bengaluru
+
+Jayanagar 5th Block, Bengaluru
+
+Peenya, Bengaluru
+
+Sanegurava Halli, Bengaluru
+
+Silk Board, Bengaluru
+
+Naubad, Bidar
+
+Chamarajanagar
+
+Urban, Chamarajanagar
+
+Chikkaballapur
+
+Chikkaballapur Rural, Chikkaballapur
+
+Chikkamagaluru
+
+Kalyana Nagara, Chikkamagaluru
+
+Davanagere
+
+Devaraj Urs Badavane, Davanagere
+
+Gadag
+
+Hassan
+
+Haveri
+
+Hubballi
+
+Panchal Nagar, Gadag
+
+B.Katihalli, Hassan
+
+Ashwini Nagar, Haveri
+
+Deshpande Nagar, Hubballi
+
+Kalaburagi
+
+Lal Bahadur Shastri Nagar, Kalaburagi
+
+Kolar
+
+Koppal
+
+Madikeri
+
+Mangalore
+
+Mysuru
+
+Raichur
+
+Ramanagara
+
+Shivamogga
+
+Udupi
+
+Vijayapura
+
+Yadgir
+
+Tamaka Ind. Area, Kolar
+
+Diwator Nagar, Koppal
+
+Stuart Hill, Madikeri
+
+Kadri, Mangalore
+
+Hebbal 1st Stage, Mysuru
+
+Haji Colony, Raichur
+
+Vijay Nagar, Ramanagara
+
+Vinoba Nagara, Shivamogga
+
+Brahmagiri, Udupi
+
+Ibrahimpur, Vijayapura
+
+Collector Office, Yadgir
+
+Haryana  —  30 stations
+
+Ambala
+
+Patti Mehar, Ambala
+
+Bahadurgarh
+
+Arya Nagar, Bahadurgarh
+
+Ballabgarh
+
+Bhiwani
+
+Nathu Colony, Ballabgarh
+
+H.B. Colony, Bhiwani
+
+Charkhi Dadri
+
+Mini Secretariat, Charkhi Dadri
+
+Dharuhera
+
+Faridabad
+
+Faridabad
+
+Faridabad
+
+Faridabad
+
+Fatehabad
+
+Gurugram
+
+Gurugram
+
+Gurugram
+
+Gurugram
+
+Hisar
+
+Jind
+
+Kaithal
+
+Municipal Corporation Office, Dharuhera
+
+New Industrial Town, Faridabad
+
+Sector 11, Faridabad
+
+Sector 30, Faridabad
+
+Sector- 16A, Faridabad
+
+Huda Sector, Fatehabad
+
+NISE Gwal Pahari, Gurugram
+
+Sector-51, Gurugram
+
+Teri Gram, Gurugram
+
+Vikas Sadan, Gurugram
+
+Urban Estate-II, Hisar
+
+Police Lines, Jind
+
+Rishi Nagar, Kaithal
+
+Operating Agency
+
+Latitude
+
+Longitude
+
+Code
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+BSPCB
+
+KSPCB
+
+CPCB
+
+CPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+CPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+KSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+IMD
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+25.5967
+
+25.3663
+
+25.0328
+
+25.8924
+
+25.8597
+
+24.9528
+
+26.2272
+
+16.1728
+
+12.9135
+
+12.9352
+
+12.9519
+
+12.9757
+
+13.0292
+
+12.9385
+
+12.9210
+
+13.0270
+
+12.9903
+
+12.9173
+
+17.9303
+
+11.5536
+
+13.4288
+
+13.3280
+
+14.4758
+
+15.4115
+
+13.0086
+
+14.7918
+
+15.3518
+
+17.3220
+
+13.1276
+
+15.3476
+
+12.4159
+
+12.8893
+
+12.2104
+
+16.2081
+
+12.7334
+
+13.9400
+
+13.3419
+
+16.8026
+
+16.7602
+
+30.3796
+
+28.6701
+
+28.3419
+
+28.8062
+
+28.5939
+
+28.2068
+
+28.3907
+
+28.3761
+
+28.4417
+
+28.4088
+
+29.5037
+
+28.4227
+
+28.4227
+
+28.4275
+
+28.4501
+
+29.1406
+
+29.3078
+
+29.8006
+
+85.0856
+
+87.1175
+
+85.4195
+
+86.5903
+
+85.7794
+
+84.0024
+
+84.3570
+
+75.6597
+
+77.5951
+
+77.6814
+
+77.5398
+
+77.5661
+
+77.5859
+
+77.5901
+
+77.5849
+
+77.4941
+
+77.5431
+
+77.6228
+
+77.4822
+
+76.5552
+
+77.7314
+
+75.7971
+
+75.9052
+
+75.6381
+
+76.1253
+
+75.3896
+
+75.1407
+
+76.8226
+
+78.1570
+
+76.1818
+
+75.7351
+
+74.8530
+
+76.3738
+
+77.3484
+
+77.2981
+
+75.5559
+
+74.7469
+
+75.7227
+
+77.1428
+
+76.7783
+
+76.9254
+
+77.3197
+
+76.1411
+
+76.2707
+
+76.7997
+
+77.3006
+
+77.3157
+
+77.3217
+
+77.3099
+
+75.4679
+
+77.1489
+
+77.0667
+
+77.1465
+
+77.0263
+
+75.7449
+
+76.3376
+
+76.4155
+
+#5263
+
+#5549
+
+#5489
+
+#5551
+
+#5552
+
+#5485
+
+#5553
+
+#5264
+
+#162
+
+#164
+
+#1553
+
+#165
+
+#1554
+
+#1555
+
+#1556
+
+#163
+
+#166
+
+#1558
+
+#5418
+
+#5124
+
+#1557
+
+#5265
+
+#5422
+
+#5419
+
+#5448
+
+#5420
+
+#1447
+
+#1565
+
+#1551
+
+#5415
+
+#5391
+
+#5421
+
+#5125
+
+#5414
+
+#5255
+
+#5266
+
+#5433
+
+#5267
+
+#5254
+
+#5052
+
+#5045
+
+#5060
+
+#5047
+
+#5339
+
+#5044
+
+#5340
+
+#5342
+
+#5341
+
+#263
+
+#5054
+
+#5025
+
+#5345
+
+#5344
+
+#146
+
+#5057
+
+#5056
+
+#5072
+
+Operating Agency
+
+Latitude
+
+Longitude
+
+Code
+
+City
+
+Karnal
+
+Kurukshetra
+
+Mandikhera
+
+Manesar
+
+Narnaul
+
+Palwal
+
+Panchkula
+
+Panipat
+
+Rohtak
+
+Sirsa
+
+Sonipat
+
+Station Name
+
+Sector-12, Karnal
+
+Sector-7, Kurukshetra
+
+General Hospital, Mandikhera
+
+Sector-2 IMT, Manesar
+
+Shastri Nagar, Narnaul
+
+Shyam Nagar, Palwal
+
+Sector-6, Panchkula
+
+Sector-18, Panipat
+
+MD University, Rohtak
+
+F-Block, Sirsa
+
+Murthal, Sonipat
+
+Yamuna Nagar
+
+Gobind Pura, Yamuna Nagar
+
+Gujarat  —  16 stations
+
+Ahmedabad
+
+Ahmedabad
+
+Ahmedabad
+
+Ahmedabad
+
+Ahmedabad
+
+Ahmedabad
+
+Ahmedabad
+
+Ahmedabad
+
+Ahmedabad
+
+Ankleshwar
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Nandesari
+
+Vapi
+
+Vatva
+
+Chandkheda, Ahmedabad
+
+Gyaspur, Ahmedabad
+
+Maninagar, Ahmedabad
+
+Raikhad, Ahmedabad
+
+Rakhial, Ahmedabad
+
+SAC ISRO Bopal, Ahmedabad
+
+SAC ISRO Satellite, Ahmedabad
+
+SVPI Airport Hansol, Ahmedabad
+
+Sardar Vallabhbhai Patel Stadium, Ahmedabad
+
+GIDC, Ankleshwar
+
+GIFT City, Gandhinagar
+
+IIPHG Lekawada, Gandhinagar
+
+Sector-10, Gandhinagar
+
+GIDC, Nandesari
+
+Phase-1 GIDC, Vapi
+
+Phase-4 GIDC, Vatva
+
+Madhya Pradesh  —  16 stations
+
+Bhopal
+
+Damoh
+
+Dewas
+
+Gwalior
+
+Gwalior
+
+Indore
+
+Jabalpur
+
+Katni
+
+Maihar
+
+Mandideep
+
+Pithampur
+
+Ratlam
+
+Sagar
+
+Satna
+
+Singrauli
+
+Ujjain
+
+T T Nagar, Bhopal
+
+Shrivastav Colony, Damoh
+
+Bhopal Chauraha, Dewas
+
+City Center, Gwalior
+
+Phool Bagh, Gwalior
+
+Chhoti Gwaltoli, Indore
+
+Marhatal, Jabalpur
+
+Gole Bazar, Katni
+
+Sahilara, Maihar
+
+Sector-D Industrial Area, Mandideep
+
+Sector-2 Industrial Area, Pithampur
+
+Shasthri Nagar, Ratlam
+
+Deen Dayal Nagar, Sagar
+
+Bandhavgar Colony, Satna
+
+Suryakiran Bhawan NCL, Singrauli
+
+Mahakaleshwar Temple, Ujjain
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+HSPCB
+
+IITM
+
+IITM
+
+GPCB
+
+IITM
+
+IITM
+
+IITM
+
+IITM
+
+IITM
+
+IITM
+
+GPCB
+
+IITM
+
+IITM
+
+GPCB
+
+Nandesari Ind. Association
+
+GPCB
+
+GPCB
+
+MPPCB
+
+MPPCB
+
+MPPCB
+
+MPPCB
+
+Mondelez Ind. Food
+
+MPPCB
+
+MPPCB
+
+MPPCB
+
+KJS Cements
+
+MPPCB
+
+MPPCB
+
+IPCA Lab
+
+MPPCB
+
+Birla Cement
+
+MPPCB
+
+MPPCB
+
+Telangana  —  14 stations
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Hyderabad
+
+Bollaram Industrial Area, Hyderabad
+
+Central University, Hyderabad
+
+ECIL Kapra, Hyderabad
+
+ICRISAT Patancheru, Hyderabad
+
+IDA Pashamylaram, Hyderabad
+
+IITH Kandi, Hyderabad
+
+Kokapet, Hyderabad
+
+Kompally Municipal Office, Hyderabad
+
+Nacharam_TSIIC IALA, Hyderabad
+
+New Malakpet, Hyderabad
+
+Ramachandrapuram, Hyderabad
+
+Sanathnagar, Hyderabad
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+TSPCB
+
+29.6953
+
+29.9669
+
+27.9002
+
+28.3607
+
+28.0602
+
+28.1486
+
+30.7058
+
+29.4980
+
+28.5212
+
+29.5364
+
+29.0272
+
+30.1481
+
+23.1080
+
+22.9771
+
+23.0027
+
+23.0205
+
+23.0168
+
+23.0411
+
+23.0234
+
+23.0768
+
+23.0431
+
+21.6133
+
+23.1638
+
+23.2436
+
+23.2217
+
+22.4108
+
+20.3624
+
+22.9696
+
+23.2336
+
+23.8175
+
+22.9683
+
+26.2034
+
+26.2105
+
+22.4310
+
+23.1686
+
+23.5002
+
+24.2613
+
+23.1084
+
+22.6248
+
+23.3317
+
+23.8640
+
+24.5843
+
+24.1090
+
+23.1827
+
+17.5409
+
+17.4601
+
+17.4704
+
+17.5184
+
+17.5317
+
+17.5857
+
+17.3936
+
+17.5449
+
+17.4294
+
+17.3721
+
+17.5285
+
+17.4559
+
+77.0027
+
+76.8759
+
+76.9938
+
+76.9361
+
+76.1131
+
+77.3321
+
+76.8532
+
+76.9933
+
+76.3714
+
+75.0158
+
+77.0621
+
+77.2893
+
+72.5746
+
+72.5530
+
+72.5919
+
+72.5793
+
+72.6258
+
+72.4567
+
+72.5152
+
+72.6279
+
+72.5630
+
+73.0106
+
+72.6778
+
+72.6899
+
+72.6543
+
+73.0979
+
+72.9180
+
+72.6435
+
+77.4006
+
+79.4462
+
+76.0641
+
+78.1933
+
+78.1710
+
+75.5213
+
+79.9322
+
+80.2328
+
+80.7232
+
+77.5114
+
+75.6752
+
+75.0460
+
+78.8029
+
+80.8549
+
+82.6456
+
+75.7682
+
+78.3585
+
+78.3344
+
+78.5670
+
+78.2788
+
+78.2189
+
+78.1262
+
+78.3392
+
+78.4869
+
+78.5694
+
+78.5086
+
+78.2862
+
+78.4332
+
+#5049
+
+#5043
+
+#5055
+
+#5039
+
+#5053
+
+#5050
+
+#161
+
+#5048
+
+#147
+
+#5051
+
+#5041
+
+#5046
+
+#5453
+
+#5450
+
+#308
+
+#5452
+
+#5451
+
+#5454
+
+#5455
+
+#5456
+
+#5449
+
+#5065
+
+#5458
+
+#5457
+
+#5066
+
+#5274
+
+#5071
+
+#5067
+
+#5247
+
+#5040
+
+#1404
+
+#5273
+
+#5275
+
+#5248
+
+#5249
+
+#5250
+
+#5068
+
+#1403
+
+#1402
+
+#5042
+
+#5269
+
+#1433
+
+#1401
+
+#1400
+
+#199
+
+#262
+
+#5596
+
+#251
+
+#275
+
+#5597
+
+#5604
+
+#5599
+
+#5600
+
+#5595
+
+#5602
+
+#294
+
+City
+
+Hyderabad
+
+Hyderabad
+
+Station Name
+
+Somajiguda, Hyderabad
+
+Zoo Park, Hyderabad
+
+West Bengal  —  14 stations
+
+Asansol
+
+Durgapur
+
+Haldia
+
+Howrah
+
+Howrah
+
+Howrah
+
+Kolkata
+
+Kolkata
+
+Kolkata
+
+Kolkata
+
+Kolkata
+
+Kolkata
+
+Kolkata
+
+Siliguri
+
+Asansol Court Area, Asansol
+
+Sidhu Kanhu Indoor Stadium, Durgapur
+
+Haldia, Haldia
+
+Belur Math, Howrah
+
+Ghusuri, Howrah
+
+Padmapukur, Howrah
+
+Ballygunge, Kolkata
+
+Bidhannagar, Kolkata
+
+Fort William, Kolkata
+
+Jadavpur, Kolkata
+
+Rabindra Bharati University, Kolkata
+
+Rabindra Sarobar, Kolkata
+
+Victoria, Kolkata
+
+Ward-32 Bapupara, Siliguri
+
+Tamil Nadu  —  11 stations
+
+Chennai
+
+Chennai
+
+Chennai
+
+Chennai
+
+Chennai
+
+Chennai
+
+Chennai
+
+Chennai
+
+Alandur Bus Depot, Chennai
+
+Arumbakkam, Chennai
+
+Kodungaiyur, Chennai
+
+Manali Village, Chennai
+
+Manali, Chennai
+
+Perungudi, Chennai
+
+Royapuram, Chennai
+
+Velachery Res. Area, Chennai
+
+Coimbatore
+
+SIDCO Kurichi, Coimbatore
+
+Gummidipoondi
+
+Anthoni Pillai Nagar, Gummidipoondi
+
+Thoothukudi
+
+Meelavittan, Thoothukudi
+
+Rajasthan  —  10 stations
+
+Ajmer
+
+Alwar
+
+Bhiwadi
+
+Jaipur
+
+Jaipur
+
+Jaipur
+
+Jodhpur
+
+Kota
+
+Pali
+
+Udaipur
+
+Civil Lines, Ajmer
+
+Moti Doongri, Alwar
+
+RIICO Ind. Area III, Bhiwadi
+
+Adarsh Nagar, Jaipur
+
+Police Commissionerate, Jaipur
+
+Shastri Nagar, Jaipur
+
+Collectorate, Jodhpur
+
+Shrinath Puram, Kota
+
+Indira Colony Vistar, Pali
+
+Ashok Nagar, Udaipur
+
+Kerala  —  9 stations
+
+Eloor
+
+Ernakulam
+
+Kannur
+
+Kochi
+
+Kollam
+
+Kozhikode
+
+Udyogamandal, Eloor
+
+Kacheripady, Ernakulam
+
+Thavakkara, Kannur
+
+Vyttila, Kochi
+
+Polayathode, Kollam
+
+Palayam, Kozhikode
+
+Thiruvananthapuram
+
+Kariavattom, Thiruvananthapuram
+
+Thiruvananthapuram
+
+Plammoodu, Thiruvananthapuram
+
+Thrissur
+
+Corporation Ground, Thrissur
+
+Punjab  —  8 stations
+
+Amritsar
+
+Bathinda
+
+Jalandhar
+
+Khanna
+
+Ludhiana
+
+Golden Temple, Amritsar
+
+Hardev Nagar, Bathinda
+
+Civil Line, Jalandhar
+
+Kalal Majra, Khanna
+
+Punjab Agricultural University, Ludhiana
+
+Mandi Gobindgarh
+
+RIMT University, Mandi Gobindgarh
+
+Patiala
+
+Rupnagar
+
+Model Town, Patiala
+
+Ratanpura, Rupnagar
+
+Operating Agency
+
+Latitude
+
+Longitude
+
+Code
+
+TSPCB
+
+TSPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+WBPCB
+
+CPCB
+
+TNPCB
+
+TNPCB
+
+TNPCB
+
+CPCB
+
+TNPCB
+
+TNPCB
+
+CPCB
+
+TNPCB
+
+TNPCB
+
+TNPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+RSPCB
+
+Kerala PCB
+
+Kerala PCB
+
+Kerala PCB
+
+Kerala PCB
+
+Kerala PCB
+
+Kerala PCB
+
+Kerala PCB
+
+Kerala PCB
+
+Kerala PCB
+
+PPCB
+
+PPCB
+
+PPCB
+
+PPCB
+
+PPCB
+
+PPCB
+
+PPCB
+
+Ambuja Cements
+
+17.4171
+
+17.3497
+
+78.4574
+
+78.4514
+
+23.6853
+
+23.5404
+
+22.0605
+
+22.6298
+
+22.6120
+
+22.5687
+
+22.5368
+
+22.5816
+
+22.5566
+
+22.4993
+
+22.6278
+
+22.5111
+
+22.5448
+
+26.6883
+
+12.9099
+
+13.0664
+
+13.1278
+
+13.1662
+
+13.1645
+
+12.9533
+
+13.1036
+
+13.0052
+
+10.9425
+
+13.4127
+
+8.8164
+
+26.4709
+
+27.5548
+
+28.1949
+
+26.9029
+
+26.9164
+
+26.9503
+
+26.2682
+
+25.1439
+
+25.7711
+
+24.5886
+
+10.0732
+
+9.9857
+
+11.8750
+
+9.9694
+
+8.8787
+
+11.2491
+
+8.5637
+
+8.5149
+
+10.5324
+
+31.6200
+
+30.2330
+
+31.3219
+
+30.7361
+
+30.9028
+
+30.6500
+
+30.3494
+
+31.0325
+
+86.9460
+
+87.2892
+
+88.1097
+
+88.3520
+
+88.3474
+
+88.2797
+
+88.3638
+
+88.4100
+
+88.3427
+
+88.3692
+
+88.3807
+
+88.3514
+
+88.3404
+
+88.4127
+
+80.1077
+
+80.2112
+
+80.2642
+
+80.2584
+
+80.2629
+
+80.2357
+
+80.2909
+
+80.2398
+
+76.9790
+
+80.1081
+
+78.0990
+
+74.6466
+
+76.6115
+
+76.8623
+
+75.8369
+
+75.7995
+
+75.7309
+
+73.0194
+
+75.8213
+
+73.3402
+
+73.6321
+
+76.3028
+
+76.2813
+
+75.3732
+
+76.3212
+
+76.6073
+
+75.7844
+
+76.8865
+
+76.9436
+
+76.2159
+
+74.8765
+
+74.9078
+
+75.5789
+
+76.2097
+
+75.8086
+
+76.3314
+
+76.3666
+
+76.5623
+
+#5598
+
+#298
+
+#1418
+
+#299
+
+#300
+
+#5101
+
+#274
+
+#1416
+
+#5238
+
+#5129
+
+#5110
+
+#5111
+
+#296
+
+#5126
+
+#309
+
+#1419
+
+#293
+
+#5361
+
+#5365
+
+#5092
+
+#306
+
+#5363
+
+#5364
+
+#288
+
+#5094
+
+#5362
+
+#5367
+
+#1392
+
+#1390
+
+#1391
+
+#1393
+
+#134
+
+#1396
+
+#136
+
+#1394
+
+#1395
+
+#1397
+
+#5105
+
+#5272
+
+#5276
+
+#5270
+
+#5334
+
+#5271
+
+#5331
+
+#252
+
+#5390
+
+#256
+
+#1549
+
+#1438
+
+#1450
+
+#253
+
+#255
+
+#1437
+
+#1538
+
+City
+
+Station Name
+
+Andhra Pradesh  —  4 stations
+
+Amaravati
+
+Secretariat, Amaravati
+
+Rajamahendravaram
+
+Anand Kala Kshetram, Rajamahendravaram
+
+Tirupati
+
+Tirumala, Tirupati
+
+Visakhapatnam
+
+GVM Corporation, Visakhapatnam
+
+Chandigarh  —  3 stations
+
+Chandigarh
+
+Chandigarh
+
+Chandigarh
+
+Sector 22, Chandigarh
+
+Sector-25, Chandigarh
+
+Sector-53, Chandigarh
+
+Assam  —  2 stations
+
+Guwahati
+
+Guwahati
+
+Pan Bazaar, Guwahati
+
+Railway Colony, Guwahati
+
+Chhattisgarh  —  2 stations
+
+Bhilai
+
+Bilaspur
+
+Civic Center, Bhilai
+
+Mangala, Bilaspur
+
+Manipur  —  2 stations
+
+Imphal
+
+Imphal
+
+DM College of Science, Imphal
+
+Manipur University, Imphal
+
+Meghalaya  —  2 stations
+
+Shillong
+
+Shillong
+
+JN Stadium, Shillong
+
+Lumpyngngad, Shillong
+
+Odisha  —  2 stations
+
+Brajrajnagar
+
+Talcher
+
+GM Office, Brajrajnagar
+
+Talcher Coalfields,Talcher
+
+Tripura  —  2 stations
+
+Agartala
+
+Agartala
+
+Bardowali, Agartala
+
+Kunjaban, Agartala
+
+Arunachal Pradesh  —  1 stations
+
+Operating Agency
+
+Latitude
+
+Longitude
+
+Code
+
+APPCB
+
+APPCB
+
+APPCB
+
+APPCB
+
+CPCC
+
+CPCC
+
+CPCC
+
+APCB
+
+APCB
+
+Bhilai Steel Plant
+
+NTPC
+
+Manipur PCB
+
+Manipur PCB
+
+Meghalaya PCB
+
+Meghalaya PCB
+
+OSPCB
+
+OSPCB
+
+Tripura SPCB
+
+Tripura SPCB
+
+16.5151
+
+16.9873
+
+13.6700
+
+17.7200
+
+30.7356
+
+30.7515
+
+30.7199
+
+80.5182
+
+81.7363
+
+79.3500
+
+83.3000
+
+76.7757
+
+76.7629
+
+76.7386
+
+26.1875
+
+26.1817
+
+91.7442
+
+91.7806
+
+21.1856
+
+22.0881
+
+81.3432
+
+82.1374
+
+24.8207
+
+24.7524
+
+93.9423
+
+93.9286
+
+25.5803
+
+25.5586
+
+91.8943
+
+91.8985
+
+21.8005
+
+20.9361
+
+83.8397
+
+85.1707
+
+23.8175
+
+23.8628
+
+91.2727
+
+91.2887
+
+#1406
+
+#1399
+
+#258
+
+#260
+
+#5491
+
+#5127
+
+#5582
+
+#5417
+
+#5073
+
+#5536
+
+#5503
+
+#5592
+
+#5591
+
+#5593
+
+#5131
+
+#1410
+
+#1408
+
+#5587
+
+#5377
+
+Naharlagun
+
+Naharlagun, Naharlagun
+
+APSPCB
+
+27.1034
+
+93.6796
+
+#5446
+
+Himachal Pradesh  —  1 stations
+
+Baddi
+
+HIMUDA Complex Phase-1, Baddi
+
+HPPCB
+
+30.9439
+
+76.8020
+
+#5586
+
+Jammu and Kashmir  —  1 stations
+
+Srinagar
+
+Rajbagh, Srinagar
+
+Jharkhand  —  1 stations
+
+Jorapokhar
+
+Tata Stadium, Jorapokhar
+
+Mizoram  —  1 stations
+
+JKSPCB
+
+JSPCB
+
+34.0662
+
+74.8198
+
+#5424
+
+23.7079
+
+86.4147
+
+#254
+
+Aizawl
+
+Sikulpuikawn, Aizawl
+
+Mizoram PCB
+
+23.7176
+
+92.7193
+
+#5346
+
+Nagaland  —  1 stations
+
+Kohima
+
+PWD Juction, Kohima
+
+Puducherry  —  1 stations
+
+Puducherry
+
+Jawahar Nagar, Puducherry
+
+Sikkim  —  1 stations
+
+Gangtok
+
+Zero Point GICI, Gangtok
+
+Uttarakhand  —  1 stations
+
+Dehradun
+
+Doon University, Dehradun
+
+NPCB
+
+PPCC
+
+SSPCB
+
+UKPCB
+
+25.6635
+
+94.0990
+
+#5375
+
+11.9309
+
+79.8027
+
+#5423
+
+27.3385
+
+88.6141
+
+#5590
+
+30.2694
+
+78.0442
+
+#5594
+
+Source: Central Pollution Control Board (CPCB) — Central Control Room for Air Quality Management (https://airquality.cpcb.gov.in/ccr/). Station
+attributes (name, city, state, operating agency, latitude, longitude, site code) reflect CPCB's CCR station directory as published via the Government of
+India Open Data platform (data.gov.in, CPCB real-time AQI resource). This is a point-in-time snapshot; consult the official CPCB portal for the current live
+list.
+
+

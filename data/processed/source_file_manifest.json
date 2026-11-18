@@ -1,0 +1,434 @@
+[
+  {
+    "path": "data/raw/verification_samples/api_files.json",
+    "source_url": "https://airquality.xkdr.org/v1/files",
+    "http_status": 200,
+    "bytes": 27541,
+    "sha256": "7fd506983d804b540569ee19a5583aa28bccaedfdaa30836bcec51664d1d96e1",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:52+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/api_meta.json",
+    "source_url": "https://airquality.xkdr.org/v1/meta",
+    "http_status": 200,
+    "bytes": 665,
+    "sha256": "82eaef2dac3da8b88a699f5ee82dd018743deaee0675865cca2d935039c80cff",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:51+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/api_parameters.json",
+    "source_url": "https://airquality.xkdr.org/v1/parameters",
+    "http_status": 200,
+    "bytes": 2291,
+    "sha256": "d43d68ff0bd5a677ec635f8fb8abff6e6e3f2d2ba302328d50e95f7ec768841a",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:52+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/api_stations.json",
+    "source_url": "https://airquality.xkdr.org/v1/stations",
+    "http_status": 200,
+    "bytes": 210164,
+    "sha256": "6f555bf9c84b384fca386829312b7fd3e3ed09d70709ff8d6a0f8a1cdda335d5",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:52+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_ahmedabad_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_5453&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 425489,
+    "sha256": "f159cd0279cb3ebf95d62eab56eb08a2aa9d782ff74b66a30f4e0b0cab5fd3c5",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:52+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_anantapur_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_5632&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 350717,
+    "sha256": "0f5e132ddf9d35b2f27c972b424b0c2105e53251e8e556734949cbd7291c9a41",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:54+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_bengaluru_2015.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_162&parameter=PM2.5&start=2015-01-01&end=2015-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 245620,
+    "sha256": "e9a3c1bf8493c54a677547c8da54eb56965e31da4dcaf37d434c00977ca0f546",
+    "accessed_and_saved_at_ist": "2026-11-17T00:33:01+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_bengaluru_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_1555&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 426843,
+    "sha256": "5595984eaa0e343b3ade8ffe4148e560c39b9c76f8959889529e119f1fe14d4a",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:51+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_chennai_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_5365&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 425418,
+    "sha256": "6e147fe62a1580c258eb6f5388263f65bdeae68f45343d71ecfca9638a9a7c81",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:53+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_2018.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_1422&parameter=PM2.5&start=2018-01-01&end=2018-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 391428,
+    "sha256": "2fa3d85c3a87bddffe173a5db2bec7469bcf6c1b1bc2a48e261261a5f9751f21",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:55+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_2020.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_1422&parameter=PM2.5&start=2020-01-01&end=2020-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 426656,
+    "sha256": "89d8e0d28296e5e8466f91806818d9fe78e772a452d74cca20ea0c9b1b7eebbd",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:56+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_2022.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_1422&parameter=PM2.5&start=2022-01-01&end=2022-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 427805,
+    "sha256": "3e9d953384c784de36fb4e05358c11f794e4754987760693dcbae6b7b15ab8c0",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:57+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_2023.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_1422&parameter=PM2.5&start=2023-01-01&end=2023-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 423389,
+    "sha256": "ba9e8fe6e9583bebe6144020196f20830ece01c005808f5bad4963daf1b0b48b",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:57+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_1422&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 434132,
+    "sha256": "31618bda4c9cfcee0dfa0a789c40b14623a7ea7fad39347cdb6d115d2283c798",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:50+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_2025.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_1422&parameter=PM2.5&start=2025-01-01&end=2025-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 176588,
+    "sha256": "6329c553b02cd700cccb69f8f04f5c7e228815e58650e45cb4fb1c53e028121f",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:58+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_ito_2009.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2009-01-01&end=2009-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 229302,
+    "sha256": "348e46094edd304971c7e30599d86627ab5f819bf76cdc69ee5d19ceb91ed05b",
+    "accessed_and_saved_at_ist": "2026-11-17T00:33:00+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_delhi_ito_2010.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2010-01-01&end=2010-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 295372,
+    "sha256": "7f616b8d437fe0814bf77f2ce5eb1566187e92442b01d264f44d7c6f4c262d00",
+    "accessed_and_saved_at_ist": "2026-11-17T00:33:00+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_embassy_delhi_2026-03-27.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=DS1010001&parameter=PM2.5&start=2026-03-27&end=2026-03-27&format=csv",
+    "http_status": 200,
+    "bytes": 1228,
+    "sha256": "c8255cb11dbaa2a5212adc5d6f9b5cc3a8957525257c4645942b62ca11428001",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:58+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/final_pm25_mumbai_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_5814&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 423342,
+    "sha256": "6df3f2eb834856c4c83f714bf6e27518955fd209dcef257e8676121227dc7a0e",
+    "accessed_and_saved_at_ist": "2026-11-17T00:28:51+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_01.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=01/data.parquet",
+    "http_status": 200,
+    "bytes": 7674743,
+    "sha256": "cd71e0e1a3cba6645eaace96673ea66776e08d42c125806e81e814a05aef80ab",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:07+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_02.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=02/data.parquet",
+    "http_status": 200,
+    "bytes": 7131765,
+    "sha256": "0e09f26aa618d9f050e401fea021ec87e69c202f1d5cf94b96c8968a9a387b8a",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:32+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_03.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=03/data.parquet",
+    "http_status": 200,
+    "bytes": 7486404,
+    "sha256": "ab7fe2f12b1ce57c25698635733a1921127ec74ed0e52a3ad21aa7ef0b50c717",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:38+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_04.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=04/data.parquet",
+    "http_status": 200,
+    "bytes": 7176840,
+    "sha256": "973c6331153bf1642932d14cafbb0d595ded9e2ce609aa97d4c6515778e19e8b",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:43+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_05.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=05/data.parquet",
+    "http_status": 200,
+    "bytes": 7465083,
+    "sha256": "bedf06a82d8a37963de5688c62c212776065bf1b506926d952c31fa1b9c25eb1",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:48+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_06.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=06/data.parquet",
+    "http_status": 200,
+    "bytes": 6910860,
+    "sha256": "cf2f8569cba677067405dec7dae0c272b42b7615e5f192d64613a5705064c0b2",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:53+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_07.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=07/data.parquet",
+    "http_status": 200,
+    "bytes": 6913104,
+    "sha256": "32c876c126eadd1746465c74a59b80fb3659ff8db14efe50f2dae0f200b3e971",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:58+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_08.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=08/data.parquet",
+    "http_status": 200,
+    "bytes": 6771808,
+    "sha256": "02088c949fb490e4e2b4e71f79930ee943036ef98c4ea651fd3db394b503b74a",
+    "accessed_and_saved_at_ist": "2026-11-17T00:24:03+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_09.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=09/data.parquet",
+    "http_status": 200,
+    "bytes": 6905203,
+    "sha256": "4ad5e253fe40b16e5e3f11a698380b5af489dd463387e70a599708442a8b6143",
+    "accessed_and_saved_at_ist": "2026-11-17T00:24:07+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_10.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=10/data.parquet",
+    "http_status": 200,
+    "bytes": 7881226,
+    "sha256": "7a93efb9ba6656831e6076908d83477426ca1e5d66ac2e120b8eb0f09a811294",
+    "accessed_and_saved_at_ist": "2026-11-17T00:24:19+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_11.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=11/data.parquet",
+    "http_status": 200,
+    "bytes": 7982655,
+    "sha256": "822a894d114b84b34aac9b237f8cdf2e8e0dcd25839ec8ae418ba029a4e2590a",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:13+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/parquet_2024_12.parquet",
+    "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=12/data.parquet",
+    "http_status": 200,
+    "bytes": 8069243,
+    "sha256": "c64c81a24d76ceb8b0a47a9e57c43c8a66a502082e098f36a4c81563113c8c1e",
+    "accessed_and_saved_at_ist": "2026-11-17T00:24:31+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_ahmedabad_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_308&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 397335,
+    "sha256": "3a261fdd4542043cd4db4214f59d87797c5dd11579a96f57d22e37d8fea11068",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:55+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_anantapur_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_5632&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 350717,
+    "sha256": "0f5e132ddf9d35b2f27c972b424b0c2105e53251e8e556734949cbd7291c9a41",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:57+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_bengaluru_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_162&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 350126,
+    "sha256": "188327217a98efc0d980167b93f431db7241208ad3daee69bc923e3ae62b6e60",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:54+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_chennai_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_288&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 401233,
+    "sha256": "3fff3f1f27779bd54563512d87c043a6a89ea4f90e538ec3cced1493da7db895",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:56+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2009.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2009-01-01&end=2009-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 50,
+    "sha256": "8c2ab61b445036efe57b1309b782f21cae3b055637dd9c8cdc4704ed3caedfad",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:57+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2010.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2010-01-01&end=2010-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 50,
+    "sha256": "8c2ab61b445036efe57b1309b782f21cae3b055637dd9c8cdc4704ed3caedfad",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:57+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2015.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2015-01-01&end=2015-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 98,
+    "sha256": "36ef885bcd3fed11e7bd9529d40f1e4c30dc15fec1ccbb926a0a846d315a4de8",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:58+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2018.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2018-01-01&end=2018-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 400234,
+    "sha256": "0bb72a64aace511d2ed9fa7fddb4a9a309a8846e41f96d03c3935a07fd874248",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:58+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2020.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2020-01-01&end=2020-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 409402,
+    "sha256": "74daa786f395e4b9a596cd91d4d6c461d1f01e4a57df087afbf0a26dedd44f0c",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:59+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2022.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2022-01-01&end=2022-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 350451,
+    "sha256": "0d33a1fddfc22ac9e6a2d852eeab9638dfd36765385a35aabe73ec446917e70e",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:00+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2023.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2023-01-01&end=2023-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 394249,
+    "sha256": "f0cdcc09feae6be89078025087b51e5542470a98cccc625ee798dceb9dda80b0",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:01+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 407733,
+    "sha256": "b8718a82ccecb55071fa14d864f7f930ced6cabb8f16b5c73a62e0519f42d891",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:53+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2025.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2025-01-01&end=2025-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 163705,
+    "sha256": "4630ec5d17cbc930d7329aea03c07b3c2abdd97e9b769b6c82acafe844899c77",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:02+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_2026_partial.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2026-01-01&end=2026-03-31&format=csv",
+    "http_status": 200,
+    "bytes": 50,
+    "sha256": "8c2ab61b445036efe57b1309b782f21cae3b055637dd9c8cdc4704ed3caedfad",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:02+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_dtu_2009.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2009-01-01&end=2009-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 50,
+    "sha256": "8c2ab61b445036efe57b1309b782f21cae3b055637dd9c8cdc4704ed3caedfad",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:56+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_dtu_2010.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2010-01-01&end=2010-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 50,
+    "sha256": "8c2ab61b445036efe57b1309b782f21cae3b055637dd9c8cdc4704ed3caedfad",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:57+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_dtu_2015.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_118&parameter=PM2.5&start=2015-01-01&end=2015-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 98,
+    "sha256": "36ef885bcd3fed11e7bd9529d40f1e4c30dc15fec1ccbb926a0a846d315a4de8",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:57+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_ito_2009.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2009-01-01&end=2009-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 229302,
+    "sha256": "348e46094edd304971c7e30599d86627ab5f819bf76cdc69ee5d19ceb91ed05b",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:02+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_delhi_ito_2010.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_117&parameter=PM2.5&start=2010-01-01&end=2010-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 295372,
+    "sha256": "7f616b8d437fe0814bf77f2ce5eb1566187e92442b01d264f44d7c6f4c262d00",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:03+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_mumbai_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_168&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 50,
+    "sha256": "8c2ab61b445036efe57b1309b782f21cae3b055637dd9c8cdc4704ed3caedfad",
+    "accessed_and_saved_at_ist": "2026-11-17T00:20:53+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_mumbai_bkc_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_5392&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 50,
+    "sha256": "8c2ab61b445036efe57b1309b782f21cae3b055637dd9c8cdc4704ed3caedfad",
+    "accessed_and_saved_at_ist": "2026-11-17T00:21:56+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_mumbai_mpc_bkc_2024.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=site_5810&parameter=PM2.5&start=2024-01-01&end=2024-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 417498,
+    "sha256": "648895db34db0f9d10f25381ec308075a3198eaa32a3867597aba0726e501a3b",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:01+05:30"
+  },
+  {
+    "path": "data/raw/verification_samples/pm25_us_embassy_delhi_2026_03_27.csv",
+    "source_url": "https://airquality.xkdr.org/v1/measurements?station=DS1010001&parameter=PM2.5&start=2026-01-01&end=2026-12-31&format=csv",
+    "http_status": 200,
+    "bytes": 1228,
+    "sha256": "c8255cb11dbaa2a5212adc5d6f9b5cc3a8957525257c4645942b62ca11428001",
+    "accessed_and_saved_at_ist": "2026-11-17T00:23:03+05:30"
+  }
+]

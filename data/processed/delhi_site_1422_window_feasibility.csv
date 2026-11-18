@@ -1,0 +1,13 @@
+input_hours,horizon_hours,candidate_origins,excluded_boundary_windows,excluded_long_outage_windows,excluded_input_gap_windows,excluded_missing_target_windows,eligible_windows,long_gap_threshold_hours,reason_precedence
+24,1,66470,24,2549,5039,150,58708,24,boundary > long_outage > input_gap > missing_target > eligible
+24,6,66470,29,2574,5036,421,58410,24,boundary > long_outage > input_gap > missing_target > eligible
+24,12,66470,35,2604,5036,556,58239,24,boundary > long_outage > input_gap > missing_target > eligible
+24,24,66470,47,2664,5036,674,58049,24,boundary > long_outage > input_gap > missing_target > eligible
+48,1,66470,48,2669,8480,137,55136,24,boundary > long_outage > input_gap > missing_target > eligible
+48,6,66470,53,2694,8477,389,54857,24,boundary > long_outage > input_gap > missing_target > eligible
+48,12,66470,59,2724,8477,518,54692,24,boundary > long_outage > input_gap > missing_target > eligible
+48,24,66470,71,2784,8477,633,54505,24,boundary > long_outage > input_gap > missing_target > eligible
+168,1,66470,168,3269,22355,93,40585,24,boundary > long_outage > input_gap > missing_target > eligible
+168,6,66470,173,3294,22340,267,40396,24,boundary > long_outage > input_gap > missing_target > eligible
+168,12,66470,179,3324,22322,356,40289,24,boundary > long_outage > input_gap > missing_target > eligible
+168,24,66470,191,3384,22286,422,40187,24,boundary > long_outage > input_gap > missing_target > eligible

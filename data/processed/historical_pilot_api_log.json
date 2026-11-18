@@ -1,0 +1,37 @@
+[
+  {
+    "kind": "stations_catalog",
+    "url": "https://airquality.xkdr.org/v1/stations",
+    "accessed_at_utc": "2026-11-16T19:55:44+00:00",
+    "http_status": 200,
+    "bytes": 210164,
+    "sha256": "a3a78b096e9e4c0fd1973c3abd7dda6cf7eaa7fb6fc8c4e21dce762f9e0d9711",
+    "path": "data/raw/verification_samples/authenticated_stations.json",
+    "x_row_count": "558",
+    "x_truncated": "false"
+  },
+  {
+    "kind": "pilot_station_measurements",
+    "station_id": "site_294",
+    "url": "https://airquality.xkdr.org/v1/measurements?station=site_294&source=cpcb_caaqm&parameter=PM2.5&start=2009-01-01&end=2026-03-31&format=csv",
+    "accessed_at_utc": "2026-11-16T19:55:52+00:00",
+    "http_status": 200,
+    "x_row_count": "80379",
+    "x_truncated": "false",
+    "bytes": 3894839,
+    "sha256": "ecf90be5ab2134c60e6a1ac575330867ae3a880811baa8579794281e1c84feca",
+    "path": "data/raw/historical_station_year/site_294_pm25_full_history.csv"
+  },
+  {
+    "kind": "pilot_station_measurements",
+    "station_id": "site_5331",
+    "url": "https://airquality.xkdr.org/v1/measurements?station=site_5331&source=cpcb_caaqm&parameter=PM2.5&start=2009-01-01&end=2026-03-31&format=csv",
+    "accessed_at_utc": "2026-11-16T19:55:59+00:00",
+    "http_status": 200,
+    "x_row_count": "37197",
+    "x_truncated": "false",
+    "bytes": 1864528,
+    "sha256": "2d3574f739128cafd82ea2405d2fb93a22a98cb532e54a6f587a512450f1c8a6",
+    "path": "data/raw/historical_station_year/site_5331_pm25_full_history.csv"
+  }
+]

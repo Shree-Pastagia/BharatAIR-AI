@@ -1,0 +1,80 @@
+{
+  "retrieved_at_utc": "2026-11-17T07:48:30.922096+00:00",
+  "authentication": "success",
+  "source": "XKDR India Air Quality Database",
+  "base_url": "https://airquality.xkdr.org",
+  "endpoints": {
+    "meta": {
+      "url": "https://airquality.xkdr.org/v1/meta",
+      "http_status": 200,
+      "content_type": "application/json",
+      "sha256": "b60be5899de15609ba4631e7b62240bd411d9f83eb421e2c68275715acbd0d09",
+      "bytes": 664,
+      "response_shape": [
+        "schema_version",
+        "exported_at",
+        "timezone_note",
+        "columns",
+        "measurements",
+        "stations",
+        "parameters",
+        "your_tier",
+        "max_rows_per_query",
+        "query_timeout_seconds"
+      ]
+    },
+    "stations_cpcb": {
+      "url": "https://airquality.xkdr.org/v1/stations?source=cpcb_caaqm",
+      "http_status": 200,
+      "content_type": "application/json",
+      "sha256": "811d16a5556d6e6eb74a7885fe19ec6c41a30cda0cbb8c2dce29ae720cddf7f7",
+      "bytes": 208754,
+      "response_shape": [
+        "meta",
+        "data"
+      ]
+    },
+    "parameters": {
+      "url": "https://airquality.xkdr.org/v1/parameters",
+      "http_status": 200,
+      "content_type": "application/json",
+      "sha256": "0c1dc853ab7f6a337e540b72231c6b9de635eb6da0e2e48d888a71a26d9633ad",
+      "bytes": 2291,
+      "response_shape": [
+        "meta",
+        "data"
+      ]
+    },
+    "files": {
+      "url": "https://airquality.xkdr.org/v1/files",
+      "http_status": 200,
+      "content_type": "application/json",
+      "sha256": "7fd506983d804b540569ee19a5583aa28bccaedfdaa30836bcec51664d1d96e1",
+      "bytes": 27541,
+      "response_shape": [
+        "exported_at",
+        "download",
+        "duckdb_hint",
+        "files"
+      ]
+    }
+  },
+  "credential_logged": false,
+  "summary": {
+    "cpcb_station_records": 553,
+    "parameter_records": 15,
+    "file_records": 209,
+    "meta_keys": [
+      "schema_version",
+      "exported_at",
+      "timezone_note",
+      "columns",
+      "measurements",
+      "stations",
+      "parameters",
+      "your_tier",
+      "max_rows_per_query",
+      "query_timeout_seconds"
+    ]
+  }
+}

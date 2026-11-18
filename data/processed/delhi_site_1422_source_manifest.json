@@ -1,0 +1,5732 @@
+{
+  "generated_at_utc": "2026-11-16T20:29:13.206099+00:00",
+  "authenticated": true,
+  "source": "https://airquality.xkdr.org/v1/files",
+  "target_months": [
+    "2018-02",
+    "2018-03",
+    "2018-04",
+    "2018-05",
+    "2018-06",
+    "2018-07",
+    "2018-08",
+    "2018-09",
+    "2018-10",
+    "2018-11",
+    "2018-12",
+    "2019-01",
+    "2019-02",
+    "2019-03",
+    "2019-04",
+    "2019-05",
+    "2019-06",
+    "2019-07",
+    "2019-08",
+    "2019-09",
+    "2019-10",
+    "2019-11",
+    "2019-12",
+    "2020-01",
+    "2020-02",
+    "2020-03",
+    "2020-04",
+    "2020-05",
+    "2020-06",
+    "2020-07",
+    "2020-08",
+    "2020-09",
+    "2020-10",
+    "2020-11",
+    "2020-12",
+    "2021-01",
+    "2021-02",
+    "2021-03",
+    "2021-04",
+    "2021-05",
+    "2021-06",
+    "2021-07",
+    "2021-08",
+    "2021-09",
+    "2021-10",
+    "2021-11",
+    "2021-12",
+    "2022-01",
+    "2022-02",
+    "2022-03",
+    "2022-04",
+    "2022-05",
+    "2022-06",
+    "2022-07",
+    "2022-08",
+    "2022-09",
+    "2022-10",
+    "2022-11",
+    "2022-12",
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09"
+  ],
+  "unavailable_months": [],
+  "files": [
+    {
+      "month": "2018-02",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:19.490374+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_02.parquet",
+      "bytes": 1295686,
+      "indexed_bytes": 1295686,
+      "rows": 617505,
+      "indexed_rows": 617505,
+      "sha256": "42fdf10a8bc55bda99e4e07bdfc853a6b76264b8b0c6bc96c71a403a2dd30054",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-03",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:22.920565+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_03.parquet",
+      "bytes": 1392920,
+      "indexed_bytes": 1392920,
+      "rows": 675706,
+      "indexed_rows": 675706,
+      "sha256": "e796178c8e9902b54582abbb6479139a84f3b508f0b24e54e9f4413bd19b79f8",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-04",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:26.480424+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_04.parquet",
+      "bytes": 1274485,
+      "indexed_bytes": 1274485,
+      "rows": 620518,
+      "indexed_rows": 620518,
+      "sha256": "f6cfa6400ad6fd01c4324a3cee5ba6248b88c047872005e8087893e4e066416e",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-05",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:30.078768+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_05.parquet",
+      "bytes": 1421545,
+      "indexed_bytes": 1421545,
+      "rows": 695544,
+      "indexed_rows": 695544,
+      "sha256": "36523451c0fd716ce711cab0d86264b1ea486007187824cb05e34aa340945484",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-06",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:32.993673+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_06.parquet",
+      "bytes": 1432965,
+      "indexed_bytes": 1432965,
+      "rows": 724025,
+      "indexed_rows": 724025,
+      "sha256": "2353201a80ece5cf9684556efa759601392c70a3a12f6ab14324786718244051",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-07",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:36.224015+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_07.parquet",
+      "bytes": 1621588,
+      "indexed_bytes": 1621588,
+      "rows": 848400,
+      "indexed_rows": 848400,
+      "sha256": "3a32c20b3692fe9711e749b223c6522276ef2134c8f366ce2b5517f6bca701af",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-08",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:39.587993+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_08.parquet",
+      "bytes": 1638567,
+      "indexed_bytes": 1638567,
+      "rows": 866276,
+      "indexed_rows": 866276,
+      "sha256": "0ff7f77bfdf431ddd46225a36e1a2072406e94bc9dea67fb4422740fa81379fb",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-09",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:43.039592+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_09.parquet",
+      "bytes": 1601482,
+      "indexed_bytes": 1601482,
+      "rows": 833697,
+      "indexed_rows": 833697,
+      "sha256": "9829f83489b079b341f50624f09bd04b84e2778b729ef9142bf3e2347cc6c573",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-10",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=10/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:46.978963+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_10.parquet",
+      "bytes": 1816949,
+      "indexed_bytes": 1816949,
+      "rows": 890224,
+      "indexed_rows": 890224,
+      "sha256": "3976683f360ae4994fcb1d26edbc7fed0bcbb19e7fc138127d468c0a8218ef55",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-11",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=11/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:50.453148+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_11.parquet",
+      "bytes": 1806488,
+      "indexed_bytes": 1806488,
+      "rows": 887764,
+      "indexed_rows": 887764,
+      "sha256": "d790d28da14c91d4fde1c9201f3f7a31740a9fbd44d90263e6061da09103c7a4",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2018-12",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2018/month=12/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:53.921849+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2018_12.parquet",
+      "bytes": 1914396,
+      "indexed_bytes": 1914396,
+      "rows": 941878,
+      "indexed_rows": 941878,
+      "sha256": "348e147c8522702c210db4e931de7538a5619d050bdf93b0b07a548e877d11b6",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-01",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=01/data.parquet",
+      "retrieved_at_utc": "2026-11-16T19:53:54+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\authenticated_bulk_checks\\authenticated_2019_01.parquet",
+      "bytes": 2152231,
+      "indexed_bytes": 2152231,
+      "rows": 1056000,
+      "indexed_rows": 1056000,
+      "sha256": "c04ae3038354ff99c9aa03647df29930a95da9e2586a082a00016974c3fc46f2",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/historical_bulk_sample_checks.json"
+    },
+    {
+      "month": "2019-02",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:22:57.536243+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_02.parquet",
+      "bytes": 2048113,
+      "indexed_bytes": 2048113,
+      "rows": 1016664,
+      "indexed_rows": 1016664,
+      "sha256": "0b0f00934394e98c95760b6ff3852681a33ce9cbfe3725d347e734e605eaab7b",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-03",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:01.189858+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_03.parquet",
+      "bytes": 2388465,
+      "indexed_bytes": 2388465,
+      "rows": 1179730,
+      "indexed_rows": 1179730,
+      "sha256": "496536e21ea3ad2bd2a8dd379b3d51cc62dbc827983d6d2e02e660d56b2b0b9e",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-04",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:04.808647+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_04.parquet",
+      "bytes": 2333336,
+      "indexed_bytes": 2333336,
+      "rows": 1118442,
+      "indexed_rows": 1118442,
+      "sha256": "76cf39979aa2ae4ace06e438d18751b0c237df1a7c54822869e10e32b417a90e",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-05",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:08.461425+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_05.parquet",
+      "bytes": 2404849,
+      "indexed_bytes": 2404849,
+      "rows": 1161639,
+      "indexed_rows": 1161639,
+      "sha256": "accaad5fb38db3d6bcf514eb7c09b3ba3bb4f40ca42ecdf028eb31fbc141e331",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-06",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:12.385903+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_06.parquet",
+      "bytes": 2398243,
+      "indexed_bytes": 2398243,
+      "rows": 1202771,
+      "indexed_rows": 1202771,
+      "sha256": "ec3df39c8688b6e99257c10ac3bff921f3ef915c213c18e7e23b33b79e055d11",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-07",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:16.370248+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_07.parquet",
+      "bytes": 2593585,
+      "indexed_bytes": 2593585,
+      "rows": 1311717,
+      "indexed_rows": 1311717,
+      "sha256": "de8f72c7822edfdd452b3f2b07605863f18a9f6e52843736f7203626fdd90425",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-08",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:20.745397+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_08.parquet",
+      "bytes": 2541502,
+      "indexed_bytes": 2541502,
+      "rows": 1298086,
+      "indexed_rows": 1298086,
+      "sha256": "203eee575e6b782b808387bbe38133b9dc0f32c7cd4b327479f2804ab900886e",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-09",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:25.218159+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_09.parquet",
+      "bytes": 2575833,
+      "indexed_bytes": 2575833,
+      "rows": 1327201,
+      "indexed_rows": 1327201,
+      "sha256": "53e00cb7fffa571569df9cfbe12af79cd57a124428615658f010702e7dcc3aed",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-10",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=10/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:30.531731+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_10.parquet",
+      "bytes": 3014042,
+      "indexed_bytes": 3014042,
+      "rows": 1451929,
+      "indexed_rows": 1451929,
+      "sha256": "84b9090485ad8b2fe658b5962e1cf0b873ccde3f877bdded2e2091c4b36d5ada",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-11",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=11/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:34.851612+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_11.parquet",
+      "bytes": 2948289,
+      "indexed_bytes": 2948289,
+      "rows": 1421109,
+      "indexed_rows": 1421109,
+      "sha256": "828deacc4c851451a2b07301886c11d8fe9cea4d7e25662e926e5e053404192c",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2019-12",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2019/month=12/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:38.445467+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2019_12.parquet",
+      "bytes": 3001899,
+      "indexed_bytes": 3001899,
+      "rows": 1467459,
+      "indexed_rows": 1467459,
+      "sha256": "c014f8059985869d201176ab7b9657422b335c8748855bc6322177ab02a3067f",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-01",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=01/data.parquet",
+      "retrieved_at_utc": "2026-11-16T19:53:57+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\authenticated_bulk_checks\\authenticated_2020_01.parquet",
+      "bytes": 3124294,
+      "indexed_bytes": 3124294,
+      "rows": 1512226,
+      "indexed_rows": 1512226,
+      "sha256": "dc015891e5273d4fd85a74fe4b267ab45c068c4e7e5e7516173739c214665ed1",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/historical_bulk_sample_checks.json"
+    },
+    {
+      "month": "2020-02",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:43.436908+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_02.parquet",
+      "bytes": 2988738,
+      "indexed_bytes": 2988738,
+      "rows": 1436170,
+      "indexed_rows": 1436170,
+      "sha256": "08edf519aed3a5fd880847f63025bc56bbb02000ee4523a02abadbc0ab215669",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-03",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:48.455441+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_03.parquet",
+      "bytes": 3141740,
+      "indexed_bytes": 3141740,
+      "rows": 1575725,
+      "indexed_rows": 1575725,
+      "sha256": "45601dbe6d42ad58b07e111e6ea50146429f47a186c5088dfbb53a73b65c0e45",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-04",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:52.750529+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_04.parquet",
+      "bytes": 2714234,
+      "indexed_bytes": 2714234,
+      "rows": 1442039,
+      "indexed_rows": 1442039,
+      "sha256": "8ffdaffae4779b50f95aa9a0c66df89a233202ed7ec64fc4739a531cc60b9d48",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-05",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:23:57.223150+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_05.parquet",
+      "bytes": 2881401,
+      "indexed_bytes": 2881401,
+      "rows": 1477695,
+      "indexed_rows": 1477695,
+      "sha256": "90a8833b8acdca886911ced252e66c7290a3d73267ba5d1209d3cf7c5ca5c762",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-06",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:01.168367+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_06.parquet",
+      "bytes": 2844747,
+      "indexed_bytes": 2844747,
+      "rows": 1490341,
+      "indexed_rows": 1490341,
+      "sha256": "2041361da0e198049e7bf1e46ccdacbe936f289a04af1c90d31449ad3244ac87",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-07",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:04.565251+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_07.parquet",
+      "bytes": 2768344,
+      "indexed_bytes": 2768344,
+      "rows": 1527572,
+      "indexed_rows": 1527572,
+      "sha256": "464bb9e2a18977d08351d7824ae7991693fb4cb1250631b1e129c54d5c043a58",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-08",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:07.518518+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_08.parquet",
+      "bytes": 2764199,
+      "indexed_bytes": 2764199,
+      "rows": 1544062,
+      "indexed_rows": 1544062,
+      "sha256": "48c34c1be882744071dccfdcb34c2b0a1d304bcb9de015ef718ab49cbc1c3a69",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-09",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:10.463948+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_09.parquet",
+      "bytes": 2970229,
+      "indexed_bytes": 2970229,
+      "rows": 1552667,
+      "indexed_rows": 1552667,
+      "sha256": "1587ce2d19c62e394ad1acabdaf715d9a9c64954ed9f20e34568591435c69b9f",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-10",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=10/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:13.526818+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_10.parquet",
+      "bytes": 3313940,
+      "indexed_bytes": 3313940,
+      "rows": 1640215,
+      "indexed_rows": 1640215,
+      "sha256": "671226fdbeeecec6e54b6279065bc140cadda5f92a5d196671dac1ff61668a42",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-11",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=11/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:16.637142+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_11.parquet",
+      "bytes": 3534174,
+      "indexed_bytes": 3534174,
+      "rows": 1718294,
+      "indexed_rows": 1718294,
+      "sha256": "968109a691532fa31b9abe646e3071f43ff063156cb723c351972e9fed607428",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2020-12",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2020/month=12/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:20.093218+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2020_12.parquet",
+      "bytes": 3758302,
+      "indexed_bytes": 3758302,
+      "rows": 1861567,
+      "indexed_rows": 1861567,
+      "sha256": "f81ab2c1ac37ff7e0625ce9d151f95370c88c4fb74cf15b60bd9451291bf3d1e",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-01",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=01/data.parquet",
+      "retrieved_at_utc": "2026-11-16T19:54:00+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\authenticated_bulk_checks\\authenticated_2021_01.parquet",
+      "bytes": 3773975,
+      "indexed_bytes": 3773975,
+      "rows": 1892535,
+      "indexed_rows": 1892535,
+      "sha256": "887edfbbc183463cc487a4cd8656757b30ed602f7dd82efb36bb515d3d5cd9fb",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/historical_bulk_sample_checks.json"
+    },
+    {
+      "month": "2021-02",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:23.460516+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_02.parquet",
+      "bytes": 3538950,
+      "indexed_bytes": 3538950,
+      "rows": 1718949,
+      "indexed_rows": 1718949,
+      "sha256": "4e14e0b6b06b84d134775870866e3998c7a0f9969f00bdd13ea41a39cbeb7fa9",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-03",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:27.306681+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_03.parquet",
+      "bytes": 3868214,
+      "indexed_bytes": 3868214,
+      "rows": 1886820,
+      "indexed_rows": 1886820,
+      "sha256": "de285e1f458b0160e4df1cc9c30d4373d34516e97cbd02abb24ee5a75d80e9ad",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-04",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:31.152539+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_04.parquet",
+      "bytes": 3662801,
+      "indexed_bytes": 3662801,
+      "rows": 1838534,
+      "indexed_rows": 1838534,
+      "sha256": "2a21b16a08d06bc4a68638a91a526b6652ea8910693b0f7b90c11b79c5fd80ff",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-05",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:34.358558+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_05.parquet",
+      "bytes": 3441977,
+      "indexed_bytes": 3441977,
+      "rows": 1788435,
+      "indexed_rows": 1788435,
+      "sha256": "38643726b2571a403a7c1950fc349ef4648b61996db5fcb72d4cc65e73a8811f",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-06",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:37.488263+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_06.parquet",
+      "bytes": 3570026,
+      "indexed_bytes": 3570026,
+      "rows": 1842315,
+      "indexed_rows": 1842315,
+      "sha256": "8db2298260f7d0a6b082a5b5def33990cdd58cc3dbd0a85c92297047f6df0903",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-07",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:41.120290+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_07.parquet",
+      "bytes": 3893610,
+      "indexed_bytes": 3893610,
+      "rows": 2028851,
+      "indexed_rows": 2028851,
+      "sha256": "7ad58da2bfc1aa646ec0fb7e7f30dead0bab7282f2609278370f0167614396b4",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-08",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:44.420528+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_08.parquet",
+      "bytes": 4018565,
+      "indexed_bytes": 4018565,
+      "rows": 2086809,
+      "indexed_rows": 2086809,
+      "sha256": "22d1e39ed69f43c0351bc1ae18524feecf94b73cc616f742d9be1da20bb08d2e",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-09",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:47.471355+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_09.parquet",
+      "bytes": 3630555,
+      "indexed_bytes": 3630555,
+      "rows": 2021967,
+      "indexed_rows": 2021967,
+      "sha256": "bc3a03823b1711b16d2b0dce9b83a3dbc64336348615f12b138e06da0f108745",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-10",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=10/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:50.905677+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_10.parquet",
+      "bytes": 4102675,
+      "indexed_bytes": 4102675,
+      "rows": 2062642,
+      "indexed_rows": 2062642,
+      "sha256": "371c737ee266e26edc55446916fb4f289b32eef72be73cd793c895a6ce8593f0",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-11",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=11/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:54.462714+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_11.parquet",
+      "bytes": 4321816,
+      "indexed_bytes": 4321816,
+      "rows": 2150773,
+      "indexed_rows": 2150773,
+      "sha256": "5aa3c7b4ff1f9fd90dc010fd4e97d401324b14b253702fa141434f66e600b78f",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2021-12",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2021/month=12/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:24:58.225074+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2021_12.parquet",
+      "bytes": 4719911,
+      "indexed_bytes": 4719911,
+      "rows": 2322114,
+      "indexed_rows": 2322114,
+      "sha256": "d3ab7fb2b502c25b64692549a39577a4f8705122b0682860607aa1a37273bfe7",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-01",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=01/data.parquet",
+      "retrieved_at_utc": "2026-11-16T19:54:04+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\authenticated_bulk_checks\\authenticated_2022_01.parquet",
+      "bytes": 4715561,
+      "indexed_bytes": 4715561,
+      "rows": 2315333,
+      "indexed_rows": 2315333,
+      "sha256": "e65d4c1588dc1e538cfe40152640dee607c11973231e2b780df9253b87e56d65",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/historical_bulk_sample_checks.json"
+    },
+    {
+      "month": "2022-02",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:02.234391+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_02.parquet",
+      "bytes": 4307882,
+      "indexed_bytes": 4307882,
+      "rows": 2131855,
+      "indexed_rows": 2131855,
+      "sha256": "e644f479c1fb1a8db672317c567088dc18550a220b21ba034ffd0420af6c29f3",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-03",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:06.466920+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_03.parquet",
+      "bytes": 4827603,
+      "indexed_bytes": 4827603,
+      "rows": 2379589,
+      "indexed_rows": 2379589,
+      "sha256": "de77fbbc557c8441fa60dcec8402a11c42e6d7bea9aba25be92daccad55544d0",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-04",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:09.935945+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_04.parquet",
+      "bytes": 4461283,
+      "indexed_bytes": 4461283,
+      "rows": 2249157,
+      "indexed_rows": 2249157,
+      "sha256": "52b8e215e6e8067a66f14007be8377ae380743ae8337f475af0cb6420ff97f83",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-05",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:13.571688+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_05.parquet",
+      "bytes": 4643036,
+      "indexed_bytes": 4643036,
+      "rows": 2349498,
+      "indexed_rows": 2349498,
+      "sha256": "94ceec9ec390f17466130c614f8cb2acf113739fd43013cbd0068f84c5c12ab0",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-06",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:17.221142+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_06.parquet",
+      "bytes": 4554628,
+      "indexed_bytes": 4554628,
+      "rows": 2342252,
+      "indexed_rows": 2342252,
+      "sha256": "fb454ca597fe310d8416e387e5be0c844c4347ba6d72402ed2ab611d6dd4dcda",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-07",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:20.507394+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_07.parquet",
+      "bytes": 4185132,
+      "indexed_bytes": 4185132,
+      "rows": 2339602,
+      "indexed_rows": 2339602,
+      "sha256": "a65927a470bffa1371361b7df61b1b848d54a8547b86bcd9cb9a0c283382abff",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-08",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:23.903015+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_08.parquet",
+      "bytes": 4404895,
+      "indexed_bytes": 4404895,
+      "rows": 2410546,
+      "indexed_rows": 2410546,
+      "sha256": "12b761300d0d58fc35f315cb49149a4897c5fedb516786bf5bfb955540a1828c",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-09",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:27.237125+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_09.parquet",
+      "bytes": 4447428,
+      "indexed_bytes": 4447428,
+      "rows": 2354225,
+      "indexed_rows": 2354225,
+      "sha256": "1bd881163f010220dca49587a4c5d08649847b2b1035c90e8fc4907be751a1d5",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-10",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=10/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:32.009375+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_10.parquet",
+      "bytes": 5017369,
+      "indexed_bytes": 5017369,
+      "rows": 2534798,
+      "indexed_rows": 2534798,
+      "sha256": "6aede509b7e9a8d475d5beac46adab709b0f7fccb3012c8fcec7ef2a7492c193",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-11",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=11/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:36.204264+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_11.parquet",
+      "bytes": 4991472,
+      "indexed_bytes": 4991472,
+      "rows": 2509212,
+      "indexed_rows": 2509212,
+      "sha256": "e981d15a35a7777a7764e56984a8646a679d23fec6448e6e715d35c60697a8df",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2022-12",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2022/month=12/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:40.242821+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2022_12.parquet",
+      "bytes": 5198613,
+      "indexed_bytes": 5198613,
+      "rows": 2656418,
+      "indexed_rows": 2656418,
+      "sha256": "1e9c0c8063ac7b0d980520f475c95bd18f6c43bff97f2ddedf0e62cf75396b1a",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-01",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=01/data.parquet",
+      "retrieved_at_utc": "2026-11-16T19:54:10+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\authenticated_bulk_checks\\authenticated_2023_01.parquet",
+      "bytes": 7487443,
+      "indexed_bytes": 7487443,
+      "rows": 2862852,
+      "indexed_rows": 2862852,
+      "sha256": "ea2987c49e493823e78171341d6490dcf98a8674f3c1ac1bf85b4dbfd5652b82",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/historical_bulk_sample_checks.json"
+    },
+    {
+      "month": "2023-02",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:45.572282+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_02.parquet",
+      "bytes": 7079471,
+      "indexed_bytes": 7079471,
+      "rows": 2726258,
+      "indexed_rows": 2726258,
+      "sha256": "3966fd8d25dcf6949798271b1e4926425f9b910b0d9857a5b31bbabe88df4bcb",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-03",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:25:51.515786+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_03.parquet",
+      "bytes": 7948030,
+      "indexed_bytes": 7948030,
+      "rows": 3137762,
+      "indexed_rows": 3137762,
+      "sha256": "e7b4fc5839579c34c7c26a1e9bbf2db2b97a3031a6d3d25a821b483d466eee9a",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-04",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:26:14.153381+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_04.parquet",
+      "bytes": 7689554,
+      "indexed_bytes": 7689554,
+      "rows": 3048596,
+      "indexed_rows": 3048596,
+      "sha256": "acc95a058f54fc381be34511ac88e1e2285cb7e0b0b0d9517cdfadb738f1ceae",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-05",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:26:25.872933+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_05.parquet",
+      "bytes": 7910654,
+      "indexed_bytes": 7910654,
+      "rows": 3169684,
+      "indexed_rows": 3169684,
+      "sha256": "8d0d56ccf2a56af1415a1c7b4bc813dcafc0a8a92bdc86d87abbebe5df5409a1",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-06",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:26:38.353454+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_06.parquet",
+      "bytes": 7933355,
+      "indexed_bytes": 7933355,
+      "rows": 3206127,
+      "indexed_rows": 3206127,
+      "sha256": "e675251fc131a7c88fb5c09f2ce68570e4296fb52107a1c0d3a8a3db77a63d25",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-07",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:26:46.749564+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_07.parquet",
+      "bytes": 7438453,
+      "indexed_bytes": 7438453,
+      "rows": 3404428,
+      "indexed_rows": 3404428,
+      "sha256": "c4145bd814cf4d35e29de0801fe0cc5eafe028d4275ba11dc6e4ef8e2358a4b2",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-08",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:27:06.748203+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_08.parquet",
+      "bytes": 8213503,
+      "indexed_bytes": 8213503,
+      "rows": 3549225,
+      "indexed_rows": 3549225,
+      "sha256": "ef0f79fcff7530fa83e3d18ec76588296ab0f43254e779daf46720667d8fc42f",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-09",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:27:48.685052+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_09.parquet",
+      "bytes": 8164400,
+      "indexed_bytes": 8164400,
+      "rows": 3513630,
+      "indexed_rows": 3513630,
+      "sha256": "a95a57ad5d8e20d7661e4681b83119c8f4b5aa21d355740581e816410ccf5ec5",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-10",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=10/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:28:02.345461+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_10.parquet",
+      "bytes": 9523594,
+      "indexed_bytes": 9523594,
+      "rows": 3757298,
+      "indexed_rows": 3757298,
+      "sha256": "318e7770db9a323a2fed734a5f66cfee0554352ad44ebfcb33176b04736147fb",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-11",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=11/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:28:14.004415+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_11.parquet",
+      "bytes": 9971020,
+      "indexed_bytes": 9971020,
+      "rows": 3808646,
+      "indexed_rows": 3808646,
+      "sha256": "ac80f77b9575bbb1a81f2dd1bc81e1b1fbbb1b998c39ad60b0af9b5050c4803c",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2023-12",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2023/month=12/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:28:54.890714+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2023_12.parquet",
+      "bytes": 10187954,
+      "indexed_bytes": 10187954,
+      "rows": 3972105,
+      "indexed_rows": 3972105,
+      "sha256": "501a3b95e1e5dcb9a49c886dcd7f272222b7b681bdc9e7fef94c62f8870173ac",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2024-01",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=01/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:51:07+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_01.parquet",
+      "bytes": 7674743,
+      "indexed_bytes": 7674743,
+      "rows": 4002852,
+      "indexed_rows": 4002852,
+      "sha256": "cd71e0e1a3cba6645eaace96673ea66776e08d42c125806e81e814a05aef80ab",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-02",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:53:32+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_02.parquet",
+      "bytes": 7131765,
+      "indexed_bytes": 7131765,
+      "rows": 3729942,
+      "indexed_rows": 3729942,
+      "sha256": "0e09f26aa618d9f050e401fea021ec87e69c202f1d5cf94b96c8968a9a387b8a",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-03",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:53:38+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_03.parquet",
+      "bytes": 7486404,
+      "indexed_bytes": 7486404,
+      "rows": 3939279,
+      "indexed_rows": 3939279,
+      "sha256": "ab7fe2f12b1ce57c25698635733a1921127ec74ed0e52a3ad21aa7ef0b50c717",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-04",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:53:43+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_04.parquet",
+      "bytes": 7176840,
+      "indexed_bytes": 7176840,
+      "rows": 3766731,
+      "indexed_rows": 3766731,
+      "sha256": "973c6331153bf1642932d14cafbb0d595ded9e2ce609aa97d4c6515778e19e8b",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-05",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:53:48+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_05.parquet",
+      "bytes": 7465083,
+      "indexed_bytes": 7465083,
+      "rows": 3855369,
+      "indexed_rows": 3855369,
+      "sha256": "bedf06a82d8a37963de5688c62c212776065bf1b506926d952c31fa1b9c25eb1",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-06",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:53:53+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_06.parquet",
+      "bytes": 6910860,
+      "indexed_bytes": 6910860,
+      "rows": 3672056,
+      "indexed_rows": 3672056,
+      "sha256": "cf2f8569cba677067405dec7dae0c272b42b7615e5f192d64613a5705064c0b2",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-07",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:53:58+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_07.parquet",
+      "bytes": 6913104,
+      "indexed_bytes": 6913104,
+      "rows": 3880877,
+      "indexed_rows": 3880877,
+      "sha256": "32c876c126eadd1746465c74a59b80fb3659ff8db14efe50f2dae0f200b3e971",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-08",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:54:03+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_08.parquet",
+      "bytes": 6771808,
+      "indexed_bytes": 6771808,
+      "rows": 3896122,
+      "indexed_rows": 3896122,
+      "sha256": "02088c949fb490e4e2b4e71f79930ee943036ef98c4ea651fd3db394b503b74a",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-09",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:54:07+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_09.parquet",
+      "bytes": 6905203,
+      "indexed_bytes": 6905203,
+      "rows": 3861703,
+      "indexed_rows": 3861703,
+      "sha256": "4ad5e253fe40b16e5e3f11a698380b5af489dd463387e70a599708442a8b6143",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-10",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=10/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:54:19+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_10.parquet",
+      "bytes": 7881226,
+      "indexed_bytes": 7881226,
+      "rows": 4120459,
+      "indexed_rows": 4120459,
+      "sha256": "7a93efb9ba6656831e6076908d83477426ca1e5d66ac2e120b8eb0f09a811294",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-11",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=11/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:51:13+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_11.parquet",
+      "bytes": 7982655,
+      "indexed_bytes": 7982655,
+      "rows": 4105120,
+      "indexed_rows": 4105120,
+      "sha256": "822a894d114b84b34aac9b237f8cdf2e8e0dcd25839ec8ae418ba029a4e2590a",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2024-12",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2024/month=12/data.parquet",
+      "retrieved_at_utc": "2026-11-16T18:54:31+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\parquet_2024_12.parquet",
+      "bytes": 8069243,
+      "indexed_bytes": 8069243,
+      "rows": 4106660,
+      "indexed_rows": 4106660,
+      "sha256": "c64c81a24d76ceb8b0a47a9e57c43c8a66a502082e098f36a4c81563113c8c1e",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/source_file_manifest.json"
+    },
+    {
+      "month": "2025-01",
+      "status": "success",
+      "disposition": "reused",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=01/data.parquet",
+      "retrieved_at_utc": "2026-11-16T19:54:17+00:00",
+      "http_status": 200,
+      "path": "data/raw\\verification_samples\\authenticated_bulk_checks\\authenticated_2025_01.parquet",
+      "bytes": 10740,
+      "indexed_bytes": 10740,
+      "rows": 3507,
+      "indexed_rows": 3507,
+      "sha256": "e1d78c1e82d167d0aeaa07f78d3d03553a740a39dab6c0220ce7d70fe4fb41ae",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ],
+      "retrieval_record": "data/processed/historical_bulk_sample_checks.json"
+    },
+    {
+      "month": "2025-02",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=02/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:28:56.711311+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_02.parquet",
+      "bytes": 9199,
+      "indexed_bytes": 9199,
+      "rows": 3128,
+      "indexed_rows": 3128,
+      "sha256": "3f6c17312a616d74b02040d2a8eab832c7354af46e7336952fbfa6931189a68a",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2025-03",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=03/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:28:57.789051+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_03.parquet",
+      "bytes": 7406,
+      "indexed_bytes": 7406,
+      "rows": 1688,
+      "indexed_rows": 1688,
+      "sha256": "e10ba337eff0566e266fe3fcc85fdc85bfd6babf73cf5fe16e5e27c25ad01ef0",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2025-04",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=04/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:29:01.570345+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_04.parquet",
+      "bytes": 971649,
+      "indexed_bytes": 971649,
+      "rows": 420328,
+      "indexed_rows": 420328,
+      "sha256": "8126ae03c539b675ae1a1f31dedd95d0ff8378c8a2fe5b5997c3ec0d9bbcc36a",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2025-05",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=05/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:29:04.525549+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_05.parquet",
+      "bytes": 982028,
+      "indexed_bytes": 982028,
+      "rows": 430248,
+      "indexed_rows": 430248,
+      "sha256": "6515a3704d36ce97e375d733ac1c730ea1c3de6509d8aeafc904db6dd724f8f4",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2025-06",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=06/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:29:07.078335+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_06.parquet",
+      "bytes": 937425,
+      "indexed_bytes": 937425,
+      "rows": 413542,
+      "indexed_rows": 413542,
+      "sha256": "7121ce1c5525e03517d8bd5b69f12ab3febe7bf0c6430213b7e6d3a9e3ef2437",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2025-07",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=07/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:29:09.334861+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_07.parquet",
+      "bytes": 899460,
+      "indexed_bytes": 899460,
+      "rows": 426401,
+      "indexed_rows": 426401,
+      "sha256": "e593fcdcd3881cea16e772c6500d70a300a9ca1d76a2550a0921d4451c61d554",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2025-08",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=08/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:29:11.913210+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_08.parquet",
+      "bytes": 890315,
+      "indexed_bytes": 890315,
+      "rows": 423101,
+      "indexed_rows": 423101,
+      "sha256": "e5cbba496db0dee95189bcc035d98e83a6dd12e1857e16c99822444f2f2bfff4",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "month": "2025-09",
+      "status": "success",
+      "disposition": "downloaded",
+      "source_url": "https://airquality.xkdr.org/v1/files/v1/measurements/year=2025/month=09/data.parquet",
+      "retrieved_at_utc": "2026-11-16T20:29:13.189645+00:00",
+      "http_status": 200,
+      "path": "data/raw\\xkdr_monthly\\2025_09.parquet",
+      "bytes": 55847,
+      "indexed_bytes": 55847,
+      "rows": 14257,
+      "indexed_rows": 14257,
+      "sha256": "134453749b7e1c3a0d5f1f69a8720147451df9ac168c423e4e062743605fa36f",
+      "schema": [
+        {
+          "name": "station_id",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "station_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "state_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "city_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "parameter_name",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "unit",
+          "type": "string",
+          "nullable": true
+        },
+        {
+          "name": "collected_at",
+          "type": "timestamp[us]",
+          "nullable": true
+        },
+        {
+          "name": "value",
+          "type": "double",
+          "nullable": true
+        },
+        {
+          "name": "source",
+          "type": "string",
+          "nullable": true
+        }
+      ]
+    }
+  ]
+}

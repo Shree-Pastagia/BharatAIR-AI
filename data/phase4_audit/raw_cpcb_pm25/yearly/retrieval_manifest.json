@@ -1,0 +1,384 @@
+{
+  "source": "XKDR India Air Quality Database",
+  "scope": "CPCB CAAQM PM2.5 only",
+  "records": [
+    {
+      "year": 2009,
+      "start": "2009-01-01",
+      "end": "2009-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2009-01-01",
+        "end": "2009-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "4715",
+      "x_truncated": "false",
+      "bytes": 27991,
+      "sha256": "4eb476e7a5fc0b3a97dc8f06a494e210f5ef48db04c397826fe7e9819732df8d",
+      "retrieved_at_utc": "2026-11-17T07:54:45.697432+00:00",
+      "duration_seconds": 2.26,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2009.parquet"
+    },
+    {
+      "year": 2010,
+      "start": "2010-01-01",
+      "end": "2010-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2010-01-01",
+        "end": "2010-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "6027",
+      "x_truncated": "false",
+      "bytes": 37168,
+      "sha256": "2d9c07ed23f6be28c1ae2d2b92e22085581f27389702be2be49bc5db79a45c67",
+      "retrieved_at_utc": "2026-11-17T07:54:48.023646+00:00",
+      "duration_seconds": 2.324,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2010.parquet"
+    },
+    {
+      "year": 2011,
+      "start": "2011-01-01",
+      "end": "2011-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2011-01-01",
+        "end": "2011-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "16020",
+      "x_truncated": "false",
+      "bytes": 69615,
+      "sha256": "a6b5b4dc40991ec318c790258d07e6933995369038f845af342f54a3bbe0c939",
+      "retrieved_at_utc": "2026-11-17T07:54:50.748884+00:00",
+      "duration_seconds": 2.724,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2011.parquet"
+    },
+    {
+      "year": 2012,
+      "start": "2012-01-01",
+      "end": "2012-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2012-01-01",
+        "end": "2012-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "30701",
+      "x_truncated": "false",
+      "bytes": 117644,
+      "sha256": "241d49203f954c12c4e759103d3a84d79d00e2fefd99e8acd46e90fbac1fcaea",
+      "retrieved_at_utc": "2026-11-17T07:54:54.061125+00:00",
+      "duration_seconds": 3.311,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2012.parquet"
+    },
+    {
+      "year": 2013,
+      "start": "2013-01-01",
+      "end": "2013-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2013-01-01",
+        "end": "2013-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "19123",
+      "x_truncated": "false",
+      "bytes": 89427,
+      "sha256": "439ecab44e44c0d766b5b0a67c92c39e004d595ebbf677d278d1e6bfa5f6e8d6",
+      "retrieved_at_utc": "2026-11-17T07:54:56.309391+00:00",
+      "duration_seconds": 2.245,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2013.parquet"
+    },
+    {
+      "year": 2014,
+      "start": "2014-01-01",
+      "end": "2014-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2014-01-01",
+        "end": "2014-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "16840",
+      "x_truncated": "false",
+      "bytes": 82887,
+      "sha256": "75e454d223eda86148a05a98bb864c8c4c6b866ec364223bd3edbf7b177850d1",
+      "retrieved_at_utc": "2026-11-17T07:54:59.150085+00:00",
+      "duration_seconds": 2.839,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2014.parquet"
+    },
+    {
+      "year": 2015,
+      "start": "2015-01-01",
+      "end": "2015-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2015-01-01",
+        "end": "2015-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "148059",
+      "x_truncated": "false",
+      "bytes": 557131,
+      "sha256": "e23eb9575cc6f8f7b4361d748a2d350004da73848ebe38218b9672dd144b6249",
+      "retrieved_at_utc": "2026-11-17T07:55:01.977744+00:00",
+      "duration_seconds": 2.826,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2015.parquet"
+    },
+    {
+      "year": 2016,
+      "start": "2016-01-01",
+      "end": "2016-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2016-01-01",
+        "end": "2016-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "239154",
+      "x_truncated": "false",
+      "bytes": 909225,
+      "sha256": "258e99cb0a28da48ae830907aefaed935145d15c12020e1d730209d4b9feadc8",
+      "retrieved_at_utc": "2026-11-17T07:55:05.207991+00:00",
+      "duration_seconds": 3.229,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2016.parquet"
+    },
+    {
+      "year": 2017,
+      "start": "2017-01-01",
+      "end": "2017-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2017-01-01",
+        "end": "2017-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "329228",
+      "x_truncated": "false",
+      "bytes": 1243498,
+      "sha256": "b46d086e621e6db9ac0a11e4773ed32f33c07c8da78691cfa0f0902881b2d7ca",
+      "retrieved_at_utc": "2026-11-17T07:55:09.311670+00:00",
+      "duration_seconds": 4.102,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2017.parquet"
+    },
+    {
+      "year": 2018,
+      "start": "2018-01-01",
+      "end": "2018-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2018-01-01",
+        "end": "2018-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "863633",
+      "x_truncated": "false",
+      "bytes": 3030989,
+      "sha256": "5a5beb4976b0834200c6f58250201383565a7c522789009892c211f6c871df62",
+      "retrieved_at_utc": "2026-11-17T07:55:15.189077+00:00",
+      "duration_seconds": 5.875,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2018.parquet"
+    },
+    {
+      "year": 2019,
+      "start": "2019-01-01",
+      "end": "2019-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2019-01-01",
+        "end": "2019-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "1348911",
+      "x_truncated": "false",
+      "bytes": 4652217,
+      "sha256": "e5c55eecc5912eae14946a2e86d3b291d50d7da1dc820daa3ac013af0f2e997c",
+      "retrieved_at_utc": "2026-11-17T07:55:22.035502+00:00",
+      "duration_seconds": 6.844,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2019.parquet"
+    },
+    {
+      "year": 2020,
+      "start": "2020-01-01",
+      "end": "2020-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2020-01-01",
+        "end": "2020-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "1663507",
+      "x_truncated": "false",
+      "bytes": 5765434,
+      "sha256": "79bf6edf54f7949baa43a3f005f6fb27c0b6c7c7f4cd05692ba6edbc20245835",
+      "retrieved_at_utc": "2026-11-17T07:55:30.475075+00:00",
+      "duration_seconds": 8.438,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2020.parquet"
+    },
+    {
+      "year": 2021,
+      "start": "2021-01-01",
+      "end": "2021-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2021-01-01",
+        "end": "2021-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "2078256",
+      "x_truncated": "false",
+      "bytes": 7241529,
+      "sha256": "7809d7c406f7b00de6817052115286b3b2950d3a9703209d42089d76dcc86af5",
+      "retrieved_at_utc": "2026-11-17T07:55:39.961392+00:00",
+      "duration_seconds": 9.484,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2021.parquet"
+    },
+    {
+      "year": 2022,
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "2485808",
+      "x_truncated": "false",
+      "bytes": 8525917,
+      "sha256": "c62bc98ad350b46f0b2cfec2db40a10595f7f819b021d029ae8ffc69ccd33859",
+      "retrieved_at_utc": "2026-11-17T07:55:50.522222+00:00",
+      "duration_seconds": 10.559,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2022.parquet"
+    },
+    {
+      "year": 2023,
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "3394698",
+      "x_truncated": "false",
+      "bytes": 12916798,
+      "sha256": "cae613fbc0cc1befcecc0b9fdc9e353a549e94dac2119b74fa2538c7c304b5b0",
+      "retrieved_at_utc": "2026-11-17T07:56:05.328419+00:00",
+      "duration_seconds": 14.804,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2023.parquet"
+    },
+    {
+      "year": 2024,
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "3892007",
+      "x_truncated": "false",
+      "bytes": 12838691,
+      "sha256": "3ea3001df7cf7d7d29203fe7a61122ba0803a7da04ec70c82737decf99d71807",
+      "retrieved_at_utc": "2026-11-17T07:56:17.394826+00:00",
+      "duration_seconds": 12.064,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2024.parquet"
+    },
+    {
+      "year": 2025,
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "1057327",
+      "x_truncated": "false",
+      "bytes": 2592053,
+      "sha256": "8f588144c54a5f99ea0f12c237a15e88dda7538bd3eeaa7c66fa3587c89efe28",
+      "retrieved_at_utc": "2026-11-17T07:56:21.737878+00:00",
+      "duration_seconds": 4.341,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2025.parquet"
+    },
+    {
+      "year": 2026,
+      "start": "2026-01-01",
+      "end": "2026-03-31",
+      "url": "https://airquality.xkdr.org/v1/measurements",
+      "query": {
+        "source": "cpcb_caaqm",
+        "parameter": "PM2.5",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "format": "parquet"
+      },
+      "http_status": 200,
+      "x_row_count": "0",
+      "x_truncated": "false",
+      "bytes": 197,
+      "sha256": "4a5eca82c40e9125a04de94417c63d5d49dd92708246f1a2dbe95bbfa3747d0f",
+      "retrieved_at_utc": "2026-11-17T07:56:23.092556+00:00",
+      "duration_seconds": 1.353,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2026.parquet"
+    }
+  ]
+}

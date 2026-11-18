@@ -1,0 +1,216 @@
+{
+  "generated_at_utc": "2026-11-17T08:23:37.443156+00:00",
+  "all_annual_extracts_verified": true,
+  "verified_year_files": 18,
+  "total_rows": 17594014,
+  "total_bytes": 60698411,
+  "annual_files": [
+    {
+      "year": 2009,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2009.parquet",
+      "expected_bytes": 27991,
+      "actual_bytes": 27991,
+      "expected_rows": 4715,
+      "actual_rows": 4715,
+      "expected_sha256": "4eb476e7a5fc0b3a97dc8f06a494e210f5ef48db04c397826fe7e9819732df8d",
+      "actual_sha256": "4eb476e7a5fc0b3a97dc8f06a494e210f5ef48db04c397826fe7e9819732df8d",
+      "verified": true
+    },
+    {
+      "year": 2010,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2010.parquet",
+      "expected_bytes": 37168,
+      "actual_bytes": 37168,
+      "expected_rows": 6027,
+      "actual_rows": 6027,
+      "expected_sha256": "2d9c07ed23f6be28c1ae2d2b92e22085581f27389702be2be49bc5db79a45c67",
+      "actual_sha256": "2d9c07ed23f6be28c1ae2d2b92e22085581f27389702be2be49bc5db79a45c67",
+      "verified": true
+    },
+    {
+      "year": 2011,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2011.parquet",
+      "expected_bytes": 69615,
+      "actual_bytes": 69615,
+      "expected_rows": 16020,
+      "actual_rows": 16020,
+      "expected_sha256": "a6b5b4dc40991ec318c790258d07e6933995369038f845af342f54a3bbe0c939",
+      "actual_sha256": "a6b5b4dc40991ec318c790258d07e6933995369038f845af342f54a3bbe0c939",
+      "verified": true
+    },
+    {
+      "year": 2012,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2012.parquet",
+      "expected_bytes": 117644,
+      "actual_bytes": 117644,
+      "expected_rows": 30701,
+      "actual_rows": 30701,
+      "expected_sha256": "241d49203f954c12c4e759103d3a84d79d00e2fefd99e8acd46e90fbac1fcaea",
+      "actual_sha256": "241d49203f954c12c4e759103d3a84d79d00e2fefd99e8acd46e90fbac1fcaea",
+      "verified": true
+    },
+    {
+      "year": 2013,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2013.parquet",
+      "expected_bytes": 89427,
+      "actual_bytes": 89427,
+      "expected_rows": 19123,
+      "actual_rows": 19123,
+      "expected_sha256": "439ecab44e44c0d766b5b0a67c92c39e004d595ebbf677d278d1e6bfa5f6e8d6",
+      "actual_sha256": "439ecab44e44c0d766b5b0a67c92c39e004d595ebbf677d278d1e6bfa5f6e8d6",
+      "verified": true
+    },
+    {
+      "year": 2014,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2014.parquet",
+      "expected_bytes": 82887,
+      "actual_bytes": 82887,
+      "expected_rows": 16840,
+      "actual_rows": 16840,
+      "expected_sha256": "75e454d223eda86148a05a98bb864c8c4c6b866ec364223bd3edbf7b177850d1",
+      "actual_sha256": "75e454d223eda86148a05a98bb864c8c4c6b866ec364223bd3edbf7b177850d1",
+      "verified": true
+    },
+    {
+      "year": 2015,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2015.parquet",
+      "expected_bytes": 557131,
+      "actual_bytes": 557131,
+      "expected_rows": 148059,
+      "actual_rows": 148059,
+      "expected_sha256": "e23eb9575cc6f8f7b4361d748a2d350004da73848ebe38218b9672dd144b6249",
+      "actual_sha256": "e23eb9575cc6f8f7b4361d748a2d350004da73848ebe38218b9672dd144b6249",
+      "verified": true
+    },
+    {
+      "year": 2016,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2016.parquet",
+      "expected_bytes": 909225,
+      "actual_bytes": 909225,
+      "expected_rows": 239154,
+      "actual_rows": 239154,
+      "expected_sha256": "258e99cb0a28da48ae830907aefaed935145d15c12020e1d730209d4b9feadc8",
+      "actual_sha256": "258e99cb0a28da48ae830907aefaed935145d15c12020e1d730209d4b9feadc8",
+      "verified": true
+    },
+    {
+      "year": 2017,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2017.parquet",
+      "expected_bytes": 1243498,
+      "actual_bytes": 1243498,
+      "expected_rows": 329228,
+      "actual_rows": 329228,
+      "expected_sha256": "b46d086e621e6db9ac0a11e4773ed32f33c07c8da78691cfa0f0902881b2d7ca",
+      "actual_sha256": "b46d086e621e6db9ac0a11e4773ed32f33c07c8da78691cfa0f0902881b2d7ca",
+      "verified": true
+    },
+    {
+      "year": 2018,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2018.parquet",
+      "expected_bytes": 3030989,
+      "actual_bytes": 3030989,
+      "expected_rows": 863633,
+      "actual_rows": 863633,
+      "expected_sha256": "5a5beb4976b0834200c6f58250201383565a7c522789009892c211f6c871df62",
+      "actual_sha256": "5a5beb4976b0834200c6f58250201383565a7c522789009892c211f6c871df62",
+      "verified": true
+    },
+    {
+      "year": 2019,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2019.parquet",
+      "expected_bytes": 4652217,
+      "actual_bytes": 4652217,
+      "expected_rows": 1348911,
+      "actual_rows": 1348911,
+      "expected_sha256": "e5c55eecc5912eae14946a2e86d3b291d50d7da1dc820daa3ac013af0f2e997c",
+      "actual_sha256": "e5c55eecc5912eae14946a2e86d3b291d50d7da1dc820daa3ac013af0f2e997c",
+      "verified": true
+    },
+    {
+      "year": 2020,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2020.parquet",
+      "expected_bytes": 5765434,
+      "actual_bytes": 5765434,
+      "expected_rows": 1663507,
+      "actual_rows": 1663507,
+      "expected_sha256": "79bf6edf54f7949baa43a3f005f6fb27c0b6c7c7f4cd05692ba6edbc20245835",
+      "actual_sha256": "79bf6edf54f7949baa43a3f005f6fb27c0b6c7c7f4cd05692ba6edbc20245835",
+      "verified": true
+    },
+    {
+      "year": 2021,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2021.parquet",
+      "expected_bytes": 7241529,
+      "actual_bytes": 7241529,
+      "expected_rows": 2078256,
+      "actual_rows": 2078256,
+      "expected_sha256": "7809d7c406f7b00de6817052115286b3b2950d3a9703209d42089d76dcc86af5",
+      "actual_sha256": "7809d7c406f7b00de6817052115286b3b2950d3a9703209d42089d76dcc86af5",
+      "verified": true
+    },
+    {
+      "year": 2022,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2022.parquet",
+      "expected_bytes": 8525917,
+      "actual_bytes": 8525917,
+      "expected_rows": 2485808,
+      "actual_rows": 2485808,
+      "expected_sha256": "c62bc98ad350b46f0b2cfec2db40a10595f7f819b021d029ae8ffc69ccd33859",
+      "actual_sha256": "c62bc98ad350b46f0b2cfec2db40a10595f7f819b021d029ae8ffc69ccd33859",
+      "verified": true
+    },
+    {
+      "year": 2023,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2023.parquet",
+      "expected_bytes": 12916798,
+      "actual_bytes": 12916798,
+      "expected_rows": 3394698,
+      "actual_rows": 3394698,
+      "expected_sha256": "cae613fbc0cc1befcecc0b9fdc9e353a549e94dac2119b74fa2538c7c304b5b0",
+      "actual_sha256": "cae613fbc0cc1befcecc0b9fdc9e353a549e94dac2119b74fa2538c7c304b5b0",
+      "verified": true
+    },
+    {
+      "year": 2024,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2024.parquet",
+      "expected_bytes": 12838691,
+      "actual_bytes": 12838691,
+      "expected_rows": 3892007,
+      "actual_rows": 3892007,
+      "expected_sha256": "3ea3001df7cf7d7d29203fe7a61122ba0803a7da04ec70c82737decf99d71807",
+      "actual_sha256": "3ea3001df7cf7d7d29203fe7a61122ba0803a7da04ec70c82737decf99d71807",
+      "verified": true
+    },
+    {
+      "year": 2025,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2025.parquet",
+      "expected_bytes": 2592053,
+      "actual_bytes": 2592053,
+      "expected_rows": 1057327,
+      "actual_rows": 1057327,
+      "expected_sha256": "8f588144c54a5f99ea0f12c237a15e88dda7538bd3eeaa7c66fa3587c89efe28",
+      "actual_sha256": "8f588144c54a5f99ea0f12c237a15e88dda7538bd3eeaa7c66fa3587c89efe28",
+      "verified": true
+    },
+    {
+      "year": 2026,
+      "path": "data/phase4_audit/raw_cpcb_pm25/yearly/2026.parquet",
+      "expected_bytes": 197,
+      "actual_bytes": 197,
+      "expected_rows": 0,
+      "actual_rows": 0,
+      "expected_sha256": "4a5eca82c40e9125a04de94417c63d5d49dd92708246f1a2dbe95bbfa3747d0f",
+      "actual_sha256": "4a5eca82c40e9125a04de94417c63d5d49dd92708246f1a2dbe95bbfa3747d0f",
+      "verified": true
+    }
+  ],
+  "official_register": {
+    "source_url": "https://app.cpcbccr.com/ccr_docs/caaqms_list_All_India.pdf",
+    "retrieved_at_utc": "2026-11-17T07:57:30.869569+00:00",
+    "http_status": 200,
+    "bytes": 40901,
+    "sha256": "72bd87631dffac40b29ebf111bae8fe5f773943734073b93007d18810f055513",
+    "parsed_register_rows": 358,
+    "parser": "pdfminer.six; table columns associated by rendered baseline position"
+  }
+}
