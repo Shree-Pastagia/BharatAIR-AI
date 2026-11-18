@@ -22,3 +22,7 @@ dist-ssr/
 
 # Heavy GPU Training Artifacts & Scratch Run Dumps (Gigabytes of intermediate candidate checkpoints & 380MB prediction dumps)
 runs/
+
+# Local Safety Backups
+backups/
+*.zip

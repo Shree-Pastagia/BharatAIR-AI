@@ -176,7 +176,7 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
       {/* The Two Paradigms: Interactive Side-by-Side Comparison */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* Paradigm A Card */}
-        <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-5 relative overflow-hidden flex flex-col justify-between">
+        <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800 p-6 space-y-5 relative overflow-hidden flex flex-col justify-between shadow-xl backdrop-blur-md">
           <div className="space-y-4">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-2">
@@ -233,7 +233,7 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
         </div>
 
         {/* Paradigm B Card */}
-        <div className="bg-slate-900/60 rounded-2xl border border-cyan-500/40 p-6 space-y-5 relative overflow-hidden flex flex-col justify-between shadow-xl shadow-cyan-950/20">
+        <div className="taste-card bg-slate-900/50 rounded-2xl border border-cyan-500/40 p-6 space-y-5 relative overflow-hidden flex flex-col justify-between shadow-xl shadow-cyan-950/25 backdrop-blur-md">
           <div className="space-y-4">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-2">
@@ -291,7 +291,7 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
       </div>
 
       {/* The Horizon Decision Boundary Visualizer */}
-      <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-5">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800 p-6 space-y-5 shadow-xl backdrop-blur-md">
         <div>
           <div className="flex items-center gap-2">
             <TrendingUp className="w-4 h-4 text-emerald-400" />
@@ -364,7 +364,7 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
       {/* Visual Analytics: Empirical Error Scaling & Architectural Efficiency */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* Chart 1: Horizon Error Progression Curve */}
-        <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-4">
+        <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800 p-6 space-y-4 shadow-xl backdrop-blur-md">
           <div className="flex items-center justify-between">
             <div>
               <div className="flex items-center gap-2">
@@ -414,7 +414,7 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
         </div>
 
         {/* Chart 2: Architecture Efficiency Frontier */}
-        <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-4">
+        <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800 p-6 space-y-4 shadow-xl backdrop-blur-md">
           <div className="flex items-center justify-between">
             <div>
               <div className="flex items-center gap-2">
@@ -472,7 +472,7 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
       </div>
 
       {/* Chart 3: Regional Airshed Predictability Benchmark */}
-      <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-4">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800 p-6 space-y-4 shadow-xl backdrop-blur-md">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div>
             <div className="flex items-center gap-2">
@@ -537,7 +537,7 @@ export const ResearchInsights: React.FC<ResearchInsightsProps> = ({ data }) => {
       </div>
 
       {/* The 7-City Validated Champions Table */}
-      <div className="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 space-y-4">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800 p-6 space-y-4 shadow-xl backdrop-blur-md">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-800/80 pb-4">
           <div>
             <div className="flex items-center gap-2">

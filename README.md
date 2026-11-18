@@ -36,18 +36,18 @@ BharatAIR systematically benchmarked two opposing machine learning paradigms on 
 
 ---
 
-## The 4 Core Machine Learning Architectures (Classroom Presentation Guide)
+## The 4 Core Machine Learning Models
 
-For academic clarity, conceptual rigor, and clean presentation in class, BharatAIR highlights **4 primary machine learning architectures** representing four fundamentally distinct algorithmic paradigms:
+To keep things simple and easy to understand, BharatAIR highlights **4 primary machine learning models** representing four different approaches:
 
-| # | Architecture | Algorithmic Paradigm | Why It's Used in Air Quality | Primary Strength |
+| # | Model | Type | How It Works | Best At |
 |---|---|---|---|---|
-| **1** | **Linear Regression (OLS)** | Parametric Linear Baseline | Transparent mathematical baseline with zero black-box obscurity. Fits in milliseconds and sets the standard for linear variance. | Baseline transparency |
-| **2** | **Random Forest** | Non-Linear Bagging Ensemble | 100 parallel randomized decision trees. Captures localized autoregressive inertia without overfitting sudden sensor noise or spikes. | **+1h Near-Term Champion** ($\pm 14.6\text{ }\mu\text{g/m}^3$) |
-| **3** | **XGBoost** | Gradient Boosting (Residual Learning) | Sequentially minimizes loss gradients with histogram acceleration (`hist`). Excellent middle-ground between speed and mid-range precision. | **+6h / +12h Transition** ($\pm 34.2\text{ }\mu\text{g/m}^3$) |
-| **4** | **TCN (Temporal ConvNet)** | Deep Causal 1D Convolution | Dilated causal convolutions ($d \in \{1, 2, 4, 8, 16, 32\}$) spanning a 7-day receptive field ($L=168\text{h}$) to capture nocturnal boundary inversions. | **+24h Full-Day Champion** ($\pm 36.2\text{ }\mu\text{g/m}^3$, **-43% vs Naive**) |
+| **1** | **Linear Regression (OLS)** | Basic Linear Model | Simple math line. Fits in milliseconds and shows what basic math can do. | Clear simple baseline |
+| **2** | **Random Forest** | Group of Decision Trees | Uses 100 decision trees together to handle sudden spikes in air pollution. | **+1h Best Model** ($\pm 14.6\text{ }\mu\text{g/m}^3$) |
+| **3** | **XGBoost** | Boosted Decision Trees | Learns from mistakes in previous trees step-by-step. Fast and reliable. | **+6h / +12h Mid-day Forecasts** ($\pm 34.2\text{ }\mu\text{g/m}^3$) |
+| **4** | **TCN (Temporal ConvNet)** | Deep Neural Network | Uses 1D convolutional layers with wide memory to capture 24-hour daily smog cycles. | **+24h Full-Day Best Model** ($\pm 36.2\text{ }\mu\text{g/m}^3$) |
 
-> **Note on Backend vs. Frontend**: The web dashboard and public documentation intentionally present these **4 clean, easily explainable models** for evaluators and students. Additional experimental architectures remain safely archived in the backend Python codebase (`src/bharatair/models/`).
+> **Note on Web vs. Backend**: The website intentionally shows these **4 clear models** so anyone can easily understand and explain them. Extra experimental models stay preserved in the backend code (`src/bharatair/models/`).
 
 ---
 

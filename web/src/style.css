@@ -2,11 +2,71 @@
 
 @layer base {
   body {
-    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #060913;
+    color: #f1f5f9;
+    letter-spacing: -0.011em;
   }
   code, pre, .font-mono {
     font-family: 'JetBrains Mono', monospace;
   }
+}
+
+/* Taste-Skill 2.5 & UI-UX Pro Max Design System */
+.ambient-bg {
+  background: 
+    radial-gradient(ellipse 90% 50% at 50% -20%, rgba(2, 132, 199, 0.12), transparent 70%),
+    radial-gradient(circle at 85% 15%, rgba(16, 185, 129, 0.05), transparent 45%),
+    radial-gradient(circle at 15% 40%, rgba(99, 102, 241, 0.05), transparent 50%),
+    #060913;
+}
+
+/* Glassmorphism Precision Cards */
+.taste-card {
+  background: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.03);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.taste-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(56, 189, 248, 0.25);
+  box-shadow: 0 16px 36px -8px rgba(0, 0, 0, 0.7), 0 0 24px -4px rgba(2, 132, 199, 0.15);
+}
+
+/* Micro-interaction Button Press */
+.btn-press {
+  transition: transform 0.12s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.btn-press:hover {
+  transform: translateY(-1px);
+}
+
+.btn-press:active {
+  transform: scale(0.97);
+}
+
+/* Multi-stop CPCB NAQI Spectrum Gradient */
+.naqi-gradient-bar {
+  background: linear-gradient(
+    to right,
+    #10b981 0%,
+    #10b981 16.6%,
+    #06b6d4 16.6%,
+    #06b6d4 33.3%,
+    #eab308 33.3%,
+    #eab308 50%,
+    #f97316 50%,
+    #f97316 66.6%,
+    #ef4444 66.6%,
+    #ef4444 83.3%,
+    #7f1d1d 83.3%,
+    #7f1d1d 100%
+  );
 }
 
 /* Custom subtle dark scrollbars */
@@ -15,7 +75,7 @@
   height: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #070b14;
+  background: #060913;
 }
 ::-webkit-scrollbar-thumb {
   background: #1e293b;
@@ -25,9 +85,53 @@
   background: #334155;
 }
 
+/* Recharts Custom Tooltip Glassmorphism & High Contrast Text */
+.recharts-default-tooltip {
+  background: rgba(10, 15, 29, 0.96) !important;
+  backdrop-filter: blur(14px) !important;
+  -webkit-backdrop-filter: blur(14px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.18) !important;
+  border-radius: 0.75rem !important;
+  box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.85) !important;
+  color: #f8fafc !important;
+  padding: 10px 14px !important;
+}
+
+.recharts-default-tooltip * {
+  color: #f8fafc !important;
+}
+
+.recharts-default-tooltip li,
+.recharts-tooltip-item {
+  color: #38bdf8 !important;
+  font-size: 12px !important;
+  padding: 2px 0 !important;
+}
+
+.recharts-tooltip-label {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  font-size: 13px !important;
+  margin-bottom: 4px !important;
+}
+
+.recharts-tooltip-item-name {
+  color: #cbd5e1 !important;
+  margin-right: 4px !important;
+}
+
+.recharts-tooltip-item-value {
+  color: #38bdf8 !important;
+  font-weight: 700 !important;
+}
+
+.recharts-tooltip-item-separator {
+  color: #94a3b8 !important;
+}
+
 /* Custom Leaflet Dark Mode styling */
 .leaflet-container {
-  background-color: #070b14 !important;
+  background-color: #060913 !important;
 }
 .leaflet-popup-content-wrapper {
   background-color: #0d1527 !important;
@@ -51,15 +155,8 @@
 .leaflet-control-zoom a {
   background-color: #0d1527 !important;
   color: #f8fafc !important;
-  border-color: #1e293b !important;
+  border-bottom: 1px solid #1e293b !important;
 }
 .leaflet-control-zoom a:hover {
   background-color: #1e293b !important;
-}
-.leaflet-control-attribution {
-  background-color: rgba(7, 11, 20, 0.8) !important;
-  color: #64748b !important;
-}
-.leaflet-control-attribution a {
-  color: #94a3b8 !important;
 }

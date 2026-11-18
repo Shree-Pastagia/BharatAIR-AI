@@ -58,7 +58,7 @@ export default function ScientificAudit() {
   return (
     <div className="space-y-8 text-slate-200">
       {/* Top Banner */}
-      <div className="bg-slate-900/60 rounded-2xl border border-slate-800/80 p-6 backdrop-blur-sm space-y-2">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800/80 p-6 backdrop-blur-md space-y-2 shadow-xl">
         <div className="flex items-center gap-2 text-cyan-400 font-mono text-xs uppercase tracking-wider">
           <FileText className="w-4 h-4" />
           <span>Research Provenance & Methodology Documentation</span>
@@ -72,7 +72,7 @@ export default function ScientificAudit() {
       </div>
 
       {/* Chapter 1: Data Acquisition */}
-      <div className="bg-slate-900/40 rounded-2xl border border-slate-800/80 p-6 space-y-4">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800/80 p-6 space-y-4 shadow-xl backdrop-blur-md">
         <div className="flex items-center gap-2.5 text-cyan-400 font-mono text-sm font-bold border-b border-slate-800/80 pb-3">
           <Database className="w-4 h-4" />
           <span>Phase 1: Source Acquisition & Ground-Truth Sensor Network</span>
@@ -169,7 +169,7 @@ export default function ScientificAudit() {
       </div>
 
       {/* Chapter 2: Data Cleaning & Preprocessing */}
-      <div className="bg-slate-900/40 rounded-2xl border border-slate-800/80 p-6 space-y-4">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800/80 p-6 space-y-4 shadow-xl backdrop-blur-md">
         <div className="flex items-center gap-2.5 text-emerald-400 font-mono text-sm font-bold border-b border-slate-800/80 pb-3">
           <Filter className="w-4 h-4" />
           <span>Phase 2: Cleaning, Causal Preprocessing & Leakage Elimination</span>
@@ -256,7 +256,7 @@ export default function ScientificAudit() {
       </div>
 
       {/* Chapter 3: Model Architectures & Compute */}
-      <div className="bg-slate-900/40 rounded-2xl border border-slate-800/80 p-6 space-y-4">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800/80 p-6 space-y-4 shadow-xl backdrop-blur-md">
         <div className="flex items-center gap-2.5 text-indigo-400 font-mono text-sm font-bold border-b border-slate-800/80 pb-3">
           <Cpu className="w-4 h-4" />
           <span>Phase 3: Model Architectures & Local Hardware Compute Execution</span>
@@ -301,8 +301,8 @@ export default function ScientificAudit() {
         </div>
 
         <div className="p-3 rounded-xl bg-slate-950/60 border border-slate-800 text-[11px] font-mono text-slate-400 flex items-center justify-between">
-          <span>* Pedagogical Focus: 4 Core Architectures displayed on web UI for classroom evaluation.</span>
-          <span className="text-slate-500">Backend engine preserves extended experimental runs.</span>
+          <span>* 4 Primary Models shown on website for clear and easy presentation.</span>
+          <span className="text-slate-500">Other experimental models remain saved in backend.</span>
         </div>
 
         {/* Hardware & Duration Stats */}
@@ -331,7 +331,7 @@ export default function ScientificAudit() {
       </div>
 
       {/* Chapter 4: The Zero-Leakage Cryptographic Gate */}
-      <div className="bg-slate-900/40 rounded-2xl border border-slate-800/80 p-6 space-y-4">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800/80 p-6 space-y-4 shadow-xl backdrop-blur-md">
         <div className="flex items-center gap-2.5 text-rose-400 font-mono text-sm font-bold border-b border-slate-800/80 pb-3">
           <Lock className="w-4 h-4" />
           <span>Phase 4: The Cryptographically Locked Test Gate</span>
@@ -380,7 +380,7 @@ export default function ScientificAudit() {
       </div>
 
       {/* Chapter 5: Real-Time Operational Gateway & Live Ground-Truth Audit */}
-      <div className="bg-slate-900/40 rounded-2xl border border-slate-800/80 p-6 space-y-4">
+      <div className="taste-card bg-slate-900/50 rounded-2xl border border-slate-800/80 p-6 space-y-4 shadow-xl backdrop-blur-md">
         <div className="flex items-center gap-2.5 text-emerald-400 font-mono text-sm font-bold border-b border-slate-800/80 pb-3">
           <Radio className="w-4 h-4 text-emerald-400 animate-pulse" />
           <span>Phase 5: Real-Time Operational Gateway & Live Ground-Truth Audit (data.gov.in)</span>

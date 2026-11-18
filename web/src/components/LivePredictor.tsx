@@ -489,7 +489,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
                       setSelectedPreset('custom')
                     }
                   }}
-                  className="px-2 py-0.5 rounded-md transition-all text-[11px] bg-emerald-500/20 text-emerald-300 font-bold border border-emerald-500/40 hover:bg-emerald-500/30 flex items-center gap-1"
+                  className="btn-press px-2 py-0.5 rounded-md transition-all text-[11px] bg-emerald-500/20 text-emerald-300 font-bold border border-emerald-500/40 hover:bg-emerald-500/30 flex items-center gap-1 shadow-sm shadow-emerald-950/40"
                 >
                   <Radio className="w-3 h-3 text-emerald-400 animate-pulse" />
                   Live CPCB ({Math.round(liveMatch.pm25)}µg)
@@ -497,7 +497,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               )}
               <button
                 onClick={() => handlePreset('clean')}
-                className={`px-2 py-0.5 rounded-md transition-all text-[11px] ${
+                className={`btn-press px-2 py-0.5 rounded-md transition-all text-[11px] ${
                   selectedPreset === 'clean' ? 'bg-emerald-500/20 text-emerald-300 font-bold border border-emerald-500/30' : 'text-slate-400 hover:text-white bg-slate-900 border border-slate-800'
                 }`}
               >
@@ -505,7 +505,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               </button>
               <button
                 onClick={() => handlePreset('normal')}
-                className={`px-2 py-0.5 rounded-md transition-all text-[11px] ${
+                className={`btn-press px-2 py-0.5 rounded-md transition-all text-[11px] ${
                   selectedPreset === 'normal' ? 'bg-cyan-500/20 text-cyan-300 font-bold border border-cyan-500/30' : 'text-slate-400 hover:text-white bg-slate-900 border border-slate-800'
                 }`}
               >
@@ -513,7 +513,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               </button>
               <button
                 onClick={() => handlePreset('smog')}
-                className={`px-2 py-0.5 rounded-md transition-all text-[11px] ${
+                className={`btn-press px-2 py-0.5 rounded-md transition-all text-[11px] ${
                   selectedPreset === 'smog' ? 'bg-rose-500/20 text-rose-300 font-bold border border-rose-500/30' : 'text-slate-400 hover:text-white bg-slate-900 border border-slate-800'
                 }`}
               >
@@ -521,7 +521,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               </button>
               <button
                 onClick={() => handlePreset('severe')}
-                className={`px-2 py-0.5 rounded-md transition-all text-[11px] ${
+                className={`btn-press px-2 py-0.5 rounded-md transition-all text-[11px] ${
                   selectedPreset === 'severe' ? 'bg-purple-500/20 text-purple-300 font-bold border border-purple-500/30' : 'text-slate-400 hover:text-white bg-slate-900 border border-slate-800'
                 }`}
               >
@@ -564,7 +564,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
       {/* The 3-Day Command Cards (Yesterday | Today | Tomorrow) */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {/* Card 1: Yesterday */}
-        <div className="p-5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 relative overflow-hidden">
+        <div className="taste-card p-5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 relative overflow-hidden shadow-xl">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5 text-xs font-bold text-slate-300 font-mono">
               <Clock className="w-3.5 h-3.5 text-emerald-400" />
@@ -595,7 +595,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
         </div>
 
         {/* Card 2: Today */}
-        <div className="p-5 rounded-2xl bg-slate-950/90 border border-cyan-500/40 shadow-lg shadow-cyan-500/5 space-y-3 relative">
+        <div className="taste-card p-5 rounded-2xl bg-slate-950/90 border border-cyan-500/40 shadow-xl shadow-cyan-500/10 space-y-3 relative">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5 text-xs font-bold text-cyan-300 font-mono">
               <span className="w-2 h-2 rounded-full bg-cyan-400 animate-ping" />
@@ -638,7 +638,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
         </div>
 
         {/* Card 3: Tomorrow */}
-        <div className="p-5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 relative">
+        <div className="taste-card p-5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 relative shadow-xl">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5 text-xs font-bold text-indigo-300 font-mono">
               <Sparkles className="w-3.5 h-3.5 text-indigo-400" />
@@ -716,12 +716,14 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               <Tooltip 
                 contentStyle={{ 
                   backgroundColor: '#0d1527', 
-                  borderColor: '#1e293b', 
+                  borderColor: '#334155', 
                   borderRadius: '0.75rem',
-                  fontSize: '11px',
+                  fontSize: '12px',
                   color: '#f8fafc',
                   fontFamily: 'JetBrains Mono, monospace'
                 }}
+                labelStyle={{ color: '#ffffff', fontWeight: 700 }}
+                itemStyle={{ color: '#38bdf8' }}
               />
               {/* Vertical NOW reference line */}
               <ReferenceLine 
@@ -794,17 +796,17 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
         </div>
       </div>
 
-      {/* Feature 1: Microclimate Exposure Windows (Safest vs Hazardous Hours) */}
+      {/* Feature 1: Exposure Windows (Safest vs Hazardous Hours) */}
       <div className="p-6 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-4">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-800/80 pb-3">
           <div className="flex items-center gap-2">
             <Clock className="w-4 h-4 text-cyan-400" />
             <h3 className="text-sm font-bold text-white tracking-tight">
-              Microclimate Exposure Windows (Next 24h Diurnal Physics)
+              Best & Worst Hours to Be Outside Tomorrow
             </h3>
           </div>
           <span className="text-[11px] font-mono text-slate-400">
-            Station: <strong className="text-cyan-300">{currentStation.city}</strong> • Calibrated Atmospheric Mixing
+            Station: <strong className="text-cyan-300">{currentStation.city}</strong> • Daily Smog Pattern
           </span>
         </div>
 
@@ -814,10 +816,10 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
             <div className="flex items-center justify-between">
               <span className="flex items-center gap-1.5 font-bold text-emerald-400">
                 <Sun className="w-4 h-4 text-emerald-400" />
-                Optimal Outdoor Window
+                Best Time Outside
               </span>
               <span className="px-2 py-0.5 rounded text-[10px] bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-bold">
-                Safest Air
+                Cleanest Air
               </span>
             </div>
             <div className="text-xl font-black text-white tracking-tight">
@@ -836,10 +838,10 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
             <div className="flex items-center justify-between">
               <span className="flex items-center gap-1.5 font-bold text-rose-400">
                 <Moon className="w-4 h-4 text-rose-400" />
-                Hazardous Inversion Peak
+                Worst Smog Window
               </span>
               <span className="px-2 py-0.5 rounded text-[10px] bg-rose-500/20 text-rose-300 border border-rose-500/30 font-bold">
-                Max Inversion
+                Morning Trap
               </span>
             </div>
             <div className="text-xl font-black text-white tracking-tight">
@@ -858,10 +860,10 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
             <div className="flex items-center justify-between">
               <span className="flex items-center gap-1.5 font-bold text-amber-400">
                 <Wind className="w-4 h-4 text-amber-400" />
-                Evening Commute Caution
+                Evening Traffic Smog
               </span>
               <span className="px-2 py-0.5 rounded text-[10px] bg-amber-500/20 text-amber-300 border border-amber-500/30 font-bold">
-                Re-Accumulation
+                Commute Smoke
               </span>
             </div>
             <div className="text-xl font-black text-white tracking-tight">
@@ -877,13 +879,13 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
         </div>
       </div>
 
-      {/* Feature 2: Personalized Vulnerability Advisory */}
+      {/* Feature 2: Personalized Health Advice */}
       <div className="p-6 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-4">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-800/80 pb-3">
           <div className="flex items-center gap-2">
             <HeartPulse className="w-4 h-4 text-rose-400" />
             <h3 className="text-sm font-bold text-white tracking-tight">
-              Personalized Vulnerability Advisory (Derived from Tomorrow's AI Forecast)
+              Health Advice for Tomorrow's Air
             </h3>
           </div>
           <div className="flex items-center gap-2 text-xs font-mono">
@@ -901,13 +903,13 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               <div className="w-7 h-7 rounded-lg bg-indigo-500/10 border border-indigo-500/30 flex items-center justify-center">
                 <Baby className="w-4 h-4 text-indigo-400" />
               </div>
-              <span>Children & School Cohort</span>
+              <span>Children & Schools</span>
             </div>
             <p className="text-slate-300 leading-relaxed text-[11px] font-sans">
               {healthAdvisory.children}
             </p>
             <div className="text-[10px] font-mono text-slate-500 pt-1 border-t border-slate-800/60">
-              Guidance: Recess timing, physical education & school transit ventilation.
+              Tip: Keep school windows closed during morning drop-off; do PE indoors.
             </div>
           </div>
 
@@ -923,7 +925,7 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               {healthAdvisory.elderly}
             </p>
             <div className="text-[10px] font-mono text-slate-500 pt-1 border-t border-slate-800/60">
-              Guidance: Cardiovascular strain mitigation & morning walk rescheduling.
+              Tip: Avoid morning walks during cold smog; walk in the sunny afternoon instead.
             </div>
           </div>
 
@@ -933,13 +935,13 @@ export default function LivePredictor({ currentStation }: LivePredictorProps) {
               <div className="w-7 h-7 rounded-lg bg-rose-500/10 border border-rose-500/30 flex items-center justify-center">
                 <ShieldAlert className="w-4 h-4 text-rose-400" />
               </div>
-              <span>Asthma & Respiratory Patients</span>
+              <span>Asthma & Breathing Issues</span>
             </div>
             <p className="text-slate-300 leading-relaxed text-[11px] font-sans">
               {healthAdvisory.respiratory}
             </p>
             <div className="text-[10px] font-mono text-slate-500 pt-1 border-t border-slate-800/60">
-              Guidance: Bronchodilator readiness, N95 respirator fit & HEPA filter cycles.
+              Tip: Keep inhalers handy, wear an N95 mask outside, and run room purifiers.
             </div>
           </div>
         </div>
